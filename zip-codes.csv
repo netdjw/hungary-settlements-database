@@ -1,0 +1,3313 @@
+id	name	zip	country_id	country_name	slug	populity	type
+2419	Aba	8127	7	Fejér	aba	4667	Nagyközség
+2420	Aba (Belsőbáránd)	8128	7	Fejér	belsobarand	0	
+1600	Abádszalók	5241	16	Jász-Nagykun-Szolnok	abadszalok	4673	Város
+1102	Abaújalpár	3882	5	Borsod-Abaúj-Zemplén	abaujalpar	86	Község
+1064	Abaújlak	3815	5	Borsod-Abaúj-Zemplén	abaujlak	106	Község
+2966	Abda	9151	8	Győr-Moson-Sopron	abda	3110	Község
+1026	Abod	3753	5	Borsod-Abaúj-Zemplén	abod	229	Község
+578	Abony	2740	13	Pest	abony	15552	Város
+647	Ács	2941	11	Komárom-Esztergom	acs-varos	7215	Város
+552	Acsa	2683	13	Pest	acsa	1485	Nagyközség
+3178	Acsád	9746	18	Vas	acsad	712	Község
+2977	Acsalag	9168	8	Győr-Moson-Sopron	acsalag	492	Község
+631	Ácsteszér	2887	11	Komárom-Esztergom	acsteszer	718	Község
+798	Adács	3292	10	Heves	adacs	2831	község
+2693	Ádánd	8653	14	Somogy	adand	2246	Község
+2642	Adásztevel	8561	19	Veszprém	adasztevel	860	Község
+444	Adony	2457	7	Fejér	adony	3780	Város
+1754	Ágasegyháza	6076	3	Bács-Kiskun	agasegyhaza	1923	Község
+3055	Ágfalva	9423	8	Győr-Moson-Sopron	agfalva	2095	Község
+1032	Aggtelek	3759	5	Borsod-Abaúj-Zemplén	aggtelek	612	Község
+3062	Agyagosszergény	9441	8	Győr-Moson-Sopron	agyagosszergeny	884	Község
+1399	Ajak	4524	15	Szabolcs-Szatmár-Bereg	ajak	3999	Nagyközség
+2548	Ajka	8400	19	Veszprém	ajka	30946	Város
+2583	Ajka (Ajkarendek)	8447	19	Veszprém	ajkarendek	0	
+2584	Ajka (Bakonygyepes)	8448	19	Veszprém	bakonygyepes	0	
+2586	Ajka (Padragkút)	8451	19	Veszprém	padragkut	0	
+622	Aka	2862	11	Komárom-Esztergom	aka	252	Község
+1785	Akasztó	6221	3	Bács-Kiskun	akaszto	3543	Község
+1047	Alacska	3779	5	Borsod-Abaúj-Zemplén	alacska	879	Község
+1943	Alap	7011	7	Fejér	alap	2093	Község
+1586	Alattyán	5142	16	Jász-Nagykun-Szolnok	alattyan	2163	Község
+574	Albertirsa	2730	13	Pest	albertirsa	12426	Város
+2397	Alcsútdoboz	8087	7	Fejér	alcsutdoboz	1490	Község
+833	Aldebrő	3353	10	Heves	aldebro	729	község
+1889	Algyő	6750	6	Csongrád	algyo	5356	Nagyközség
+2339	Almamellék	7934	2	Baranya	almamellek	480	Község
+646	Almásfüzitő	2931	11	Komárom-Esztergom	almasfuzito	0	
+1705	Almáskamarás	5747	4	Békés	almaskamaras	998	Község
+1310	Álmosd	4285	9	Hajdú-Bihar	almosd	1782	Község
+1005	Alsódobsza	3717	5	Borsod-Abaúj-Zemplén	alsodobsza	355	Község
+2095	Alsómocsolád	7345	2	Baranya	alsomocsolad	366	Község
+2017	Alsónána	7147	17	Tolna	alsonana	773	Község
+400	Alsónémedi	2351	13	Pest	alsonemedi	5001	Nagyközség
+2855	Alsónemesapáti	8924	20	Zala	alsonemesapati	740	Község
+2018	Alsónyék	7148	17	Tolna	alsonyek	820	Község
+2465	Alsóörs	8226	19	Veszprém	alsoors	1555	Község
+2547	Alsópáhok	8394	20	Zala	alsopahok	1381	Község
+500	Alsópetény	2617	12	Nógrád	alsopeteny	641	Község
+1944	Alsószentiván	7012	7	Fejér	alsoszentivan	660	Község
+2311	Alsószentmárton	7826	2	Baranya	alsoszentmarton	1200	Község
+692	Alsótold	3069	12	Nógrád	alsotold	263	Község
+3230	Alsóújlak	9842	18	Vas	alsoujlak	650	Község
+1060	Alsóvadász	3811	5	Borsod-Abaúj-Zemplén	alsovadasz	1564	Község
+935	Alsózsolca	3571	5	Borsod-Abaúj-Zemplén	alsozsolca	6003	Város
+1932	Ambrózfalva	6916	6	Csongrád	ambrozfalva	531	Község
+1413	Anarcs	4546	15	Szabolcs-Szatmár-Bereg	anarcs	2043	Község
+2706	Andocs	8675	14	Somogy	andocs	1132	Község
+865	Andornaktálya	3399	10	Heves	andornaktalya	2865	község
+3214	Andrásfa	9811	18	Vas	andrasfa	302	Község
+479	Annavölgy	2529	11	Komárom-Esztergom	annavolgy	974	Község
+1417	Apagy	4553	15	Szabolcs-Szatmár-Bereg	apagy	2372	Község
+398	Apaj	2345	13	Pest	apaj	1262	Község
+1937	Apátfalva	6931	6	Csongrád	apatfalva	3233	Község
+670	Apc	3032	10	Heves	apc	2669	község
+394	Áporka	2338	13	Pest	aporka	1162	Község
+1761	Apostag	6088	3	Bács-Kiskun	apostag	2126	Község
+1442	Aranyosapáti	4634	15	Szabolcs-Szatmár-Bereg	aranyosapati	2062	Község
+1104	Arka	3885	5	Borsod-Abaúj-Zemplén	arka	101	Község
+990	Arló	3663	5	Borsod-Abaúj-Zemplén	arlo	4057	Nagyközség
+1001	Arnót	3713	5	Borsod-Abaúj-Zemplén	arnot	2611	Község
+897	Ároktő	3467	5	Borsod-Abaúj-Zemplén	arokto	1238	Község
+1865	Árpádhalom	6623	6	Csongrád	arpadhalom	557	Község
+2954	Árpás	9132	8	Győr-Moson-Sopron	arpas	264	Község
+1233	Ártánd	4115	9	Hajdú-Bihar	artand	553	Község
+1912	Ásotthalom	6783	6	Csongrád	asotthalom	4103	Község
+2985	Ásványráró	9177	8	Győr-Moson-Sopron	asvanyraro	1995	Község
+1076	Aszaló	3841	5	Borsod-Abaúj-Zemplén	aszalo	1933	Község
+625	Ászár	2881	11	Komárom-Esztergom	aszar	1784	Község
+335	Aszód	2170	13	Pest	aszod	6174	Város
+2473	Aszófő	8241	19	Veszprém	aszofo	432	Község
+843	Átány	3371	10	Heves	atany	1564	község
+758	Atkár	3213	10	Heves	atkar	1781	Község
+2063	Attala	7252	17	Tolna	attala	879	Község
+649	Bábolna	2943	11	Komárom-Esztergom	babolna	3741	Város
+2697	Bábonymegyer	8658	14	Somogy	babonymegyer	870	Község
+3035	Babót	9351	8	Győr-Moson-Sopron	babot	1162	Község
+1833	Bácsalmás	6430	3	Bács-Kiskun	bacsalmas	7348	Város
+1844	Bácsbokod	6453	3	Bács-Kiskun	bacsbokod	3004	Nagyközség
+1845	Bácsborsód	6454	3	Bács-Kiskun	bacsborsod	1274	Község
+1851	Bácsszentgyörgy	6511	3	Bács-Kiskun	bacsszentgyorgy	179	Község
+1832	Bácsszőlős	6425	3	Bács-Kiskun	bacsszolos	397	Község
+2488	Badacsonytomaj	8258	19	Veszprém	badacsonytomaj	2423	Város
+2489	Badacsonytomaj (Badacsony)	8261	19	Veszprém	badacsony	0	
+2487	Badacsonytomaj (Badacsonyörs)	8257	19	Veszprém	badacsonyors	0	
+2491	Badacsonytördemic	8263	19	Veszprém	badacsonytordemic	939	Község
+2490	Badacsonytördemic (Badacsonylábdihegy)	8262	19	Veszprém	badacsonylabdihegy	0	
+346	Bag	2191	13	Pest	bag	3931	nagyközség
+1311	Bagamér	4286	9	Hajdú-Bihar	bagamer	2708	Nagyközség
+2963	Bágyogszovát	9145	8	Győr-Moson-Sopron	bagyogszovat	1363	Község
+608	Baj	2836	11	Komárom-Esztergom	baj	2796	Község
+1848	Baja	6500	3	Bács-Kiskun	baja	37853	Város
+1849	Baja	6501	3	Bács-Kiskun	baja	0	
+1850	Baja (Bajaszentistván)	6503	3	Bács-Kiskun	bajaszentistvan	0	
+475	Bajna	2525	11	Komárom-Esztergom	bajna	2028	Község
+482	Bajót	2533	11	Komárom-Esztergom	bajot	1607	Község
+2865	Bak	8945	20	Zala	bak	1676	Község
+2195	Bakháza	7585	14	Somogy	bakhaza	210	Község
+2115	Bakóca	7393	2	Baranya	bakoca	0	
+1265	Bakonszeg	4164	9	Hajdú-Bihar	bakonszeg	1252	Község
+629	Bakonybánk	2885	11	Komárom-Esztergom	bakonybank	498	Község
+2565	Bakonybél	8427	19	Veszprém	bakonybel	1295	Község
+2383	Bakonycsernye	8056	7	Fejér	bakonycsernye	3186	Község
+2571	Bakonygyirót	8433	19	Veszprém	bakonygyirot	154	Község
+2649	Bakonyjákó	8581	19	Veszprém	bakonyjako	700	Község
+2647	Bakonykoppány	8571	19	Veszprém	bakonykoppany	213	Község
+3299	Bakonykúti	8046	7	Fejér	bakonykuti	0	
+2560	Bakonynána	8422	19	Veszprém	bakonynana	1011	Község
+2557	Bakonyoszlop	8418	19	Veszprém	bakonyoszlop	510	Község
+2930	Bakonypéterd	9088	8	Győr-Moson-Sopron	bakonypeterd	283	Község
+2591	Bakonypölöske	8457	19	Veszprém	bakonypoloske	415	Község
+2640	Bakonyság	8557	19	Veszprém	bakonysag	79	Község
+621	Bakonysárkány	2861	11	Komárom-Esztergom	bakonysarkany	996	Község
+2568	Bakonyszentkirály	8430	19	Veszprém	bakonyszentkiraly	942	Község
+2569	Bakonyszentlászló	8431	19	Veszprém	bakonyszentlaszlo	1935	Község
+628	Bakonyszombathely	2884	11	Komárom-Esztergom	bakonyszombathely	1472	Község
+2648	Bakonyszücs	8572	19	Veszprém	bakonyszucs	370	Község
+2638	Bakonytamási	8555	19	Veszprém	bakonytamasi	731	Község
+1903	Baks	6768	6	Csongrád	baks	2190	Község
+1074	Baktakék	3836	5	Borsod-Abaúj-Zemplén	baktakek	762	Község
+1423	Baktalórántháza	4561	15	Szabolcs-Szatmár-Bereg	baktaloranthaza	3824	Város
+538	Balassagyarmat	2660	12	Nógrád	ipolyszog	16490	Város
+539	Balassagyarmat 1.	2661	12	Nógrád	balassagyarmat	0	
+540	Balassagyarmat 2.	2662	12	Nógrád	balassagyarmat	0	
+1899	Balástya	6764	6	Csongrád	balastya	3554	Község
+827	Balaton	3347	10	Heves	balaton	1197	község
+2475	Balatonakali	8243	19	Veszprém	balatonakali	708	Község
+2446	Balatonaliga (Balatonvilágos)	8171	7	Fejér	balatonvilagos	1389	Község
+2463	Balatonalmádi	8220	19	Veszprém	balatonalmadi	9124	Város
+2690	Balatonberény	8649	14	Somogy	balatonbereny	1224	Község
+2678	Balatonboglár	8630	14	Somogy	balatonboglar	6221	Város
+2712	Balatonboglár (Szőlőskislak)	8691	14	Somogy	szoloskislak	0	
+2679	Balatonboglár 3.	8634	14	Somogy	balatonboglar	0	
+2513	Balatonederics	8312	19	Veszprém	balatonederics	1105	Község
+2665	Balatonendréd	8613	14	Somogy	balatonendred	1412	Község
+2687	Balatonfenyves	8646	14	Somogy	balatonfenyves	2194	Község
+2445	Balatonfőkajár	8164	19	Veszprém	balatonfokajar	1387	Község
+2672	Balatonföldvár	8623	14	Somogy	balatonfoldvar	2338	Város
+2449	Balatonfűzfő	8175	19	Veszprém	balatonfuzfo	0	
+2453	Balatonfűzfő (Fűzfőgyártelep)	8184	19	Veszprém	fuzfogyartelep	4538	Város
+2469	Balatonfüred	8230	19	Veszprém	balatonfured	13679	Város
+2471	Balatonfüred (Balatonarács)	8236	19	Veszprém	balatonaracs	0	
+2470	Balatonfüred 1.	8231	19	Veszprém	balatonfured	0	
+2514	Balatongyörök	8313	20	Zala	balatongyorok	1150	Község
+2498	Balatonhenye	8275	19	Veszprém	balatonhenye	139	Község
+2448	Balatonkenese	8174	19	Veszprém	balatonkenese	3611	Város
+2447	Balatonkenese (Balatonakarattya)	8172	19	Veszprém	balatonakarattya	0	
+3301	Balatonkenese (Üdülőtelep)	8173	19	Veszprém	udulotelep	0	
+2689	Balatonkeresztúr	8648	14	Somogy	balatonkeresztur	1714	Község
+2683	Balatonlelle	8638	14	Somogy	balatonlelle	5184	Város
+2763	Balatonmagyaród	8753	20	Zala	balatonmagyarod	528	Község
+2688	Balatonmáriafürdő	8647	14	Somogy	balatonmariafurdo	0	
+2682	Balatonőszöd	8637	14	Somogy	balatonoszod	0	
+2485	Balatonrendes	8255	19	Veszprém	balatonrendes	156	Község
+2691	Balatonszabadi	8651	14	Somogy	balatonszabadi	3041	Község
+2673	Balatonszárszó	8624	14	Somogy	balatonszarszo	2182	Nagyközség
+2681	Balatonszemes	8636	14	Somogy	balatonszemes	549	Község
+2728	Balatonszentgyörgy	8710	14	Somogy	balatonszentgyorgy	1697	Község
+2482	Balatonszepezd	8252	19	Veszprém	balatonszepezd	437	Község
+3302	Balatonszőlős	8233	19	Veszprém	balatonszolos	0	
+2730	Balatonújlak	8712	14	Somogy	balatonujlak	524	Község
+2382	Balinka	8055	7	Fejér	balinka	1005	Község
+2381	Balinka (Eszény)	8054	7	Fejér	eszeny	0	
+1284	Balkány	4233	15	Szabolcs-Szatmár-Bereg	balkany	6663	Város
+1737	Ballószög	6035	3	Bács-Kiskun	balloszog	3323	Község
+1209	Balmazújváros	4060	9	Hajdú-Bihar	balmazujvaros	18269	Város
+3192	Balogunyom	9771	18	Vas	balogunyom	1253	Község
+1825	Balotaszállás	6412	3	Bács-Kiskun	balotaszallas	1603	Község
+1370	Balsa	4468	15	Szabolcs-Szatmár-Bereg	balsa	856	Község
+2666	Bálványos	8614	14	Somogy	balvanyos	0	
+650	Bana	2944	11	Komárom-Esztergom	bana	1738	Község
+2579	Bánd	8443	19	Veszprém	band	686	Község
+972	Bánhorváti	3642	5	Borsod-Abaúj-Zemplén	banhorvati	1528	Község
+531	Bánk	2653	12	Nógrád	bank	685	Község
+982	Bánréve	3654	5	Borsod-Abaúj-Zemplén	banreve	1437	Község
+2255	Bár	7711	2	Baranya	bar	578	Község
+1512	Barabás	4937	15	Szabolcs-Szatmár-Bereg	barabas	810	Község
+428	Baracs	2426	7	Fejér	baracs	0	
+429	Baracs (Apátszállás)	2427	7	Fejér	apatszallas	3634	Község
+452	Baracska	2471	7	Fejér	baracska	2734	Község
+1262	Báránd	4161	9	Hajdú-Bihar	barand	2831	Község
+2111	Baranyajenő	7384	2	Baranya	baranyajeno	509	Község
+2192	Barcs	7570	14	Somogy	barcs	0	
+2187	Barcs (Somogytarnóca)	7557	14	Somogy	somogytarnoca	0	
+2151	Bárdudvarnok	7478	14	Somogy	bardudvarnok	1186	Község
+2868	Barlahida	8948	20	Zala	barlahida	168	Község
+712	Bárna	3126	12	Nógrád	barna	0	
+627	Bársonyos	2883	11	Komárom-Esztergom	barsonyos	806	Község
+3295	Basal	7923	2	Baranya	basal	0	
+2019	Báta	7149	17	Tolna	bata	1838	Község
+2028	Bátaapáti	7164	17	Tolna	bataapati	429	Község
+2011	Bátaszék	7140	17	Tolna	bataszek	6833	Város
+1860	Bátmonostor	6528	3	Bács-Kiskun	batmonostor	1660	Község
+693	Bátonyterenye	3070	12	Nógrád	batonyterenye	13765	Város
+700	Bátonyterenye (Kisterenye)	3078	12	Nógrád	kisterenye	0	
+694	Bátonyterenye (Nagybátony)	3071	12	Nógrád	nagybatony	0	
+695	Bátonyterenye 2.	3072	12	Nógrád	batonyterenye	0	
+820	Bátor	3336	10	Heves	bator	429	község
+1331	Bátorliget	4343	15	Szabolcs-Szatmár-Bereg	batorliget	698	Község
+1711	Battonya	5830	4	Békés	battonya	6157	Város
+1819	Bátya	6351	3	Bács-Kiskun	batya	2218	Község
+2788	Batyk	8797	20	Zala	batyk	432	Község
+2531	Bazsi	8352	19	Veszprém	bazsi	429	Község
+2646	Béb	8565	19	Veszprém	beb	251	Község
+559	Becske	2693	12	Nógrád	becske	644	Község
+2887	Becsvölgye	8985	20	Zala	becsvolgye	863	Község
+1245	Bedő	4128	9	Hajdú-Bihar	bedo	280	Község
+3151	Bejcgyertyános	9683	18	Vas	bejcgyertyanos	501	Község
+2621	Békás	8515	19	Veszprém	bekas	214	Község
+1118	Bekecs	3903	5	Borsod-Abaúj-Zemplén	bekecs	2642	Község
+1671	Békés	5630	4	Békés	bekes	21209	Város
+1665	Békéscsaba	5600	4	Békés	bekescsaba	0	
+1669	Békéscsaba (Gerla)	5623	4	Békés	gerla	0	
+1683	Békéscsaba (Mezőmegyer)	5671	4	Békés	mezomegyer	0	
+1726	Békéssámson	5946	4	Békés	bekessamson	2557	Község
+1664	Békésszentandrás	5561	4	Békés	bekesszentandras	3908	Nagyközség
+823	Bekölce	3343	10	Heves	bekolce	731	község
+2199	Bélavár	7589	14	Somogy	belavar	420	Község
+1972	Belecska	7061	17	Tolna	belecska	416	Község
+2179	Beleg	7543	14	Somogy	beleg	0	
+2810	Belezna	8855	20	Zala	belezna	814	Község
+1673	Bélmegyer	5643	4	Békés	belmegyer	1129	Község
+442	Beloiannisz	2455	7	Fejér	beloiannisz	1217	Község
+1446	Benk	4643	15	Szabolcs-Szatmár-Bereg	benk	464	Község
+359	Bénye	2216	13	Pest	benye	1238	Község
+679	Bér	3045	12	Nógrád	ber	412	Község
+3223	Bérbaltavár	9831	18	Vas	berbaltavar	567	Község
+555	Bercel	2687	12	Nógrád	bercel	2000	Község
+1509	Beregdaróc	4934	15	Szabolcs-Szatmár-Bereg	beregdaroc	846	Község
+1508	Beregsurány	4933	15	Szabolcs-Szatmár-Bereg	beregsurany	589	Község
+1234	Berekböszörmény	4116	9	Hajdú-Bihar	berekboszormeny	1924	Község
+1605	Berekfürdő	5309	16	Jász-Nagykun-Szolnok	berekfurdo	1158	Község
+997	Berente	3704	5	Borsod-Abaúj-Zemplén	berente	1147	Község
+1073	Beret	3834	5	Borsod-Abaúj-Zemplén	beret	279	Község
+1229	Berettyóújfalu	4100	9	Hajdú-Bihar	berettyoujfalu	15692	Város
+1230	Berettyóújfalu (Berettyószentmárton)	4103	9	Hajdú-Bihar	berettyoszentmarton	0	
+2450	Berhida	8181	19	Veszprém	berhida	6112	Város
+2451	Berhida (Peremartongyártelep)	8182	19	Veszprém	peremartongyartelep	0	
+520	Berkenye	2641	12	Nógrád	berkenye	660	Község
+1396	Berkesz	4521	15	Szabolcs-Szatmár-Bereg	berkesz	846	Község
+518	Bernecebaráti	2639	13	Pest	bernecebarati	920	Község
+939	Berzék	3575	5	Borsod-Abaúj-Zemplén	berzek	1024	Község
+2160	Berzence	7516	14	Somogy	berzence	2643	Nagyközség
+1421	Besenyőd	4557	15	Szabolcs-Szatmár-Bereg	besenyod	721	Község
+845	Besenyőtelek	3373	10	Heves	besenyotelek	2854	község
+1562	Besenyszög	5071	16	Jász-Nagykun-Szolnok	besenyszog	3503	Község
+443	Besnyő	2456	7	Fejér	besnyo	1791	Község
+1382	Beszterec	4488	15	Szabolcs-Szatmár-Bereg	beszterec	1117	Község
+2297	Bezedek	7782	2	Baranya	bezedek	273	Község
+2995	Bezenye	9223	8	Győr-Moson-Sopron	bezenye	1499	Község
+2860	Bezeréd	8934	20	Zala	bezered	0	
+2972	Bezi	9162	8	Győr-Moson-Sopron	bezi	511	Község
+268	Biatorbágy	2051	13	Pest	biatorbagy	11690	Város
+270	Bicske	2060	7	Fejér	bicske	12027	Város
+271	Bicske	2061	7	Fejér	bicske	0	
+1270	Bihardancsháza	4175	9	Hajdú-Bihar	bihardancshaza	201	Község
+1231	Biharkeresztes	4110	9	Hajdú-Bihar	biharkeresztes	4191	Város
+1267	Biharnagybajom	4172	9	Hajdú-Bihar	biharnagybajom	2971	Község
+1269	Bihartorda	4174	9	Hajdú-Bihar	bihartorda	1005	Község
+1656	Biharugra	5538	4	Békés	biharugra	1014	Község
+1963	Bikács	7043	17	Tolna	bikacs	459	Község
+2096	Bikal	7346	2	Baranya	bikal	778	Község
+1286	Biri	4235	15	Szabolcs-Szatmár-Bereg	biri	1424	Község
+2277	Birján	7747	2	Baranya	birjan	452	Község
+841	Boconád	3368	10	Heves	boconad	1431	Község
+1790	Bócsa	6235	3	Bács-Kiskun	bocsa	1880	Község
+1287	Bocskaikert	4241	9	Hajdú-Bihar	bocskaikert	3049	Község
+2240	Boda	7672	2	Baranya	boda	440	Község
+2380	Bodajk	8053	7	Fejér	bodajk	4210	Város
+3300	Bodmér	8080	7	Fejér	bodmer	0	
+2116	Bodolyabér	7394	2	Baranya	bodolyaber	273	Község
+2956	Bodonhely	9134	8	Győr-Moson-Sopron	bodonhely	324	Község
+768	Bodony	3243	10	Heves	bodony	812	község
+2129	Bodrog	7439	14	Somogy	bodrog	0	
+1174	Bodroghalom	3987	5	Borsod-Abaúj-Zemplén	bodroghalom	1499	Község
+1127	Bodrogkeresztúr	3916	5	Borsod-Abaúj-Zemplén	bodrogkeresztur	1236	Község
+1128	Bodrogkisfalud	3917	5	Borsod-Abaúj-Zemplén	bodrogkisfalud	930	Község
+1148	Bodrogolaszi	3943	5	Borsod-Abaúj-Zemplén	bodrogolaszi	1004	Község
+1039	Bódvalenke	3768	5	Borsod-Abaúj-Zemplén	bodvalenke	43	Község
+1036	Bódvarákó	3764	5	Borsod-Abaúj-Zemplén	bodvarako	114	Község
+1035	Bódvaszilas	3763	5	Borsod-Abaúj-Zemplén	bodvaszilas	1172	Község
+868	Bogács	3412	5	Borsod-Abaúj-Zemplén	bogacs	2049	Község
+3291	Bogád	7742	2	Baranya	bogad	0	
+2351	Bogdása	7966	2	Baranya	bogdasa	309	Község
+2006	Bogyiszló	7132	17	Tolna	bogyiszlo	2308	Község
+1232	Bojt	4114	9	Hajdú-Bihar	bojt	579	Község
+2753	Bókaháza	8741	20	Zala	bokahaza	1675	Község
+617	Bokod	2855	11	Komárom-Esztergom	bokod	2267	Község
+664	Boldog	3016	10	Heves	boldog	3082	község
+2342	Boldogasszonyfa	7937	2	Baranya	boldogasszonyfa	470	Község
+1103	Boldogkőújfalu	3884	5	Borsod-Abaúj-Zemplén	boldogkoujfalu	561	Község
+2161	Bolhás	7517	14	Somogy	bolhas	0	
+2196	Bolhó	7586	14	Somogy	bolho	808	Község
+2281	Bóly	7754	2	Baranya	boly	3881	Város
+2077	Bonnya	7281	14	Somogy	bonnya	0	
+2020	Bonyhád	7150	17	Tolna	bonyhad	14136	Város
+2021	Bonyhád	7151	17	Tolna	bonyhad	0	
+2042	Bonyhád (Majos)	7187	17	Tolna	majos	0	
+2022	Bonyhád 3.	7153	17	Tolna	bonyhad	0	
+2023	Bonyhádvarasd	7158	17	Tolna	bonyhadvarasd	471	Község
+1921	Bordány	6795	6	Csongrád	bordany	3171	Község
+3112	Borgáta	9554	18	Vas	borgata	370	Község
+1837	Borota	6445	3	Bács-Kiskun	borota	1457	Község
+986	Borsodbóta	3658	5	Borsod-Abaúj-Zemplén	borsodbota	946	Község
+879	Borsodgeszt	3426	5	Borsod-Abaúj-Zemplén	borsodgeszt	301	Község
+892	Borsodivánka	3462	5	Borsod-Abaúj-Zemplén	borsodivanka	742	Község
+992	Borsodnádasd	3671	5	Borsod-Abaúj-Zemplén	borsodnadasd	3388	Város
+993	Borsodnádasd (Lemezgyár)	3672	5	Borsod-Abaúj-Zemplén	lemezgyar	0	
+964	Borsodszentgyörgy	3623	5	Borsod-Abaúj-Zemplén	borsodszentgyorgy	1281	Község
+1057	Borsodszirák	3796	5	Borsod-Abaúj-Zemplén	borsodszirak	1268	Község
+523	Borsosberény	2644	12	Nógrád	borsosbereny	1013	Község
+2603	Borszörcsök	8479	19	Veszprém	borszorcsok	420	Község
+2566	Borzavár	8428	19	Veszprém	borzavar	756	Község
+1525	Botpalád	4955	15	Szabolcs-Szatmár-Bereg	botpalad	647	Község
+3163	Bozsok	9727	18	Vas	bozsok	331	Község
+938	Bőcs	3574	5	Borsod-Abaúj-Zemplén	bocs	2895	Község
+3147	Bögöte	9675	18	Vas	bogote	323	Község
+2736	Böhönye	8719	14	Somogy	bohonye	2437	Község
+1282	Bököny	4231	15	Szabolcs-Szatmár-Bereg	bokony	3417	Község
+1953	Bölcske	7025	17	Tolna	bolcske	2901	Község
+2922	Bőny	9073	8	Győr-Moson-Sopron	bony	2215	Község
+2967	Börcs	9152	8	Győr-Moson-Sopron	borcs	1269	Község
+2772	Börzönce	8772	20	Zala	borzonce	382	Község
+2976	Bősárkány	9167	8	Győr-Moson-Sopron	bosarkany	2140	Nagyközség
+2148	Bőszénfa	7475	14	Somogy	boszenfa	0	
+1651	Bucsa	5527	4	Békés	bucsa	2481	Község
+3205	Bucsu	9792	18	Vas	bucsu	610	Község
+2837	Bucsuta	8893	20	Zala	bucsuta	228	Község
+291	Budajenő	2093	13	Pest	budajeno	1756	Község
+239	Budakalász	2011	13	Pest	budakalasz	10398	Város
+290	Budakeszi	2092	13	Pest	budakeszi	13900	Város
+261	Budaörs	2040	13	Pest	budaors	27461	Város
+263	Budaörs (Kamaraerdő)	2042	13	Pest	kamaraerdo	0	
+262	Budaörs 1.	2041	13	Pest	budaors	0	
+264	Budaörs 3.	2043	13	Pest	budaors	0	
+1	Budapest	1000	1	Budapest	budapest	0	Fővárosi kerület
+2	Budapest	1001	1	Budapest	budapest	0	Fővárosi kerület
+3	Budapest	1011	1	Budapest, I. ker.	budapest	0	Fővárosi kerület
+4	Budapest	1012	1	Budapest, I. ker.	budapest	0	Fővárosi kerület
+5	Budapest	1013	1	Budapest, I. ker.	budapest	0	Fővárosi kerület
+6	Budapest	1014	1	Budapest, I. ker.	budapest	26380	Fővárosi kerület
+7	Budapest	1015	1	Budapest, I. ker.	budapest	0	Fővárosi kerület
+8	Budapest	1016	1	Budapest, I. ker.	budapest	0	Fővárosi kerület
+9	Budapest	1021	1	Budapest, II. ker.	budapest	0	Fővárosi kerület
+10	Budapest	1022	1	Budapest, II. ker.	budapest	0	Fővárosi kerület
+11	Budapest	1023	1	Budapest, II. ker.	budapest	0	Fővárosi kerület
+12	Budapest	1024	1	Budapest, II. ker.	budapest	86865	Fővárosi kerület
+13	Budapest	1025	1	Budapest, II. ker.	budapest	0	Fővárosi kerület
+14	Budapest	1026	1	Budapest, II. ker.	budapest	0	Fővárosi kerület
+15	Budapest	1027	1	Budapest, II. ker.	budapest	0	Fővárosi kerület
+16	Budapest	1028	1	Budapest, II. ker.	budapest	0	Fővárosi kerület
+17	Budapest	1029	1	Budapest, II. ker.	budapest	0	Fővárosi kerület
+18	Budapest	1031	1	Budapest, III. ker.	budapest	0	Fővárosi kerület
+19	Budapest	1032	1	Budapest, III. ker.	budapest	0	Fővárosi kerület
+20	Budapest	1033	1	Budapest, III. ker.	budapest	0	Fővárosi kerület
+21	Budapest	1034	1	Budapest, III. ker.	budapest	0	Fővárosi kerület
+22	Budapest	1035	1	Budapest, III. ker.	budapest	125194	Fővárosi kerület
+23	Budapest	1036	1	Budapest, III. ker.	budapest	0	Fővárosi kerület
+24	Budapest	1037	1	Budapest, III. ker.	budapest	0	Fővárosi kerület
+25	Budapest	1038	1	Budapest, III. ker.	budapest	0	Fővárosi kerület
+26	Budapest	1039	1	Budapest, III. ker.	budapest	0	Fővárosi kerület
+27	Budapest	1041	1	Budapest, IV. ker.	budapest	100453	Fővárosi kerület
+28	Budapest	1042	1	Budapest, IV. ker.	budapest	0	Fővárosi kerület
+29	Budapest	1043	1	Budapest, IV. ker.	budapest	0	Fővárosi kerület
+30	Budapest	1044	1	Budapest, IV. ker.	budapest	0	Fővárosi kerület
+31	Budapest	1045	1	Budapest, IV. ker.	budapest	0	Fővárosi kerület
+32	Budapest	1046	1	Budapest, IV. ker.	budapest	0	Fővárosi kerület
+33	Budapest	1047	1	Budapest, IV. ker.	budapest	0	Fővárosi kerület
+34	Budapest	1048	1	Budapest, IV. ker.	budapest	0	Fővárosi kerület
+35	Budapest	1051	1	Budapest, V. ker.	budapest	26973	Fővárosi kerület
+36	Budapest	1052	1	Budapest, V. ker.	budapest	0	Fővárosi kerület
+37	Budapest	1053	1	Budapest, V. ker.	budapest	0	Fővárosi kerület
+38	Budapest	1054	1	Budapest, V. ker.	budapest	0	Fővárosi kerület
+39	Budapest	1055	1	Budapest, V. ker.	budapest	0	Fővárosi kerület
+40	Budapest	1056	1	Budapest, V. ker.	budapest	0	Fővárosi kerület
+41	Budapest	1061	1	Budapest, VI. ker.	budapest	0	Fővárosi kerület
+42	Budapest	1062	1	Budapest, VI. ker.	budapest	0	Fővárosi kerület
+43	Budapest	1063	1	Budapest, VI. ker.	budapest	0	Fővárosi kerület
+44	Budapest	1064	1	Budapest, VI. ker.	budapest	0	Fővárosi kerület
+45	Budapest	1065	1	Budapest, VI. ker.	budapest	0	Fővárosi kerület
+46	Budapest	1066	1	Budapest, VI. ker.	budapest	0	Fővárosi kerület
+47	Budapest	1067	1	Budapest, VI. ker.	budapest	37539	Fővárosi kerület
+48	Budapest	1068	1	Budapest, VI. ker.	budapest	0	Fővárosi kerület
+49	Budapest	1071	1	Budapest, VII. ker.	budapest	0	Fővárosi kerület
+50	Budapest	1072	1	Budapest, VII. ker.	budapest	0	Fővárosi kerület
+51	Budapest	1073	1	Budapest, VII. ker.	budapest	56857	Fővárosi kerület
+52	Budapest	1074	1	Budapest, VII. ker.	budapest	0	Fővárosi kerület
+53	Budapest	1075	1	Budapest, VII. ker.	budapest	0	Fővárosi kerület
+54	Budapest	1076	1	Budapest, VII. ker.	budapest	0	Fővárosi kerület
+55	Budapest	1077	1	Budapest, VII. ker.	budapest	0	Fővárosi kerület
+56	Budapest	1078	1	Budapest, VII. ker.	budapest	0	Fővárosi kerület
+57	Budapest	1081	1	Budapest, VIII. ker.	budapest	0	Fővárosi kerület
+58	Budapest	1082	1	Budapest, VIII. ker.	budapest	72179	Fővárosi kerület
+59	Budapest	1083	1	Budapest, VIII. ker.	budapest	0	Fővárosi kerület
+60	Budapest	1084	1	Budapest, VIII. ker.	budapest	0	Fővárosi kerület
+61	Budapest	1085	1	Budapest, VIII. ker.	budapest	0	Fővárosi kerület
+62	Budapest	1086	1	Budapest, VIII. ker.	budapest	0	Fővárosi kerület
+63	Budapest	1087	1	Budapest, VIII. ker.	budapest	0	Fővárosi kerület
+64	Budapest	1088	1	Budapest, VIII. ker.	budapest	0	Fővárosi kerület
+65	Budapest	1089	1	Budapest, VIII. ker.	budapest	0	Fővárosi kerület
+66	Budapest	1091	1	Budapest, IX. ker.	budapest	0	Fővárosi kerület
+67	Budapest	1092	1	Budapest, IX. ker.	budapest	56091	Fővárosi kerület
+68	Budapest	1093	1	Budapest, IX. ker.	budapest	0	Fővárosi kerület
+69	Budapest	1094	1	Budapest, IX. ker.	budapest	0	Fővárosi kerület
+70	Budapest	1095	1	Budapest, IX. ker.	budapest	0	Fővárosi kerület
+71	Budapest	1096	1	Budapest, IX. ker.	budapest	0	Fővárosi kerület
+72	Budapest	1097	1	Budapest, IX. ker.	budapest	0	Fővárosi kerület
+73	Budapest	1098	1	Budapest, IX. ker.	budapest	0	Fővárosi kerület
+74	Budapest	1101	1	Budapest, X. ker.	budapest	0	Fővárosi kerület
+75	Budapest	1102	1	Budapest, X. ker.	budapest	75760	Fővárosi kerület
+76	Budapest	1103	1	Budapest, X. ker.	budapest	0	Fővárosi kerület
+77	Budapest	1104	1	Budapest, X. ker.	budapest	0	Fővárosi kerület
+78	Budapest	1105	1	Budapest, X. ker.	budapest	0	Fővárosi kerület
+79	Budapest	1106	1	Budapest, X. ker.	budapest	0	Fővárosi kerület
+80	Budapest	1107	1	Budapest, X. ker.	budapest	0	Fővárosi kerület
+81	Budapest	1108	1	Budapest, X. ker.	budapest	0	Fővárosi kerület
+82	Budapest	1111	1	Budapest, XI. ker.	budapest	0	Fővárosi kerület
+83	Budapest	1112	1	Budapest, XI. ker.	budapest	0	Fővárosi kerület
+84	Budapest	1113	1	Budapest, XI. ker.	budapest	131599	Fővárosi kerület
+85	Budapest	1114	1	Budapest, XI. ker.	budapest	0	Fővárosi kerület
+86	Budapest	1115	1	Budapest, XI. ker.	budapest	0	Fővárosi kerület
+87	Budapest	1116	1	Budapest, XI. ker.	budapest	0	Fővárosi kerület
+88	Budapest	1117	1	Budapest, XI. ker.	budapest	0	Fővárosi kerület
+89	Budapest	1118	1	Budapest, XI. ker.	budapest	0	Fővárosi kerület
+90	Budapest	1119	1	Budapest, XI. ker.	budapest	0	Fővárosi kerület
+91	Budapest	1121	1	Budapest, XII. ker.	budapest	0	Fővárosi kerület
+92	Budapest	1122	1	Budapest, XII. ker.	budapest	0	Fővárosi kerület
+93	Budapest	1123	1	Budapest, XII. ker.	budapest	0	Fővárosi kerület
+94	Budapest	1124	1	Budapest, XII. ker.	budapest	0	Fővárosi kerület
+95	Budapest	1125	1	Budapest, XII. ker.	budapest	0	Fővárosi kerület
+96	Budapest	1126	1	Budapest, XII. ker.	budapest	59402	Fővárosi kerület
+97	Budapest	1131	1	Budapest, XIII. ker.	budapest	0	Fővárosi kerület
+98	Budapest	1132	1	Budapest, XIII. ker.	budapest	0	Fővárosi kerület
+99	Budapest	1133	1	Budapest, XIII. ker.	budapest	0	Fővárosi kerület
+100	Budapest	1134	1	Budapest, XIII. ker.	budapest	0	Fővárosi kerület
+101	Budapest	1135	1	Budapest, XIII. ker.	budapest	0	Fővárosi kerület
+102	Budapest	1136	1	Budapest, XIII. ker.	budapest	0	Fővárosi kerület
+103	Budapest	1137	1	Budapest, XIII. ker.	budapest	0	Fővárosi kerület
+104	Budapest	1138	1	Budapest, XIII. ker.	budapest	0	Fővárosi kerület
+105	Budapest	1139	1	Budapest, XIII. ker.	budapest	107769	Fővárosi kerület
+106	Budapest	1141	1	Budapest, XIV. ker.	budapest	0	Fővárosi kerület
+107	Budapest	1142	1	Budapest, XIV. ker.	budapest	0	Fővárosi kerület
+108	Budapest	1143	1	Budapest, XIV. ker.	budapest	0	Fővárosi kerület
+109	Budapest	1144	1	Budapest, XIV. ker.	budapest	0	Fővárosi kerület
+110	Budapest	1145	1	Budapest, XIV. ker.	budapest	114142	Fővárosi kerület
+111	Budapest	1146	1	Budapest, XIV. ker.	budapest	0	Fővárosi kerület
+112	Budapest	1147	1	Budapest, XIV. ker.	budapest	0	Fővárosi kerület
+113	Budapest	1148	1	Budapest, XIV. ker.	budapest	0	Fővárosi kerület
+114	Budapest	1149	1	Budapest, XIV. ker.	budapest	0	Fővárosi kerület
+115	Budapest	1151	1	Budapest, XV. ker.	budapest	0	Fővárosi kerület
+116	Budapest	1152	1	Budapest, XV. ker.	budapest	0	Fővárosi kerület
+117	Budapest	1153	1	Budapest, XV. ker.	budapest	82285	Fővárosi kerület
+118	Budapest	1154	1	Budapest, XV. ker.	budapest	0	Fővárosi kerület
+119	Budapest	1155	1	Budapest, XV. ker.	budapest	0	Fővárosi kerület
+120	Budapest	1156	1	Budapest, XV. ker.	budapest	0	Fővárosi kerület
+121	Budapest	1157	1	Budapest, XV. ker.	budapest	0	Fővárosi kerület
+122	Budapest	1158	1	Budapest, XV. ker.	budapest	0	Fővárosi kerület
+123	Budapest	1161	1	Budapest, XVI. ker.	budapest	0	Fővárosi kerület
+124	Budapest	1162	1	Budapest, XVI. ker.	budapest	0	Fővárosi kerület
+125	Budapest	1163	1	Budapest, XVI. ker.	budapest	71809	Fővárosi kerület
+126	Budapest	1164	1	Budapest, XVI. ker.	budapest	0	Fővárosi kerület
+127	Budapest	1165	1	Budapest, XVI. ker.	budapest	0	Fővárosi kerület
+128	Budapest	1171	1	Budapest, XVII. ker.	budapest	0	Fővárosi kerület
+129	Budapest	1172	1	Budapest, XVII. ker.	budapest	0	Fővárosi kerület
+130	Budapest	1173	1	Budapest, XVII. ker.	budapest	85684	Fővárosi kerület
+131	Budapest	1174	1	Budapest, XVII. ker.	budapest	0	Fővárosi kerület
+132	Budapest	1181	1	Budapest, XVIII. ker.	budapest	0	Fővárosi kerület
+133	Budapest	1182	1	Budapest, XVIII. ker.	budapest	0	Fővárosi kerület
+134	Budapest	1183	1	Budapest, XVIII. ker.	budapest	0	Fővárosi kerület
+135	Budapest	1184	1	Budapest, XVIII. ker.	budapest	99266	Fővárosi kerület
+136	Budapest	1185	1	Budapest, XVIII. ker.	budapest	0	Fővárosi kerület
+137	Budapest	1186	1	Budapest, XVIII. ker.	budapest	0	Fővárosi kerület
+138	Budapest	1188	1	Budapest, XVIII. ker.	budapest	0	Fővárosi kerület
+139	Budapest	1191	1	Budapest, XIX. ker.	budapest	0	Fővárosi kerület
+140	Budapest	1192	1	Budapest, XIX. ker.	budapest	0	Fővárosi kerület
+141	Budapest	1193	1	Budapest, XIX. ker.	budapest	0	Fővárosi kerület
+142	Budapest	1194	1	Budapest, XIX. ker.	budapest	0	Fővárosi kerület
+143	Budapest	1195	1	Budapest, XIX. ker.	budapest	60578	Fővárosi kerület
+144	Budapest	1196	1	Budapest, XIX. ker.	budapest	0	Fővárosi kerület
+145	Budapest	1201	1	Budapest, XX. ker.	budapest	65131	Fővárosi kerület
+146	Budapest	1202	1	Budapest, XX. ker.	budapest	0	Fővárosi kerület
+147	Budapest	1203	1	Budapest, XX. ker.	budapest	0	Fővárosi kerület
+148	Budapest	1204	1	Budapest, XX. ker.	budapest	0	Fővárosi kerület
+149	Budapest	1205	1	Budapest, XX. ker.	budapest	0	Fővárosi kerület
+150	Budapest	1209	1	Budapest, XX. ker.	budapest	0	Fővárosi kerület
+151	Budapest	1211	1	Budapest, XXI. ker.	budapest	77700	Fővárosi kerület
+152	Budapest	1212	1	Budapest, XXI. ker.	budapest	0	Fővárosi kerület
+153	Budapest	1213	1	Budapest, XXI. ker.	budapest	0	Fővárosi kerület
+154	Budapest	1214	1	Budapest, XXI. ker.	budapest	0	Fővárosi kerület
+155	Budapest	1215	1	Budapest, XXI. ker.	budapest	0	Fővárosi kerület
+156	Budapest	1221	1	Budapest, XXII. ker.	budapest	53380	Fővárosi kerület
+157	Budapest	1222	1	Budapest, XXII. ker.	budapest	0	Fővárosi kerület
+158	Budapest	1223	1	Budapest, XXII. ker.	budapest	0	Fővárosi kerület
+159	Budapest	1224	1	Budapest, XXII. ker.	budapest	0	Fővárosi kerület
+160	Budapest	1225	1	Budapest, XXII. ker.	budapest	0	Fővárosi kerület
+161	Budapest	1237	1	Budapest, XXIII. ker.	budapest	0	Fővárosi kerület
+162	Budapest	1238	1	Budapest, XXIII. ker.	budapest	0	Fővárosi kerület
+163	Budapest	1239	1	Budapest, XXIII. ker.	budapest	21987	Fővárosi kerület
+164	Budapest	1250	1	Budapest	budapest	0	Fővárosi kerület
+165	Budapest	1251	1	Budapest	budapest	0	Fővárosi kerület
+166	Budapest	1253	1	Budapest	budapest	0	Fővárosi kerület
+167	Budapest	1258	1	Budapest	budapest	0	Fővárosi kerület
+168	Budapest	1277	1	Budapest	budapest	0	Fővárosi kerület
+169	Budapest	1281	1	Budapest	budapest	0	Fővárosi kerület
+170	Budapest	1286	1	Budapest	budapest	0	Fővárosi kerület
+171	Budapest	1300	1	Budapest	budapest	0	Fővárosi kerület
+172	Budapest	1301	1	Budapest	budapest	0	Fővárosi kerület
+173	Budapest	1311	1	Budapest	budapest	0	Fővárosi kerület
+174	Budapest	1325	1	Budapest	budapest	0	Fővárosi kerület
+175	Budapest	1327	1	Budapest	budapest	0	Fővárosi kerület
+176	Budapest	1328	1	Budapest	budapest	0	Fővárosi kerület
+177	Budapest	1330	1	Budapest	budapest	0	Fővárosi kerület
+178	Budapest	1350	1	Budapest	budapest	0	Fővárosi kerület
+179	Budapest	1354	1	Budapest	budapest	0	Fővárosi kerület
+180	Budapest	1355	1	Budapest	budapest	0	Fővárosi kerület
+181	Budapest	1357	1	Budapest	budapest	0	Fővárosi kerület
+182	Budapest	1358	1	Budapest	budapest	0	Fővárosi kerület
+183	Budapest	1360	1	Budapest	budapest	0	Fővárosi kerület
+184	Budapest	1363	1	Budapest	budapest	0	Fővárosi kerület
+185	Budapest	1364	1	Budapest	budapest	0	Fővárosi kerület
+186	Budapest	1365	1	Budapest	budapest	0	Fővárosi kerület
+187	Budapest	1376	1	Budapest	budapest	0	Fővárosi kerület
+188	Budapest	1378	1	Budapest	budapest	0	Fővárosi kerület
+189	Budapest	1400	1	Budapest	budapest	0	Fővárosi kerület
+190	Budapest	1406	1	Budapest	budapest	0	Fővárosi kerület
+191	Budapest	1425	1	Budapest	budapest	0	Fővárosi kerület
+192	Budapest	1426	1	Budapest	budapest	0	Fővárosi kerület
+193	Budapest	1428	1	Budapest	budapest	0	Fővárosi kerület
+194	Budapest	1430	1	Budapest	budapest	0	Fővárosi kerület
+195	Budapest	1450	1	Budapest	budapest	0	Fővárosi kerület
+196	Budapest	1453	1	Budapest	budapest	0	Fővárosi kerület
+197	Budapest	1455	1	Budapest	budapest	0	Fővárosi kerület
+198	Budapest	1456	1	Budapest	budapest	0	Fővárosi kerület
+199	Budapest	1461	1	Budapest	budapest	0	Fővárosi kerület
+200	Budapest	1475	1	Budapest	budapest	0	Fővárosi kerület
+201	Budapest	1476	1	Budapest	budapest	0	Fővárosi kerület
+202	Budapest	1502	1	Budapest	budapest	0	Fővárosi kerület
+203	Budapest	1506	1	Budapest	budapest	0	Fővárosi kerület
+204	Budapest	1507	1	Budapest	budapest	0	Fővárosi kerület
+205	Budapest	1509	1	Budapest	budapest	0	Fővárosi kerület
+206	Budapest	1511	1	Budapest	budapest	0	Fővárosi kerület
+207	Budapest	1525	1	Budapest	budapest	0	Fővárosi kerület
+208	Budapest	1528	1	Budapest	budapest	0	Fővárosi kerület
+209	Budapest	1529	1	Budapest	budapest	0	Fővárosi kerület
+210	Budapest	1540	1	Budapest	budapest	0	Fővárosi kerület
+211	Budapest	1553	1	Budapest	budapest	0	Fővárosi kerület
+212	Budapest	1554	1	Budapest	budapest	0	Fővárosi kerület
+213	Budapest	1555	1	Budapest	budapest	0	Fővárosi kerület
+214	Budapest	1557	1	Budapest	budapest	0	Fővárosi kerület
+215	Budapest	1558	1	Budapest	budapest	0	Fővárosi kerület
+216	Budapest	1576	1	Budapest	budapest	0	Fővárosi kerület
+217	Budapest	1581	1	Budapest	budapest	0	Fővárosi kerület
+218	Budapest	1601	1	Budapest	budapest	0	Fővárosi kerület
+219	Budapest	1625	1	Budapest	budapest	0	Fővárosi kerület
+220	Budapest	1630	1	Budapest	budapest	0	Fővárosi kerület
+221	Budapest	1631	1	Budapest	budapest	0	Fővárosi kerület
+222	Budapest	1656	1	Budapest	budapest	0	Fővárosi kerület
+223	Budapest	1675	1	Budapest	budapest	0	Fővárosi kerület
+224	Budapest	1676	1	Budapest	budapest	0	Fővárosi kerület
+225	Budapest	1680	1	Budapest	budapest	0	Fővárosi kerület
+226	Budapest	1683	1	Budapest	budapest	0	Fővárosi kerület
+227	Budapest	1701	1	Budapest	budapest	0	Fővárosi kerület
+228	Budapest	1725	1	Budapest	budapest	0	Fővárosi kerület
+229	Budapest	1734	1	Budapest	budapest	0	Fővárosi kerület
+230	Budapest	1751	1	Budapest	budapest	0	Fővárosi kerület
+231	Budapest	1752	1	Budapest	budapest	0	Fővárosi kerület
+232	Budapest	1775	1	Budapest	budapest	0	Fővárosi kerület
+233	Budapest	1780	1	Budapest	budapest	0	Fővárosi kerület
+234	Budapest	1821	1	Budapest	budapest	0	Fővárosi kerület
+235	Budapest	1850	1	Budapest	budapest	0	Fõvárosi kerület
+1771	Bugacpusztaháza	6114	3	Bács-Kiskun	bugacpusztahaza	2862	Nagyközség
+399	Bugyi	2347	13	Pest	bugyi	5289	Nagyközség
+1377	Buj	4483	15	Szabolcs-Szatmár-Bereg	buj	2369	Község
+681	Buják	3047	12	Nógrád	bujak	2238	Község
+2716	Buzsák	8695	14	Somogy	buzsak	1479	Község
+3169	Bük	9737	18	Vas	buk	3329	Város
+3172	Bük (Bükfürdő)	9740	18	Vas	bukfurdo	0	
+875	Bükkábrány	3422	5	Borsod-Abaúj-Zemplén	bukkabrany	1719	Község
+925	Bükkaranyos	3554	5	Borsod-Abaúj-Zemplén	bukkaranyos	1549	Község
+2246	Bükkösd	7682	2	Baranya	bukkosd	1208	Község
+819	Bükkszék	3335	10	Heves	bukkszek	784	község
+780	Bükkszenterzsébet	3257	10	Heves	bukkszenterzsebet	1192	község
+928	Bükkszentkereszt	3557	5	Borsod-Abaúj-Zemplén	bukkszentkereszt	1233	Község
+826	Bükkszentmárton	3346	10	Heves	bukkszentmarton	3356	város
+870	Bükkzsérc	3414	5	Borsod-Abaúj-Zemplén	bukkzserc	1057	Község
+2072	Büssü	7273	14	Somogy	bussu	0	
+1945	Cece	7013	7	Fejér	cece	2705	Nagyközség
+1455	Cégénydányád	4732	15	Szabolcs-Szatmár-Bereg	cegenydanyad	698	Község
+565	Cegléd	2700	13	Pest	cegled	38105	Város
+3274	Cegléd (Budai út)	2738	13	Pest	budai ut	0	
+566	Cegléd 2.	2702	13	Pest	cegled	0	
+567	Cegléd 3.	2703	13	Pest	cegled	0	
+577	Ceglédbercel	2737	13	Pest	cegledbercel	4436	Község
+3087	Celldömölk	9500	18	Vas	celldomolk	11692	Város
+3102	Celldömölk (Izsákfa)	9541	18	Vas	izsakfa	0	
+709	Cered	3123	12	Nógrád	cered	1242	Község
+3124	Chernelházadamonya	9624	18	Vas	chernelhazadamonya	221	Község
+1634	Cibakháza	5462	16	Jász-Nagykun-Szolnok	cibakhaza	4437	Nagyközség
+1167	Cigánd	3973	5	Borsod-Abaúj-Zemplén	cigand	3277	Város
+2025	Cikó	7161	17	Tolna	ciko	985	Község
+3042	Cirák	9364	8	Győr-Moson-Sopron	cirak	585	Község
+1659	Csabacsűd	5551	4	Békés	csabacsud	1994	Nagyközség
+1666	Csabaszabadi	5609	4	Békés	csabaszabadi	372	Község
+273	Csabdi	2064	7	Fejér	csabdi	1227	Község
+2598	Csabrendek	8474	19	Veszprém	csabrendek	3159	Község
+1533	Csaholc	4967	15	Szabolcs-Szatmár-Bereg	csaholc	518	Község
+2444	Csajág	8163	19	Veszprém	csajag	892	Község
+2748	Csákány	8735	14	Somogy	csakany	0	
+3239	Csákánydoroszló	9919	18	Vas	csakanydoroszlo	1808	Község
+2389	Csákberény	8073	7	Fejér	csakbereny	1226	Község
+2393	Csákvár	8083	7	Fejér	csakvar	5275	Nagyközség
+2394	Csákvár	8084	7	Fejér	csakvar	0	
+1931	Csanádalberti	6915	6	Csongrád	csanadalberti	477	Község
+1676	Csanádapáca	5662	4	Békés	csanadapaca	2801	Község
+1929	Csanádpalota	6913	6	Csongrád	csanadpalota	3144	Város
+3137	Csánig	9654	18	Vas	csanig	386	Község
+663	Csány	3015	10	Heves	csany	2342	község
+2350	Csányoszró	7964	2	Baranya	csanyoszro	135	Község
+1874	Csanytelek	6647	6	Csongrád	csanytelek	2996	Község
+3045	Csapod	9372	8	Győr-Moson-Sopron	csapod	549	Község
+1667	Csárdaszállás	5621	4	Békés	csardaszallas	497	Község
+1497	Csaroda	4844	15	Szabolcs-Szatmár-Bereg	csaroda	590	Község
+619	Császár	2858	11	Komárom-Esztergom	csaszar	1865	Község
+1794	Császártöltés	6239	3	Bács-Kiskun	csaszartoltes	2603	Község
+1538	Császló	4973	15	Szabolcs-Szatmár-Bereg	csaszlo	379	Község
+1856	Csátalja	6523	3	Bács-Kiskun	csatalja	1618	Község
+2863	Csatár	8943	20	Zala	csatar	1152	Község
+1560	Csataszög	5064	16	Jász-Nagykun-Szolnok	csataszog	355	Község
+632	Csatka	2888	11	Komárom-Esztergom	csatka	284	Község
+1840	Csávoly	6448	3	Bács-Kiskun	csavoly	2010	Község
+683	Csécse	3052	12	Nógrád	csecse	949	Község
+1461	Csegöld	4742	15	Szabolcs-Szatmár-Bereg	csegold	675	Község
+2581	Csehbánya	8445	19	Veszprém	csehbanya	285	Község
+3225	Csehi	9833	18	Vas	csehi	276	Község
+3226	Csehimindszent	9834	18	Vas	csehimindszent	398	Község
+655	Csém	2949	11	Komárom-Esztergom	csem	485	Község
+570	Csemő	2713	13	Pest	csemo	4413	Község
+3190	Csempeszkopács	9764	18	Vas	csempeszkopacs	329	Község
+1900	Csengele	6765	6	Csongrád	csengele	2070	Község
+1462	Csengersima	4743	15	Szabolcs-Szatmár-Bereg	csengersima	736	Község
+1473	Csengerújfalu	4764	15	Szabolcs-Szatmár-Bereg	csengerujfalu	854	Község
+1786	Csengőd	6222	3	Bács-Kiskun	csengod	2284	Község
+3119	Csénye	9611	18	Vas	csenye	687	Község
+652	Csép	2946	11	Komárom-Esztergom	csep	392	Község
+1641	Csépa	5475	16	Jász-Nagykun-Szolnok	csepa	1896	Község
+3167	Csepreg	9735	18	Vas	csepreg	3303	Város
+3048	Csér	9375	8	Győr-Moson-Sopron	cser	228	Község
+2145	Cserénfa	7472	14	Somogy	cserenfa	237	Község
+869	Cserépfalu	3413	5	Borsod-Abaúj-Zemplén	cserepfalu	1051	Község
+872	Cserépváralja	3417	5	Borsod-Abaúj-Zemplén	cserepvaralja	480	Község
+547	Cserhátsurány	2676	12	Nógrád	cserhatsurany	859	Község
+1637	Cserkeszőlő	5465	16	Jász-Nagykun-Szolnok	cserkeszolo	2275	Község
+2241	Cserkút	7673	2	Baranya	cserkut	540	Község
+2541	Cserszegtomaj	8372	20	Zala	cserszegtomaj	2676	Község
+2870	Csertalakos	8951	20	Zala	csertalakos	39	Község
+2327	Csertő	7900	2	Baranya	cserto	366	Község
+2558	Csesznek	8419	19	Veszprém	csesznek	579	Község
+549	Csesztve	2678	12	Nógrád	csesztve	340	Község
+2556	Csetény	8417	19	Veszprém	cseteny	1969	Község
+355	Csévharaszt	2212	13	Pest	csevharaszt	1990	Község
+2058	Csibrák	7225	17	Tolna	csibrak	351	Község
+1831	Csikéria	6424	3	Bács-Kiskun	csikeria	933	Község
+2091	Csikóstőttős	7341	17	Tolna	csikostottos	894	Község
+2952	Csikvánd	9127	8	Győr-Moson-Sopron	csikvand	532	Község
+885	Csincse	3442	5	Borsod-Abaúj-Zemplén	csincse	592	Község
+3228	Csipkerek	9836	18	Vas	csipkerek	394	Község
+545	Csitár	2673	12	Nógrád	csitar	450	Község
+1082	Csobád	3848	5	Borsod-Abaúj-Zemplén	csobad	718	Község
+1136	Csobaj	3927	5	Borsod-Abaúj-Zemplén	csobaj	764	Község
+241	Csobánka	2014	13	Pest	csobanka	3177	Község
+2390	Csókakő	8074	7	Fejér	csokako	1343	Község
+2185	Csokonyavisonta	7555	14	Somogy	csokonyavisonta	1594	Község
+977	Csokvaomány	3647	5	Borsod-Abaúj-Zemplén	csokvaomany	938	Község
+471	Csolnok	2521	11	Komárom-Esztergom	csolnok	3451	Község
+1779	Csólyospálos	6135	3	Bács-Kiskun	csolyospalos	1723	Község
+328	Csomád	2161	13	Pest	csomad	1347	Község
+2125	Csombárd	7432	14	Somogy	csombard	288	Község
+1871	Csongrád	6640	6	Csongrád	csongrad	18108	Város
+1875	Csongrád (Bokros)	6648	6	Csongrád	bokros	0	
+2373	Csór	8041	7	Fejér	csor	1805	Község
+3010	Csorna	9300	8	Győr-Moson-Sopron	csorna	10726	Város
+3011	Csorna 1.	9301	8	Győr-Moson-Sopron	csorna	0	
+1720	Csorvás	5920	4	Békés	csorvas	5515	Város
+2641	Csót	8558	19	Veszprém	csot	1090	Község
+2897	Csöde	8999	20	Zala	csode	84	Község
+2613	Csögle	8495	19	Veszprém	csogle	710	Község
+1258	Csökmő	4145	9	Hajdú-Bihar	csokmo	2085	Nagyközség
+2167	Csököly	7526	14	Somogy	csokoly	1133	Község
+319	Csömör	2141	13	Pest	csomor	8618	Nagyközség
+3090	Csönge	9513	18	Vas	csonge	0	
+2822	Csörnyeföld	8873	20	Zala	csornyefold	456	Község
+3271	Csörög	2135	13	Pest	csorog	0	
+2414	Csősz	8122	7	Fejér	csosz	1099	Község
+498	Csővár	2615	13	Pest	csovar	646	Község
+2805	Csurgónagymarton	8840	14	Somogy	csurgonagymarton	5524	Város
+407	Dabas	2370	13	Pest	dabas	16567	Város
+409	Dabas (Gyón)	2373	13	Pest	gyon	0	
+408	Dabas (Sári)	2371	13	Pest	sari	0	
+2525	Dabronc	8345	19	Veszprém	dabronc	523	Község
+2608	Dabrony	8485	19	Veszprém	dabrony	426	Község
+616	Dad	2854	11	Komárom-Esztergom	dad	1077	Község
+472	Dág	2522	11	Komárom-Esztergom	dag	971	Község
+2652	Dáka	8592	19	Veszprém	daka	672	Község
+2052	Dalmand	7211	17	Tolna	dalmand	1397	Község
+1171	Dámóc	3978	5	Borsod-Abaúj-Zemplén	damoc	417	Község
+575	Dánszentmiklós	2735	13	Pest	danszentmiklos	3002	Község
+309	Dány	2118	13	Pest	dany	4445	Község
+3237	Daraboshegy	9917	18	Vas	daraboshegy	93	Község
+2364	Darány	7988	14	Somogy	darany	1002	Község
+1459	Darnó	4737	15	Szabolcs-Szatmár-Bereg	darno	344	Község
+3001	Darnózseli	9232	8	Győr-Moson-Sopron	darnozseli	1586	Község
+425	Daruszentmiklós	2423	7	Fejér	daruszentmiklos	1340	Község
+1257	Darvas	4144	9	Hajdú-Bihar	darvas	656	Község
+1857	Dávod	6524	3	Bács-Kiskun	davod	2165	Község
+560	Debercsény	2694	12	Nógrád	debercseny	394	Község
+1186	Debrecen	4000	9	Hajdú-Bihar	debrecen	0	
+1188	Debrecen	4002	9	Hajdú-Bihar	debrecen	0	
+1198	Debrecen	4024	9	Hajdú-Bihar	debrecen	206099	Megyei jogú város
+1199	Debrecen	4025	9	Hajdú-Bihar	debrecen	0	
+1200	Debrecen	4026	9	Hajdú-Bihar	debrecen	0	
+1201	Debrecen	4027	9	Hajdú-Bihar	debrecen	0	
+1202	Debrecen	4028	9	Hajdú-Bihar	debrecen	0	
+1203	Debrecen	4029	9	Hajdú-Bihar	debrecen	0	
+1204	Debrecen	4030	9	Hajdú-Bihar	debrecen	0	
+1205	Debrecen	4031	9	Hajdú-Bihar	debrecen	0	
+1206	Debrecen	4032	9	Hajdú-Bihar	debrecen	0	
+1207	Debrecen	4033	9	Hajdú-Bihar	debrecen	0	
+1208	Debrecen	4034	9	Hajdú-Bihar	debrecen	0	
+1221	Debrecen (Bánk)	4079	9	Hajdú-Bihar	bank	0	
+1220	Debrecen (Haláp)	4078	9	Hajdú-Bihar	halap	0	
+1281	Debrecen (Józsa)	4225	9	Hajdú-Bihar	jozsa	0	
+1219	Debrecen (Nagycsere)	4077	9	Hajdú-Bihar	nagycsere	0	
+1210	Debrecen (Nagymacs)	4063	9	Hajdú-Bihar	nagymacs	0	
+1196	Debrecen (Pallag)	4014	9	Hajdú-Bihar	pallag	0	
+3279	Debrecen (Tégláskert)	4022	9	Hajdú-Bihar	teglaskert	0	
+1187	Debrecen 1.	4001	9	Hajdú-Bihar	debrecen	0	
+1192	Debrecen 10.	4010	9	Hajdú-Bihar	debrecen	0	
+1193	Debrecen 11.	4011	9	Hajdú-Bihar	debrecen	0	
+1194	Debrecen 12.	4012	9	Hajdú-Bihar	debrecen	0	
+1195	Debrecen 13.	4013	9	Hajdú-Bihar	debrecen	0	
+1197	Debrecen 17.	4017	9	Hajdú-Bihar	debrecen	0	
+1189	Debrecen 4.	4004	9	Hajdú-Bihar	debrecen	0	
+1190	Debrecen 8.	4008	9	Hajdú-Bihar	debrecen	0	
+1191	Debrecen 9.	4009	9	Hajdú-Bihar	debrecen	0	
+2014	Decs	7144	17	Tolna	decs	4260	Nagyközség
+973	Dédestapolcsány	3643	5	Borsod-Abaúj-Zemplén	dedestapolcsany	1565	Község
+2426	Dég	8135	7	Fejér	deg	2322	Község
+528	Dejtár	2649	12	Nógrád	dejtar	1472	Község
+393	Délegyháza	2337	13	Pest	delegyhaza	3172	Község
+1394	Demecser	4516	15	Szabolcs-Szatmár-Bereg	demecser	4443	Város
+861	Demjén	3395	10	Heves	demjen	660	község
+3043	Dénesfa	9365	8	Győr-Moson-Sopron	denesfa	407	Község
+1246	Derecske	4130	9	Hajdú-Bihar	derecske	9246	Város
+1863	Derekegyház	6621	6	Csongrád	derekegyhaz	1743	Község
+1906	Deszk	6772	6	Csongrád	deszk	3587	Község
+792	Detk	3275	10	Heves	detk	1199	község
+1645	Dévaványa	5510	4	Békés	devavanya	8381	Város
+2593	Devecser	8460	19	Veszprém	devecser	0	
+2247	Dinnyeberki	7683	2	Baranya	dinnyeberki	411	Község
+1981	Diósberény	7072	17	Tolna	diosbereny	379	Község
+267	Diósd	2049	13	Pest	diosd	8260	Község
+522	Diósjenő	2643	12	Nógrád	diosjeno	3072	Község
+2605	Doba	8482	19	Veszprém	doba	504	Község
+1670	Doboz	5624	4	Békés	doboz	4545	Nagyközség
+3308	Dobronhegy	8989	20	Zala	dobronhegy	0	
+1901	Dóc	6766	6	Csongrád	doc	792	Község
+1910	Domaszék	6781	6	Csongrád	domaszek	4742	Község
+1712	Dombegyház	5836	4	Békés	dombegyhaz	2213	Nagyközség
+1703	Dombiratos	5745	4	Békés	dombiratos	664	Község
+2048	Dombóvár	7200	17	Tolna	dombovar	0	
+2049	Dombóvár 1.	7201	17	Tolna	dombovar	20077	Város
+2050	Dombóvár 2.	7202	17	Tolna	dombovar	0	
+2051	Dombóvár 3.	7203	17	Tolna	dombovar	0	
+1384	Dombrád	4492	15	Szabolcs-Szatmár-Bereg	dombrad	4302	Város
+342	Domony	2182	13	Pest	domony	2142	Község
+785	Domoszló	3263	10	Heves	domoszlo	2137	község
+846	Dormánd	3374	10	Heves	dormand	1067	község
+466	Dorog	2510	11	Komárom-Esztergom	dorog	12671	Város
+467	Dorog 2.	2512	11	Komárom-Esztergom	dorog	0	
+732	Dorogháza	3153	12	Nógrád	doroghaza	1158	Község
+3204	Dozmat	9791	18	Vas	dozmat	216	Község
+3235	Döbörhegy	9914	18	Vas	doborhegy	170	Község
+2536	Döbröce	8357	20	Zala	dobroce	73	Község
+2061	Döbrököz	7228	17	Tolna	dobrokoz	2100	Község
+2657	Döbrönte	8597	19	Veszprém	dobronte	268	Község
+1387	Döge	4495	15	Szabolcs-Szatmár-Bereg	doge	2201	Község
+251	Dömös	2027	11	Komárom-Esztergom	domos	1194	Község
+397	Dömsöd	2344	13	Pest	domsod	6074	Nagyközség
+2965	Dör	9147	8	Győr-Moson-Sopron	dor	608	Község
+2476	Dörgicse	8244	19	Veszprém	dorgicse	322	Község
+2790	Dötk	8799	20	Zala	dotk	27	Község
+1812	Drágszél	6342	3	Bács-Kiskun	dragszel	384	Község
+3293	Drávacsehi	7849	2	Baranya	dravacsehi	0	
+2322	Drávacsepely	7846	2	Baranya	dravacsepely	237	Község
+3294	Drávapalkonya	7850	2	Baranya	dravapalkonya	0	
+2324	Drávaszabolcs	7851	2	Baranya	dravaszabolcs	232	Község
+2360	Drávatamási	7979	14	Somogy	dravatamasi	0	
+525	Drégelypalánk	2646	12	Nógrád	dregelypalank	1589	Község
+969	Dubicsány	3635	5	Borsod-Abaúj-Zemplén	dubicsany	324	Község
+2555	Dudar	8416	19	Veszprém	dudar	1789	Község
+3114	Duka	9556	18	Vas	duka	290	Község
+491	Dunaalmás	2545	11	Komárom-Esztergom	dunaalmas	1518	Község
+247	Dunabogdány	2023	13	Pest	dunabogdany	3165	Község
+1798	Dunaegyháza	6323	3	Bács-Kiskun	dunaegyhaza	1550	Község
+1853	Dunafalva	6513	3	Bács-Kiskun	dunafalva	975	Község
+1952	Dunaföldvár	7020	17	Tolna	dunafoldvar	9139	Város
+389	Dunaharaszti	2330	13	Pest	dunaharaszti	19970	Város
+390	Dunaharaszti 2.	2332	13	Pest	dunaharaszti	0	
+311	Dunakeszi	2120	13	Pest	dunakeszi	37577	Város
+312	Dunakeszi 1.	2121	13	Pest	dunakeszi	0	
+313	Dunakeszi 2.	2122	13	Pest	dunakeszi	0	
+314	Dunakeszi 3.	2123	13	Pest	dunakeszi	0	
+2997	Dunakiliti	9225	8	Győr-Moson-Sopron	dunakiliti	1910	Község
+1802	Dunapataj	6328	3	Bács-Kiskun	dunapataj	3507	Nagyközség
+1803	Dunapataj (Szelidi Tó)	6329	3	Bács-Kiskun	szelidi-to	0	
+3004	Dunaremete	9235	8	Győr-Moson-Sopron	dunaremete	253	Község
+2982	Dunaszeg	9174	8	Győr-Moson-Sopron	dunaszeg	1961	Község
+2256	Dunaszekcső	7712	2	Baranya	dunaszekcso	2121	Község
+1806	Dunaszentbenedek	6333	3	Bács-Kiskun	dunaszentbenedek	915	Község
+2009	Dunaszentgyörgy	7135	17	Tolna	dunaszentgyorgy	2617	Község
+638	Dunaszentmiklós	2897	11	Komárom-Esztergom	dunaszentmiklos	437	Község
+2983	Dunaszentpál	9175	8	Győr-Moson-Sopron	dunaszentpal	729	Község
+2998	Dunasziget	9226	8	Győr-Moson-Sopron	dunasziget	1499	Község
+1799	Dunatetétlen	6325	3	Bács-Kiskun	dunatetetlen	619	Község
+415	Dunaújváros	2400	7	Fejér	dunaujvaros	50058	Megyei jogú város
+421	Dunaújváros (Pálhalma)	2407	7	Fejér	palhalma	0	
+416	Dunaújváros 2.	2402	7	Fejér	dunaujvaros	0	
+417	Dunaújváros 3.	2403	7	Fejér	dunaujvaros	0	
+418	Dunaújváros 4.	2404	7	Fejér	dunaujvaros	0	
+419	Dunaújváros 5.	2405	7	Fejér	dunaujvaros	0	
+420	Dunaújváros 6.	2406	7	Fejér	dunaujvaros	0	
+422	Dunaújváros 8.	2408	7	Fejér	dunaujvaros	0	
+392	Dunavarsány	2336	13	Pest	dunavarsany	7158	Város
+1760	Dunavecse	6087	3	Bács-Kiskun	dunavecse	4132	Város
+1821	Dusnok	6353	3	Bács-Kiskun	dusnok	3259	Község
+2057	Dúzs	7224	17	Tolna	duzs	285	Község
+3066	Ebergőc	9451	8	Győr-Moson-Sopron	ebergoc	149	Község
+1277	Ebes	4211	9	Hajdú-Bihar	ebes	4615	Község
+2926	Écs	9083	8	Győr-Moson-Sopron	ecs	1884	Község
+661	Ecséd	3013	10	Heves	ecsed	55431	község
+1646	Ecsegfalva	5515	4	Békés	ecsegfalva	1385	Község
+2139	Ecseny	7457	14	Somogy	ecseny	0	
+365	Ecser	2233	13	Pest	ecser	3618	Község
+2132	Edde	7443	14	Somogy	edde	293	Község
+1049	Edelény (Finke)	3783	5	Borsod-Abaúj-Zemplén	finke	0	
+803	Eger	3300	10	Heves	eger	3391	Megyei jogú város
+807	Eger (Felnémet)	3304	10	Heves	felnemet	0	
+804	Eger 1.	3301	10	Heves	eger	0	
+805	Eger 2.	3302	10	Heves	eger	0	
+806	Eger 3.	3303	10	Heves	eger	0	
+2615	Egeralja	8497	19	Veszprém	egeralja	459	Község
+2769	Egeraracsa	8765	20	Zala	egeraracsa	359	Község
+808	Egerbakta	3321	10	Heves	egerbakta	1542	község
+821	Egerbocs	3337	10	Heves	egerbocs	598	község
+850	Egerfarmos	3379	10	Heves	egerfarmos	732	község
+891	Egerlövő	3461	5	Borsod-Abaúj-Zemplén	egerlovo	594	Község
+860	Egerszalók	3394	10	Heves	egerszalok	1903	község
+815	Egerszólát	3328	10	Heves	egerszolat	1132	község
+3152	Egervölgy	9684	18	Vas	egervolgy	391	Község
+3015	Egyed	9314	8	Győr-Moson-Sopron	egyed	566	Község
+1215	Egyek	4069	9	Hajdú-Bihar	egyek	5619	Nagyközség
+1214	Egyek (Telekháza)	4067	9	Hajdú-Bihar	telekhaza	0	
+677	Egyházasdengeleg	3043	12	Nógrád	egyhazasdengeleg	513	Község
+3073	Egyházasfalu	9473	8	Győr-Moson-Sopron	egyhazasfalu	886	Község
+749	Egyházasgerge	3185	12	Nógrád	egyhazasgerge	779	Község
+3199	Egyházashollós	9781	18	Vas	egyhazashollos	579	Község
+2097	Egyházaskozár	7347	2	Baranya	egyhazaskozar	831	Község
+3201	Egyházasrádóc	9783	18	Vas	egyhazasradoc	1356	Község
+1700	Elek	5742	4	Békés	elek	5196	Város
+2275	Ellend	7744	2	Baranya	ellend	250	Község
+426	Előszállás	2424	7	Fejér	eloszallas	2475	Nagyközség
+881	Emőd	3432	5	Borsod-Abaúj-Zemplén	emod	5435	Város
+1089	Encs	3860	5	Borsod-Abaúj-Zemplén	encs	6772	Város
+1344	Encsencs	4374	15	Szabolcs-Szatmár-Bereg	encsencs	2036	Község
+738	Endrefalva	3165	12	Nógrád	endrefalva	1316	Község
+2961	Enese	9143	8	Győr-Moson-Sopron	enese	1783	Község
+2421	Enying	8130	7	Fejér	enying	7240	Város
+2422	Enying (Balatonbozsok)	8131	7	Fejér	balatonbozsok	0	
+1866	Eperjes	6624	6	Csongrád	eperjes	595	Község
+1449	Eperjeske	4646	15	Szabolcs-Szatmár-Bereg	eperjeske	1236	Község
+2552	Eplény	8413	19	Veszprém	epleny	544	Község
+476	Epöl	2526	11	Komárom-Esztergom	epol	665	Község
+439	Ercsi	2451	7	Fejér	ercsi	8849	Város
+440	Ercsi (Sinatelep)	2453	7	Fejér	sinatelep	0	
+253	Érd	2030	13	Pest	erd	63930	Megyei Jogú Város
+258	Érd (Érdliget)	2036	13	Pest	erdliget	0	
+257	Érd (Érdparkváros)	2035	13	Pest	erdparkvaros	0	
+254	Érd 1.	2031	13	Pest	erd	0	
+255	Érd 2.	2032	13	Pest	erd	0	
+256	Érd 3.	2033	13	Pest	erd	0	
+1140	Erdőbénye	3932	5	Borsod-Abaúj-Zemplén	erdobenye	1356	Község
+1143	Erdőhorváti	3935	5	Borsod-Abaúj-Zemplén	erdohorvati	659	Község
+304	Erdőkertes	2113	13	Pest	erdokertes	7468	Község
+775	Erdőkövesd	3252	10	Heves	erdokovesd	640	község
+339	Erdőkürt	2176	12	Nógrád	erdokurt	563	Község
+2263	Erdősmecske	7723	2	Baranya	erdosmecske	427	Község
+340	Erdőtarcsa	2177	12	Nógrád	erdotarcsa	596	Község
+838	Erdőtelek	3358	10	Heves	erdotelek	3532	Község
+801	Erk	3295	10	Heves	erk	937	Község
+1291	Érpatak	4245	15	Szabolcs-Szatmár-Bereg	erpatak	1795	Község
+1817	Érsekcsanád	6347	3	Bács-Kiskun	ersekcsanad	2923	Község
+1818	Érsekhalma	6348	3	Bács-Kiskun	ersekhalma	667	Község
+537	Érsekvadkert	2659	12	Nógrád	ersekvadkert	3839	Község
+1992	Értény	7093	17	Tolna	erteny	791	Község
+1241	Esztár	4124	9	Hajdú-Bihar	esztar	1411	Község
+2829	Eszteregnye	8882	20	Zala	eszteregnye	733	Község
+2754	Esztergályhorváti	8742	20	Zala	esztergalyhorvati	483	Község
+464	Esztergom	2500	11	Komárom-Esztergom	esztergom	30539	Város
+465	Esztergom (Kertváros)	2509	11	Komárom-Esztergom	kertvaros	0	
+3272	Esztergom (Pilisszentlélek)	2508	11	Komárom-Esztergom	pilisszentlelek	0	
+653	Ete	2947	11	Komárom-Esztergom	ete	638	Község
+721	Etes	3136	12	Nógrád	etes	1489	Község
+289	Etyek	2091	7	Fejér	etyek	4154	Község
+1335	Fábiánháza	4354	15	Szabolcs-Szatmár-Bereg	fabianhaza	1917	Község
+1867	Fábiánsebestyén	6625	6	Csongrád	fabiansebestyen	2222	Község
+2010	Fácánkert	7136	17	Tolna	facankert	735	Község
+2007	Fadd	7133	17	Tolna	fadd	4468	Nagyközség
+1092	Fáj	3865	5	Borsod-Abaúj-Zemplén	faj	368	Község
+1820	Fajsz	6352	3	Bács-Kiskun	fajsz	1856	Község
+1088	Fancsal	3855	5	Borsod-Abaúj-Zemplén	fancsal	357	Község
+3019	Farád	9321	8	Győr-Moson-Sopron	farad	2004	Község
+2650	Farkasgyepű	8582	19	Veszprém	farkasgyepu	380	Község
+961	Farkaslyuk	3608	5	Borsod-Abaúj-Zemplén	farkaslyuk	2049	Község
+588	Farmos	2765	13	Pest	farmos	3757	Község
+2270	Fazekasboda	7732	2	Baranya	fazekasboda	211	Község
+778	Fedémes	3255	10	Heves	fedemes	347	község 
+1595	Fegyvernek	5231	16	Jász-Nagykun-Szolnok	fegyvernek	7148	Nagyközség
+1593	Fegyvernek (Szapárfalu)	5213	16	Jász-Nagykun-Szolnok	szaparfalu	0	
+1499	Fehérgyarmat	4900	15	Szabolcs-Szatmár-Bereg	fehergyarmat	8262	Város
+2973	Fehértó	9163	8	Győr-Moson-Sopron	feherto	508	Község
+2379	Fehérvárcsurgó	8052	7	Fejér	fehervarcsurgo	1939	Község
+2264	Feked	7724	2	Baranya	feked	216	Község
+2992	Feketeerdő	9211	8	Győr-Moson-Sopron	feketeerdo	498	Község
+2396	Felcsút	8086	7	Fejér	felcsut	1797	Község
+832	Feldebrő	3352	10	Heves	feldebro	1140	Község
+1872	Felgyő	6645	6	Csongrád	felgyo	1317	Község
+2947	Felpéc	9122	8	Győr-Moson-Sopron	felpec	890	Község
+1173	Felsőberecki	3985	5	Borsod-Abaúj-Zemplén	felsoberecki	864	Község
+3207	Felsőcsatár	9794	18	Vas	felsocsatar	474	Község
+1081	Felsődobsza	3847	5	Borsod-Abaúj-Zemplén	felsodobsza	946	Község
+1009	Felsőkelecsény	3722	5	Borsod-Abaúj-Zemplén	felsokelecseny	430	Község
+1744	Felsőlajos	6055	3	Bács-Kiskun	felsolajos	997	Község
+3238	Felsőmarác	9918	18	Vas	felsomarac	282	Község
+2138	Felsőmocsolád	7456	14	Somogy	felsomocsolad	0	
+2034	Felsőnána	7175	17	Tolna	felsonana	666	Község
+1997	Felsőnyék	7099	17	Tolna	felsonyek	1142	Község
+2466	Felsőörs	8227	19	Veszprém	felsoors	1599	Község
+402	Felsőpakony	2363	13	Pest	felsopakony	3361	Község
+494	Felsőpetény	2611	12	Nógrád	felsopeteny	664	Község
+1176	Felsőregmec	3989	5	Borsod-Abaúj-Zemplén	felsoregmec	221	Község
+1839	Felsőszentiván	6447	3	Bács-Kiskun	felsoszentivan	1985	Község
+2353	Felsőszentmárton	7968	2	Baranya	felsoszentmarton	1047	Község
+3268	Felsőszölnök	9985	18	Vas	felsoszolnok	613	Község
+811	Felsőtárkány	3324	10	Heves	felsotarkany	3617	község
+1063	Felsővadász	3814	5	Borsod-Abaúj-Zemplén	felsovadasz	550	Község
+930	Felsőzsolca	3561	5	Borsod-Abaúj-Zemplén	felsozsolca	7298	Város
+1432	Fényeslitke	4621	15	Szabolcs-Szatmár-Bereg	fenyeslitke	2506	Község
+2570	Fenyőfő	8432	19	Veszprém	fenyofo	136	Község
+1908	Ferencszállás	6774	6	Csongrád	ferencszallas	662	Község
+3084	Fertőboz	9493	8	Győr-Moson-Sopron	fertoboz	263	Község
+3056	Fertőd	9431	8	Győr-Moson-Sopron	fertod	3430	Város
+3057	Fertőd (Tőzeggyármajor)	9433	8	Győr-Moson-Sopron	tozeggyarmajor	0	
+3063	Fertőendréd	9442	8	Győr-Moson-Sopron	fertoendred	624	Község
+3083	Fertőhomok	9492	8	Győr-Moson-Sopron	fertohomok	600	Község
+3053	Fertőrákos	9421	8	Győr-Moson-Sopron	fertorakos	2263	Község
+3065	Fertőszentmiklós	9444	8	Győr-Moson-Sopron	fertoszentmiklos	3773	Város
+3060	Fertőszéplak	9436	8	Győr-Moson-Sopron	fertoszeplak	1256	Község
+2078	Fiad	7282	14	Somogy	fiad	290	Község
+2804	Fityeház	8835	20	Zala	fityehaz	759	Község
+1804	Foktő	6331	3	Bács-Kiskun	fokto	1684	Község
+1226	Folyás	4090	9	Hajdú-Bihar	folyas	8359	Város
+2070	Fonó	7271	14	Somogy	fono	0	
+2684	Fonyód	8640	14	Somogy	fonyod	0	
+2686	Fonyód (Alsóbélatelep)	8644	14	Somogy	alsobelatelep	0	
+2685	Fonyód 2.	8642	14	Somogy	fonyod	5401	Város
+1919	Forráskút	6793	6	Csongrád	forraskut	2158	Község
+1083	Forró	3849	5	Borsod-Abaúj-Zemplén	forro	2642	Község
+325	Fót	2151	13	Pest	fot	18443	Város
+326	Fót 2.	2152	13	Pest	fot	0	
+327	Fót 3.	2153	13	Pest	fot	0	
+1935	Földeák	6922	6	Csongrád	foldeak	3339	Község
+1272	Földes	4177	9	Hajdú-Bihar	foldes	4254	Nagyközség
+1091	Fulókércs	3864	5	Borsod-Abaúj-Zemplén	fulokercs	379	Község
+1254	Furta	4141	9	Hajdú-Bihar	furta	1241	Község
+2441	Füle	8157	7	Fejér	fule	916	Község
+1530	Fülesd	4964	15	Szabolcs-Szatmár-Bereg	fulesd	495	Község
+1300	Fülöp	4266	9	Hajdú-Bihar	fulop	1816	Község
+1739	Fülöpháza	6042	3	Bács-Kiskun	fulophaza	911	Község
+1773	Fülöpjakab	6116	3	Bács-Kiskun	fulopjakab	1162	Község
+1758	Fülöpszállás	6085	3	Bács-Kiskun	fulopszallas	2452	Község
+1467	Fülpösdaróc	4754	15	Szabolcs-Szatmár-Bereg	fulposdaroc	559	Község
+1988	Fürged	7087	17	Tolna	furged	757	Község
+1182	Füzér	3996	5	Borsod-Abaúj-Zemplén	fuzer	483	Község
+1183	Füzérkomlós	3997	5	Borsod-Abaúj-Zemplén	fuzerkomlos	394	Község
+1179	Füzérradvány	3993	5	Borsod-Abaúj-Zemplén	fuzerradvany	406	Község
+859	Füzesabony	3390	10	Heves	fuzesabony	8166	város
+1649	Füzesgyarmat	5525	4	Békés	fuzesgyarmat	6174	Város
+1239	Gáborján	4122	9	Hajdú-Bihar	gaborjan	954	Község
+1537	Gacsály	4972	15	Szabolcs-Szatmár-Bereg	gacsaly	931	Község
+2075	Gadács	7276	14	Somogy	gadacs	123	Község
+2733	Gadány	8716	14	Somogy	gadany	394	Község
+1723	Gádoros	5932	4	Békés	gadoros	4115	Nagyközség
+1075	Gagyapáti	3837	5	Borsod-Abaúj-Zemplén	gagyapati	125	Község
+1066	Gagybátor	3817	5	Borsod-Abaúj-Zemplén	gagybator	223	Község
+1065	Gagyvendégi	3816	5	Borsod-Abaúj-Zemplén	gagyvendegi	221	Község
+2764	Galambok	8754	20	Zala	galambok	1311	Község
+554	Galgaguta	2686	12	Nógrád	galgaguta	715	Község
+550	Galgagyörk	2681	13	Pest	galgagyork	1070	Község
+348	Galgahévíz	2193	13	Pest	galgaheviz	2565	Község
+343	Galgamácsa	2183	13	Pest	galgamacsa	1970	Község
+1025	Galvács	3752	5	Borsod-Abaúj-Zemplén	galvacs	108	Község
+2711	Gamás	8685	14	Somogy	gamas	475	Község
+2392	Gánt	8082	7	Fejér	gant	832	Község
+1855	Gara	6522	3	Bács-Kiskun	gara	2432	Község
+690	Garáb	3067	12	Nógrád	garab	164	Község
+1096	Garadna	3873	5	Borsod-Abaúj-Zemplén	garadna	0	
+1541	Garbolc	4976	15	Szabolcs-Szatmár-Bereg	garbolc	147	Község
+460	Gárdony	2483	7	Fejér	gardony	9696	Város
+461	Gárdony (Agárd)	2484	7	Fejér	agard	0	
+462	Gárdony (Dinnyés)	2485	7	Fejér	dinnyes	0	
+2303	Garé	7812	2	Baranya	gare	326	Község
+3258	Gasztony	9952	18	Vas	gasztony	471	Község
+1768	Gátér	6111	3	Bács-Kiskun	gater	1023	Község
+1371	Gávavencsellő (Gáva)	4471	15	Szabolcs-Szatmár-Bereg	gava	0	
+1372	Gávavencsellő (Vencsellő)	4472	15	Szabolcs-Szatmár-Bereg	vencsello	3836	Nagyközség
+2633	Gecse	8543	19	Veszprém	gecse	447	Község
+1807	Géderlak	6334	3	Bács-Kiskun	gederlak	1088	Község
+1395	Gégény	4517	15	Szabolcs-Szatmár-Bereg	gegeny	2067	Község
+887	Gelej	3444	5	Borsod-Abaúj-Zemplén	gelej	661	Község
+1510	Gelénes	4935	15	Szabolcs-Szatmár-Bereg	gelenes	594	Község
+1429	Gemzse	4567	15	Szabolcs-Szatmár-Bereg	gemzse	863	Község
+3157	Gencsapáti	9721	18	Vas	gencsapati	2634	Község
+3144	Gérce	9672	18	Vas	gerce	1163	Község
+1721	Gerendás	5925	4	Békés	gerendas	1462	Község
+2008	Gerjen	7134	17	Tolna	gerjen	1303	Község
+1698	Geszt	5734	4	Békés	geszt	824	Község
+1003	Gesztely	3715	5	Borsod-Abaúj-Zemplén	gesztely	2948	Község
+1132	Gesztely (Újharangod)	3923	5	Borsod-Abaúj-Zemplén	ujharangod	0	
+1283	Geszteréd	4232	15	Szabolcs-Szatmár-Bereg	gesztered	1903	Község
+2767	Gétye	8762	20	Zala	getye	126	Község
+1087	Gibárt	3854	5	Borsod-Abaúj-Zemplén	gibart	376	Község
+2573	Gic	8435	19	Veszprém	gic	405	Község
+2526	Gógánfa	8346	19	Veszprém	goganfa	818	Község
+1121	Golop	3906	5	Borsod-Abaúj-Zemplén	golop	634	Község
+360	Gomba	2217	13	Pest	gomba	3022	Község
+3125	Gór	9625	18	Vas	gor	662	Község
+2325	Gordisa	7853	2	Baranya	gordisa	290	Község
+315	Göd (Alsógöd)	2131	13	Pest	alsogod	17433	Város
+316	Göd (Felsőgöd)	2132	13	Pest	felsogod	0	
+297	Gödöllő	2100	13	Pest	godollo	31885	Város
+299	Gödöllő (Máriabesnyő)	2102	13	Pest	mariabesnyo	0	
+298	Gödöllő 1.	2101	13	Pest	godollo	0	
+300	Gödöllő 3.	2103	13	Pest	godollo	0	
+301	Gödöllő 5.	2105	13	Pest	godollo	0	
+2113	Gödre (Gödrekeresztúr)	7386	2	Baranya	godrekeresztur	985	Község
+2112	Gödre (Gödreszentmárton)	7385	2	Baranya	godreszentmarton	0	
+2071	Gölle	7272	14	Somogy	golle	406	Község
+1013	Gömörszőlős	3728	5	Borsod-Abaúj-Zemplén	gomorszolos	83	Község
+1112	Gönc	3895	5	Borsod-Abaúj-Zemplén	gonc	2289	Város
+1111	Göncruszka	3894	5	Borsod-Abaúj-Zemplén	goncruszka	653	Község
+2920	Gönyű	9071	8	Győr-Moson-Sopron	gonyu	3172	Község
+1218	Görbeháza	4075	9	Hajdú-Bihar	gorbehaza	2561	Község
+2268	Görcsönydoboka	7728	2	Baranya	gorcsonydoboka	425	Község
+2184	Görgeteg	7553	14	Somogy	gorgeteg	1211	Község
+2026	Grábóc	7162	17	Tolna	graboc	185	Község
+1495	Gulács	4842	15	Szabolcs-Szatmár-Bereg	gulacs	941	Község
+401	Gyál	2360	13	Pest	gyal	23518	Város
+3074	Gyalóka	9474	8	Győr-Moson-Sopron	gyaloka	81	Község
+2951	Gyarmat	9126	8	Győr-Moson-Sopron	gyarmat	1331	Község
+2807	Gyékényes	8851	14	Somogy	gyekenyes	1049	Község
+2516	Gyenesdiás	8315	20	Zala	gyenesdias	3639	Nagyközség
+2597	Gyepükaján	8473	19	Veszprém	gyepukajan	393	Község
+599	Gyermely	2821	11	Komárom-Esztergom	gyermely	1444	Község
+2238	Gyód	7668	2	Baranya	gyod	703	Község
+1643	Gyomaendrőd	5500	4	Békés	gyomaendrod	14777	Város
+1644	Gyomaendrőd (Endrőd)	5502	4	Békés	endrod	0	
+3284	Gyomaendrőd (Gyoma)	5501	4	Békés	gyoma	0	
+3041	Gyóró	9363	8	Győr-Moson-Sopron	gyoro	392	Község
+2949	Gyömöre	9124	8	Győr-Moson-Sopron	gyomore	1330	Község
+364	Gyömrő	2230	13	Pest	gyomro	15650	Város
+753	Gyöngyös	3200	10	Heves	gyongyos	31803	város
+760	Gyöngyös (Kékestető)	3221	10	Heves	kekesteto	0	
+762	Gyöngyös (Mátrafüred)	3232	10	Heves	matrafured	0	
+763	Gyöngyös (Mátraháza)	3233	10	Heves	matrahaza	0	
+754	Gyöngyös 1.	3201	10	Heves	gyongyos	0	
+755	Gyöngyös 2.	3202	10	Heves	gyongyos	0	
+3159	Gyöngyösfalu	9723	18	Vas	gyongyosfalu	0	
+757	Gyöngyöshalász	3212	10	Heves	gyongyoshalasz	2624	község
+2355	Gyöngyösmellék	7972	2	Baranya	gyongyosmellek	323	Község
+756	Gyöngyösoroszi	3211	10	Heves	gyongyosoroszi	1548	község
+673	Gyöngyöspata	3035	10	Heves	gyongyospata	2724	község
+761	Gyöngyössolymos	3231	10	Heves	gyongyossolymos	3173	Község
+674	Gyöngyöstarján	3036	10	Heves	gyongyostarjan	2496	község
+1975	Gyönk	7064	17	Tolna	gyonk	2040	Város
+2898	Győr	9000	8	Győr-Moson-Sopron	gyor	0	
+2907	Győr	9021	8	Győr-Moson-Sopron	gyor	126652	Megyei jogú város
+2908	Győr	9022	8	Győr-Moson-Sopron	gyor	0	
+2909	Győr	9023	8	Győr-Moson-Sopron	gyor	0	
+2910	Győr	9024	8	Győr-Moson-Sopron	gyor	0	
+2911	Győr	9025	8	Győr-Moson-Sopron	gyor	0	
+2912	Győr	9026	8	Győr-Moson-Sopron	gyor	0	
+2913	Győr	9027	8	Győr-Moson-Sopron	gyor	0	
+2914	Győr	9028	8	Győr-Moson-Sopron	gyor	0	
+2915	Győr	9029	8	Győr-Moson-Sopron	gyor	0	
+2916	Győr	9030	8	Győr-Moson-Sopron	gyor	0	
+3310	Győr (Bácsa)	9010	8	Győr-Moson-Sopron	bacsa	0	
+2906	Győr (Gyirmót)	9019	8	Győr-Moson-Sopron	gyirmot	0	
+2903	Győr (Győrszentiván)	9011	8	Győr-Moson-Sopron	gyorszentivan	0	
+2904	Győr (Ménfőcsanak)	9012	8	Győr-Moson-Sopron	menfocsanak	0	
+2899	Győr 1.	9001	8	Győr-Moson-Sopron	gyor	0	
+2905	Győr 13.	9013	8	Győr-Moson-Sopron	gyor	0	
+2900	Győr 2.	9002	8	Győr-Moson-Sopron	gyor	0	
+2901	Győr 3.	9003	8	Győr-Moson-Sopron	gyor	0	
+2902	Győr 4.	9004	8	Győr-Moson-Sopron	gyor	0	
+2935	Győrasszonyfa	9093	8	Győr-Moson-Sopron	gyorasszonyfa	534	Község
+2101	Györe	7352	17	Tolna	gyore	675	Község
+1153	Györgytarló	3954	5	Borsod-Abaúj-Zemplén	gyorgytarlo	629	Község
+1965	Györköny	7045	17	Tolna	gyorkony	1004	Község
+2981	Győrladamér	9173	8	Győr-Moson-Sopron	gyorladamer	1521	Község
+1436	Győröcske	4625	15	Szabolcs-Szatmár-Bereg	gyorocske	151	Község
+2927	Győrság	9084	8	Győr-Moson-Sopron	gyorsag	1502	Község
+2971	Győrsövényház	9161	8	Győr-Moson-Sopron	gyorsovenyhaz	820	Község
+2946	Győrszemere	9121	8	Győr-Moson-Sopron	gyorszemere	3130	Község
+1466	Győrtelek	4752	15	Szabolcs-Szatmár-Bereg	gyortelek	1729	Község
+2924	Győrújbarát	9081	8	Győr-Moson-Sopron	gyorujbarat	5790	Község
+2979	Győrújfalu	9171	8	Győr-Moson-Sopron	gyorujfalu	1352	Község
+2980	Győrzámoly	9172	8	Győr-Moson-Sopron	gyorzamoly	2256	Község
+2713	Gyugy	8692	14	Somogy	gyugy	1247	Község
+1688	Gyula	5700	4	Békés	gyula	32366	Város
+1690	Gyula (Gyulavári)	5711	4	Békés	gyulavari	0	
+1689	Gyula (József Attila szanatórium)	5703	4	Békés	jozsef attila szanatorium	0	
+1412	Gyulaháza	4545	15	Szabolcs-Szatmár-Bereg	gyulahaza	2102	Község
+2060	Gyulaj	7227	17	Tolna	gyulaj	1018	Község
+2503	Gyulakeszi	8286	19	Veszprém	gyulakeszi	731	Község
+450	Gyúró	2464	7	Fejér	gyuro	1214	Község
+1456	Gyügye	4733	15	Szabolcs-Szatmár-Bereg	gyugye	264	Község
+1482	Gyüre	4813	15	Szabolcs-Szatmár-Bereg	gyure	0	
+2715	Hács	8694	14	Somogy	hacs	0	
+2771	Hahót	8771	20	Zala	hahot	1159	Község
+1304	Hajdúbagos	4273	9	Hajdú-Bihar	hajdubagos	2037	Község
+1279	Hajdúböszörmény	4220	9	Hajdú-Bihar	hajduboszormeny	0	
+1280	Hajdúböszörmény (Bodaszőlő)	4224	9	Hajdú-Bihar	bodaszolo	0	
+1224	Hajdúböszörmény (Hajdúvid)	4086	9	Hajdú-Bihar	hajduvid	0	
+1217	Hajdúböszörmény (Nagypród)	4074	9	Hajdú-Bihar	nagyprod	0	
+1225	Hajdúdorog	4087	9	Hajdú-Bihar	hajdudorog	9194	Város
+1288	Hajdúhadház	4242	9	Hajdú-Bihar	hajduhadhaz	13276	Város
+1222	Hajdúnánás	4080	9	Hajdú-Bihar	hajdunanas	0	
+1223	Hajdúnánás (Tedej)	4085	9	Hajdú-Bihar	tedej	0	
+1293	Hajdúsámson	4251	9	Hajdú-Bihar	hajdusamson	12902	Város
+1276	Hajdúszoboszló	4200	9	Hajdú-Bihar	hajduszoboszlo	23806	Város
+1278	Hajdúszovát	4212	9	Hajdú-Bihar	hajduszovat	3196	Község
+2455	Hajmáskér	8192	19	Veszprém	hajmasker	3132	Község
+1814	Hajós	6344	3	Bács-Kiskun	hajos	3277	Város
+3217	Halastó	9814	18	Vas	halasto	109	Község
+2999	Halászi	9228	8	Győr-Moson-Sopron	halaszi	3006	Község
+381	Halásztelek	2314	13	Pest	halasztelek	8721	Város
+1077	Halmaj	3842	5	Borsod-Abaúj-Zemplén	halmaj	1779	Község
+790	Halmajugra	3273	10	Heves	halmajugra	1368	község
+966	Hangony	3626	5	Borsod-Abaúj-Zemplén	hangony	1725	Község
+434	Hantos	2434	7	Fejér	hantos	987	Község
+2031	Harc	7172	17	Tolna	harc	931	Község
+3054	Harka	9422	8	Győr-Moson-Sopron	harka	1669	Község
+1780	Harkakötöny	6136	3	Bács-Kiskun	harkakotony	900	Község
+2306	Harkány	7815	2	Baranya	harkany	4024	Város
+1144	Háromhuta	3936	5	Borsod-Abaúj-Zemplén	haromhuta	149	Község
+926	Harsány	3555	5	Borsod-Abaúj-Zemplén	harsany	2145	Község
+2578	Hárskút	8442	19	Veszprém	harskut	672	Község
+1800	Harta	6326	3	Bács-Kiskun	harta	3715	Nagyközség
+1801	Harta (Állampuszta)	6327	3	Bács-Kiskun	allampuszta	0	
+2276	Hásságy	7745	2	Baranya	hassagy	308	Község
+656	Hatvan	3000	10	Heves	hatvan	22032	város
+657	Hatvan 2.	3002	10	Heves	hatvan	0	
+2986	Hédervár	9178	8	Győr-Moson-Sopron	hedervar	1154	Község
+2508	Hegyesd	8296	19	Veszprém	hegyesd	181	Község
+2994	Hegyeshalom	9222	8	Győr-Moson-Sopron	hegyeshalom	3589	Nagyközség
+3126	Hegyfalu	9631	18	Vas	hegyfalu	774	Község
+3243	Hegyhátszentmárton	9931	18	Vas	hegyhatszentmarton	63	Község
+3218	Hegyhátszentpéter	9821	18	Vas	hegyhatszentpeter	674	Község
+3061	Hegykő	9437	8	Győr-Moson-Sopron	hegyko	1384	Község
+2493	Hegymagas	8265	19	Veszprém	hegymagas	291	Község
+2317	Hegyszentmárton	7837	2	Baranya	hegyszentmarton	464	Község
+675	Héhalom	3041	12	Nógrád	hehalom	1041	Község
+1109	Hejce	3892	5	Borsod-Abaúj-Zemplén	hejce	268	Község
+951	Hejőbába	3593	5	Borsod-Abaúj-Zemplén	hejobaba	1978	Község
+955	Hejőkeresztúr	3597	5	Borsod-Abaúj-Zemplén	hejokeresztur	1079	Község
+947	Hejőkürt	3588	5	Borsod-Abaúj-Zemplén	hejokurt	304	Község
+952	Hejőpapi	3594	5	Borsod-Abaúj-Zemplén	hejopapi	1320	Község
+953	Hejőszalonta	3595	5	Borsod-Abaúj-Zemplén	hejoszalonta	849	Község
+1736	Helvécia	6034	3	Bács-Kiskun	helvecia	4399	Község
+1240	Hencida	4123	9	Hajdú-Bihar	hencida	1304	Község
+2170	Hencse	7532	14	Somogy	hencse	0	
+269	Herceghalom	2053	13	Pest	herceghalom	1861	Község
+1157	Hercegkút	3958	5	Borsod-Abaúj-Zemplén	hercegkut	689	Község
+1858	Hercegszántó	6525	3	Bács-Kiskun	hercegszanto	2131	Község
+659	Heréd	3011	10	Heves	hered	2050	község
+604	Héreg	2832	11	Komárom-Esztergom	hereg	1073	Község
+548	Herencsény	2677	12	Nógrád	herencseny	666	Község
+2576	Herend	8440	19	Veszprém	herend	3579	Város
+2197	Heresznye	7587	14	Somogy	heresznye	0	
+1458	Hermánszeg	4735	15	Szabolcs-Szatmár-Bereg	hermanszeg	281	Község
+411	Hernád	2376	13	Pest	hernad	4207	Község
+1086	Hernádbűd	3853	5	Borsod-Abaúj-Zemplén	hernadbud	0	
+1106	Hernádcéce	3887	5	Borsod-Abaúj-Zemplén	hernadcece	214	Község
+932	Hernádkak	3563	5	Borsod-Abaúj-Zemplén	hernadkak	1704	Község
+1080	Hernádkércs	3846	5	Borsod-Abaúj-Zemplén	hernadkercs	325	Község
+933	Hernádnémeti	3564	5	Borsod-Abaúj-Zemplén	hernadnemeti	3806	Község
+1085	Hernádszentandrás	3852	5	Borsod-Abaúj-Zemplén	hernadszentandras	470	Község
+1098	Hernádszurdok	3875	5	Borsod-Abaúj-Zemplén	hernadszurdok	214	Község
+983	Hét	3655	5	Borsod-Abaúj-Zemplén	het	561	Község
+1496	Hetefejércse	4843	15	Szabolcs-Szatmár-Bereg	hetefejercse	274	Község
+2524	Hetyefő	8344	19	Veszprém	hetyefo	95	Község
+840	Heves	3360	10	Heves	heves	11389	város
+809	Hevesaranyos	3322	10	Heves	hevesaranyos	708	község
+853	Hevesvezekény	3383	10	Heves	hevesvezekeny	717	község
+2543	Hévíz	8380	20	Zala	heviz	4968	Város
+347	Hévízgyörk	2192	13	Pest	hevizgyork	3107	Község
+2252	Hidas	7696	2	Baranya	hidas	2238	Község
+1099	Hidasnémeti	3876	5	Borsod-Abaúj-Zemplén	hidasnemeti	1158	Község
+2479	Hidegkút	8247	19	Veszprém	hidegkut	447	Község
+3082	Hidegség	9491	8	Győr-Moson-Sopron	hidegseg	362	Község
+3040	Himod	9362	8	Győr-Moson-Sopron	himod	709	Község
+2354	Hobol	7971	2	Baranya	hobol	1006	Község
+1324	Hodász	4334	15	Szabolcs-Szatmár-Bereg	hodasz	3464	Nagyközség
+1922	Hódmezővásárhely	6800	6	Csongrád	hodmezovasarhely	47395	Megyei jogú város
+1923	Hódmezővásárhely (Szikáncs)	6806	6	Csongrád	szikancs	0	
+1185	Hollóháza	3999	5	Borsod-Abaúj-Zemplén	hollohaza	1029	Község
+741	Hollókő	3176	12	Nógrád	holloko	370	Község
+2644	Homokbödöge	8563	19	Veszprém	homokbodoge	767	Község
+2776	Homokkomárom	8777	20	Zala	homokkomarom	139	Község
+1811	Homokmégy	6341	3	Bács-Kiskun	homokmegy	1517	Község
+2174	Homokszentgyörgy	7537	14	Somogy	homokszentgyorgy	1208	Község
+2259	Homorúd	7716	2	Baranya	homorud	659	Község
+526	Hont	2647	12	Nógrád	hont	556	Község
+662	Hort	3014	10	Heves	hort	3877	község
+1216	Hortobágy	4071	9	Hajdú-Bihar	hortobagy	1601	Község
+2340	Horváthertelend	7935	2	Baranya	horvathertelend	108	Község
+3209	Horvátlövő	9796	18	Vas	horvatlovo	222	Község
+2250	Hosszúhetény	7694	2	Baranya	hosszuheteny	3399	Község
+1305	Hosszúpályi	4274	9	Hajdú-Bihar	hosszupalyi	5996	Nagyközség
+3148	Hosszúpereszteg	9676	18	Vas	hosszupereszteg	730	Község
+2890	Hottó	8991	20	Zala	hotto	344	Község
+2043	Hőgyész	7191	17	Tolna	hogyesz	3065	Nagyközség
+3039	Hövej	9361	8	Győr-Moson-Sopron	hovej	328	Község
+544	Hugyag	2672	12	Nógrád	hugyag	906	Község
+1662	Hunya	5555	4	Békés	hunya	722	Község
+1559	Hunyadfalva	5063	16	Jász-Nagykun-Szolnok	hunyadfalva	234	Község
+2886	Iborfia	8984	20	Zala	iborfia	40	Község
+1378	Ibrány	4484	15	Szabolcs-Szatmár-Bereg	ibrany	7082	Város
+2074	Igal	7275	14	Somogy	igal	1292	Város
+1947	Igar	7015	7	Fejér	igar	1040	Község
+1948	Igar (Vámszőlőhegy)	7016	7	Fejér	vamszolohegy	0	
+890	Igrici	3459	5	Borsod-Abaúj-Zemplén	igrici	1314	Község
+2741	Iharosberény	8725	14	Somogy	iharosbereny	514	Község
+3185	Ikervár	9756	18	Vas	ikervar	1789	Község
+341	Iklad	2181	13	Pest	iklad	2141	Község
+3129	Iklanberény	9634	18	Vas	iklanbereny	39	Község
+2875	Iklódbördőce	8958	20	Zala	iklodbordoce	324	Község
+2959	Ikrény	9141	8	Győr-Moson-Sopron	ikreny	1858	Község
+546	Iliny	2675	12	Nógrád	iliny	185	Község
+1428	Ilk	4566	15	Szabolcs-Szatmár-Bereg	ilk	1344	Község
+1793	Imrehegy	6238	3	Bács-Kiskun	imrehegy	747	Község
+1084	Ináncs	3851	5	Borsod-Abaúj-Zemplén	inancs	1274	Község
+404	Inárcs	2365	13	Pest	inarcs	4500	Község
+2740	Inke	8724	14	Somogy	inke	1273	Község
+2323	Ipacsfa	7847	2	Baranya	ipacsfa	220	Község
+511	Ipolydamásd	2631	13	Pest	ipolydamasd	383	Község
+723	Ipolytarnóc	3138	12	Nógrád	ipolytarnoc	503	Község
+513	Ipolytölgyes	2633	13	Pest	ipolytolgyes	331	Község
+542	Ipolyvece	2669	12	Nógrád	ipolyvece	882	Község
+308	Isaszeg	2117	13	Pest	isaszeg	11116	Város
+3251	Ispánk	9941	18	Vas	ispank	114	Község
+776	Istenmezeje	3253	10	Heves	istenmezeje	1749	község
+2363	Istvándi	7987	14	Somogy	istvandi	0	
+2375	Iszkaszentgyörgy	8043	7	Fejér	iszkaszentgyorgy	1955	Község
+2611	Iszkáz	8493	19	Veszprém	iszkaz	398	Község
+2377	Isztimér	8045	7	Fejér	isztimer	949	Község
+773	Ivád	3248	10	Heves	ivad	405	község
+3047	Iván	9374	8	Győr-Moson-Sopron	ivan	1363	Község
+2292	Ivánbattyán	7772	2	Baranya	ivanbattyan	299	Község
+441	Iváncsa	2454	7	Fejér	ivancsa	2911	Község
+2102	Izmény	7353	17	Tolna	izmeny	526	Község
+1752	Izsák	6070	3	Bács-Kiskun	izsak	6125	Város
+1020	Izsófalva	3741	5	Borsod-Abaúj-Zemplén	izsofalva	1868	Nagyközség
+3288	Jágónak	7357	17	Tolna	jagonak	0	
+3211	Ják	9798	18	Vas	jak	2580	Község
+1756	Jakabszállás	6078	3	Bács-Kiskun	jakabszallas	2762	Község
+3133	Jákfa	9643	18	Vas	jakfa	538	Község
+1008	Jákfalva	3721	5	Borsod-Abaúj-Zemplén	jakfalva	309	Község
+2166	Jákó	7525	14	Somogy	jako	0	
+1494	Jánd	4841	15	Szabolcs-Szatmár-Bereg	jand	834	Község
+1460	Jánkmajtis	4741	15	Szabolcs-Szatmár-Bereg	jankmajtis	191	Község
+1835	Jánoshalma	6440	3	Bács-Kiskun	janoshalma	9680	Város
+3105	Jánosháza	9545	18	Vas	janoshaza	2690	Nagyközség
+1587	Jánoshida	5143	16	Jász-Nagykun-Szolnok	janoshida	2701	Község
+3005	Jánossomorja (Mosonszentjános)	9241	8	Győr-Moson-Sopron	mosonszentjanos	6040	Város
+3006	Jánossomorja (Pusztasomorja)	9242	8	Győr-Moson-Sopron	pusztasomorja	0	
+991	Járdánháza	3664	5	Borsod-Abaúj-Zemplén	jardanhaza	1923	Község
+1327	Jármi	4337	15	Szabolcs-Szatmár-Bereg	jarmi	1306	Község
+2562	Jásd	8424	19	Veszprém	jasd	800	Község
+1578	Jászágó	5124	16	Jász-Nagykun-Szolnok	jaszago	751	Község
+1555	Jászalsószentgyörgy	5054	16	Jász-Nagykun-Szolnok	jaszalsoszentgyorgy	3819	Község
+1581	Jászapáti	5130	16	Jász-Nagykun-Szolnok	jaszapati	9280	Város
+1577	Jászárokszállás	5123	16	Jász-Nagykun-Szolnok	jaszarokszallas	8228	Város
+1572	Jászberény	5100	16	Jász-Nagykun-Szolnok	jaszbereny	27566	Város
+1589	Jászberény (Portelek)	5152	16	Jász-Nagykun-Szolnok	portelek	0	
+1573	Jászberény 2.	5102	16	Jász-Nagykun-Szolnok	jaszbereny	0	
+1588	Jászboldogháza	5144	16	Jász-Nagykun-Szolnok	jaszboldoghaza	1739	Község
+1576	Jászdózsa	5122	16	Jász-Nagykun-Szolnok	jaszdozsa	2280	Község
+1574	Jászfelsőszentgyörgy	5111	16	Jász-Nagykun-Szolnok	jaszfelsoszentgyorgy	1853	Község
+1580	Jászfényszaru	5126	16	Jász-Nagykun-Szolnok	jaszfenyszaru	5893	Város
+1582	Jászivány	5135	16	Jász-Nagykun-Szolnok	jaszivany	410	Község
+1575	Jászjákóhalma	5121	16	Jász-Nagykun-Szolnok	jaszjakohalma	3072	Község
+580	Jászkarajenő	2746	13	Pest	jaszkarajeno	2875	Község
+1584	Jászkisér	5137	16	Jász-Nagykun-Szolnok	jaszkiser	5813	Város
+1556	Jászladány	5055	16	Jász-Nagykun-Szolnok	jaszladany	5964	Nagyközség
+1583	Jászszentandrás	5136	16	Jász-Nagykun-Szolnok	jaszszentandras	2559	Község
+1777	Jászszentlászló	6133	3	Bács-Kiskun	jaszszentlaszlo	2600	Község
+1585	Jásztelek	5141	16	Jász-Nagykun-Szolnok	jasztelek	1659	Község
+1431	Jéke	4611	15	Szabolcs-Szatmár-Bereg	jeke	778	Község
+2435	Jenő	8146	7	Fejér	jeno	1314	Község
+3021	Jobaháza	9323	8	Győr-Moson-Sopron	jobahaza	581	Község
+686	Jobbágyi	3063	12	Nógrád	jobbagyi	2226	Község
+1031	Jósvafő	3758	5	Borsod-Abaúj-Zemplén	josvafo	322	Község
+2124	Juta	7431	14	Somogy	juta	1247	Község
+1274	Kaba	4183	9	Hajdú-Bihar	kaba	6339	Város
+2773	Kacorlak	8773	20	Zala	kacorlak	414	Község
+877	Kács	3424	5	Borsod-Abaúj-Zemplén	kacs	559	Község
+2343	Kacsóta	7940	2	Baranya	kacsota	184	Község
+2948	Kajárpéc	9123	8	Győr-Moson-Sopron	kajarpec	1346	Község
+453	Kajászó	2472	7	Fejér	kajaszo	1090	Község
+1967	Kajdacs	7051	17	Tolna	kajdacs	1338	Község
+2003	Kakasd	7122	17	Tolna	kakasd	1761	Község
+2348	Kákics	7958	2	Baranya	kakics	220	Község
+405	Kakucs	2366	13	Pest	kakucs	2752	Község
+830	Kál	3350	10	Heves	kal	3746	Nagyközség
+2046	Kalaznó	7194	17	Tolna	kalazno	192	Község
+3145	Káld	9673	18	Vas	kald	156	Község
+338	Kálló	2175	12	Nógrád	kallo	1585	Község
+2780	Kallósd	8785	20	Zala	kallosd	91	Község
+1317	Kállósemjén	4324	15	Szabolcs-Szatmár-Bereg	kallosemjen	4000	Nagyközség
+2175	Kálmáncsa	7538	14	Somogy	kalmancsa	0	
+1356	Kálmánháza	4434	15	Szabolcs-Szatmár-Bereg	kalmanhaza	2013	Község
+1795	Kalocsa	6300	3	Bács-Kiskun	kalocsa	17754	Város
+2416	Káloz	8124	7	Fejér	kaloz	2526	Község
+3229	Kám	9841	18	Vas	kam	439	Község
+2595	Kamond	8469	19	Veszprém	kamond	454	Község
+1685	Kamut	5673	4	Békés	kamut	1134	Község
+1019	Kánó	3735	5	Borsod-Abaúj-Zemplén	kano	159	Község
+1325	Kántorjánosi	4335	15	Szabolcs-Szatmár-Bereg	kantorjanosi	2198	Község
+2700	Kánya	8667	14	Somogy	kanya	485	Község
+835	Kápolna	3355	10	Heves	kapolna	1571	község
+455	Kápolnásnyék	2475	7	Fejér	kapolnasnyek	3544	Község
+2702	Kapoly	8671	14	Somogy	kapoly	698	Község
+2146	Kaposgyarmat	7473	14	Somogy	kaposgyarmat	0	
+2068	Kaposkeresztúr	7258	14	Somogy	kaposkeresztur	841	Község
+2162	Kaposmérő	7521	14	Somogy	kaposmero	2557	Község
+2062	Kapospula	7251	17	Tolna	kapospula	932	Község
+2106	Kaposszekcső	7361	17	Tolna	kaposszekcso	1525	Község
+2149	Kaposszerdahely	7476	14	Somogy	kaposszerdahely	1058	Község
+2163	Kaposújlak	7522	14	Somogy	kaposujlak	0	
+2118	Kaposvár	7400	14	Somogy	zselickislak	67270	Megyei jogú város
+2123	Kaposvár (Kaposfüred)	7409	14	Somogy	kaposfured	0	
+2119	Kaposvár 2.	7402	14	Somogy	kaposvar	0	
+2120	Kaposvár 3.	7403	14	Somogy	kaposvar	0	
+2121	Kaposvár 5.	7405	14	Somogy	kaposvar	0	
+2122	Kaposvár 8.	7408	14	Somogy	kaposvar	0	
+2501	Káptalantóti	8283	19	Veszprém	kaptalantoti	495	Község
+3026	Kapuvár	9330	8	Győr-Moson-Sopron	kapuvar	10714	Város
+3028	Kapuvár (Öntésmajor)	9339	8	Győr-Moson-Sopron	ontesmajor	0	
+3027	Kapuvár 1.	9331	8	Győr-Moson-Sopron	kapuvar	0	
+793	Karácsond	3281	10	Heves	karacsond	3252	község
+2707	Karád	8676	14	Somogy	karad	1699	Község
+3106	Karakó	9547	18	Vas	karako	220	Község
+2609	Karakószörcsök	8491	19	Veszprém	karakoszorcsok	324	Község
+745	Karancsalja	3181	12	Nógrád	karancsalja	1616	Község
+722	Karancsberény	3137	12	Nógrád	karancsbereny	942	Község
+747	Karancskeszi	3183	12	Nógrád	karancskeszi	1966	Község
+746	Karancslapujtő	3182	12	Nógrád	karancslapujto	2851	Község
+1603	Karcag	5300	16	Jász-Nagykun-Szolnok	karcag	21658	Város
+1604	Karcag (Tilalmas)	5308	16	Jász-Nagykun-Szolnok	tilalmas	0	
+1161	Karcsa	3963	5	Borsod-Abaúj-Zemplén	karcsa	1986	Község
+1660	Kardos	5552	4	Békés	kardos	714	Község
+1725	Kardoskút	5945	4	Békés	kardoskut	940	Község
+3311	Károlyháza	9182	8	Győr-Moson-Sopron	karolyhaza	0	
+1160	Karos	3962	5	Borsod-Abaúj-Zemplén	karos	535	Község
+336	Kartal	2173	13	Pest	kartal	5915	Nagyközség
+2312	Kásád	7827	2	Baranya	kasad	2668	Nagyközség
+1784	Kaskantyú	6211	3	Bács-Kiskun	kaskantyu	1021	Község
+1727	Kaszaper	5948	4	Békés	kaszaper	2050	Község
+2191	Kaszó	7564	14	Somogy	kaszo	0	
+2331	Katádfa	7914	2	Baranya	katadfa	212	Község
+3236	Katafa	9915	18	Vas	katafa	183	Község
+1846	Katymár	6455	3	Bács-Kiskun	katymar	2289	Község
+358	Káva	2215	13	Pest	kava	627	Község
+2892	Kávás	8994	20	Zala	kavas	258	Község
+713	Kazár	3127	12	Nógrád	kazar	2048	Község
+729	Kazár (Mizserfa)	3147	12	Nógrád	mizserfa	0	
+994	Kazincbarcika	3700	5	Borsod-Abaúj-Zemplén	kazincbarcika	31016	Város
+995	Kazincbarcika 2.	3702	5	Borsod-Abaúj-Zemplén	kazincbarcika	0	
+996	Kazincbarcika 3.	3703	5	Borsod-Abaúj-Zemplén	kazincbarcika	0	
+998	Kazincbarcika 5.	3705	5	Borsod-Abaúj-Zemplén	kazincbarcika	0	
+1070	Kázsmárk	3831	5	Borsod-Abaúj-Zemplén	kazsmark	1022	Község
+2073	Kazsok	7274	14	Somogy	kazsok	0	
+1792	Kecel	6237	3	Bács-Kiskun	kecel	9004	Város
+614	Kecskéd	2852	11	Komárom-Esztergom	kecsked	2036	Község
+1729	Kecskemét	6000	3	Bács-Kiskun	kecskemet	111108	Megyei jogú város
+1730	Kecskemét	6001	3	Bács-Kiskun	kecskemet	0	
+1731	Kecskemét	6004	3	Bács-Kiskun	kecskemet	0	
+1741	Kecskemét (Hetényegyháza)	6044	3	Bács-Kiskun	hetenyegyhaza	0	
+1732	Kecskemét (Méntelek)	6008	3	Bács-Kiskun	mentelek	0	
+2779	Kehidakustány	8784	20	Zala	kehidakustany	1179	Község
+1393	Kék	4515	15	Szabolcs-Szatmár-Bereg	kek	2044	Község
+1386	Kékcse	4494	15	Szabolcs-Szatmár-Bereg	kekcse	1648	Község
+1116	Kéked	3899	5	Borsod-Abaúj-Zemplén	keked	235	Község
+2484	Kékkút	8254	19	Veszprém	kekkut	94	Község
+1830	Kelebia	6423	3	Bács-Kiskun	kelebia	2871	Község
+3108	Keléd	9549	18	Vas	keled	86	Község
+1836	Kéleshalom	6444	3	Bács-Kiskun	keleshalom	479	Község
+2732	Kelevíz	8714	14	Somogy	keleviz	0	
+1389	Kemecse	4501	15	Szabolcs-Szatmár-Bereg	kemecse	5022	Város
+517	Kemence	2638	13	Pest	kemence	1039	Község
+2622	Kemeneshőgyész	8516	19	Veszprém	kemeneshogyesz	518	Község
+3111	Kemeneskápolna	9553	18	Vas	kemeneskapolna	106	Község
+3096	Kemenesmagasi	9522	18	Vas	kemenesmagasi	962	Község
+3088	Kemenesmihályfa	9511	18	Vas	kemenesmihalyfa	552	Község
+3104	Kemenespálfa	9544	18	Vas	kemenespalfa	470	Község
+3094	Kemenessömjén	9517	18	Vas	kemenessomjen	631	Község
+3095	Kemenesszentmárton	9521	18	Vas	kemenesszentmarton	213	Község
+2624	Kemenesszentpéter	8518	19	Veszprém	kemenesszentpeter	671	Község
+2893	Keménfa	8995	20	Zala	kemenfa	100	Község
+3242	Kemestaródfa	9923	18	Vas	kemestarodfa	243	Község
+2319	Kemse	7839	2	Baranya	kemse	72	Község
+1611	Kenderes	5331	16	Jász-Nagykun-Szolnok	kenderes	5021	Város
+1613	Kenderes (Bánhalma)	5349	16	Jász-Nagykun-Szolnok	banhalma	0	
+3183	Kenéz	9752	18	Vas	kenez	374	Község
+1154	Kenézlő	3955	5	Borsod-Abaúj-Zemplén	kenezlo	1413	Község
+1565	Kengyel	5083	16	Jász-Nagykun-Szolnok	kengyel	3812	Község
+3091	Kenyeri	9514	18	Vas	kenyeri	945	Község
+3255	Kercaszomor	9945	18	Vas	kercaszomor	247	Község
+2066	Kercseliget	7256	14	Somogy	kercseliget	0	
+862	Kerecsend	3396	10	Heves	kerecsend	2338	község
+2757	Kerecseny	8745	20	Zala	kerecseny	280	Község
+1738	Kerekegyháza	6041	3	Bács-Kiskun	kerekegyhaza	6389	Város
+658	Kerekharaszt	3009	10	Heves	kerekharaszt	1033	Község
+2668	Kereki	8618	14	Somogy	kereki	0	
+626	Kerékteleki	2882	11	Komárom-Esztergom	kerekteleki	706	Község
+322	Kerepes	2144	13	Pest	kerepes	10111	Nagyközség
+323	Kerepes (Szilasliget)	2145	13	Pest	szilasliget	0	
+2878	Kerkabarabás	8971	20	Zala	kerkabarabas	302	Község
+3254	Kerkáskápolna	9944	18	Vas	kerkaskapolna	545	Község
+2823	Kerkaszentkirály	8874	20	Zala	kerkaszentkiraly	197	Község
+2827	Kerkateskánd	8879	20	Zala	kerkateskand	248	Község
+1501	Kérsemjén	4912	15	Szabolcs-Szatmár-Bereg	kersemjen	322	Község
+2610	Kerta	8492	19	Veszprém	kerta	677	Község
+1650	Kertészsziget	5526	4	Békés	kerteszsziget	435	Község
+499	Keszeg	2616	12	Nógrád	keszeg	692	Község
+943	Kesznyéten	3579	5	Borsod-Abaúj-Zemplén	kesznyeten	1881	Község
+1973	Keszőhidegkút	7062	17	Tolna	keszohidegkut	234	Község
+2537	Keszthely	8360	20	Zala	keszthely	20636	Város
+2538	Keszthely 2.	8362	20	Zala	keszthely	0	
+2539	Keszthely 3.	8363	20	Zala	keszthely	0	
+468	Kesztölc	2517	11	Komárom-Esztergom	kesztolc	2685	Község
+1699	Kétegyháza	5741	4	Békés	ketegyhaza	4063	Nagyközség
+2731	Kéthely	8713	14	Somogy	kethely	2453	Község
+1622	Kétpó	5411	16	Jász-Nagykun-Szolnok	ketpo	747	Község
+1686	Kétsoprony	5674	4	Békés	ketsoprony	1497	Község
+2357	Kétújfalu	7975	2	Baranya	ketujfalu	722	Község
+2033	Kéty	7174	17	Tolna	kety	736	Község
+1702	Kevermes	5744	4	Békés	kevermes	2213	Nagyközség
+2774	Kilimán	8774	20	Zala	kiliman	1149	Község
+2987	Kimle	9181	8	Győr-Moson-Sopron	kimle	2313	Község
+2376	Kincsesbánya	8044	7	Fejér	kincsesbanya	1534	Község
+985	Királd	3657	5	Borsod-Abaúj-Zemplén	kirald	924	Község
+2345	Királyegyháza	7953	2	Baranya	kiralyegyhaza	1050	Község
+1927	Királyhegyes	6911	6	Csongrád	kiralyhegyes	679	Község
+2458	Királyszentistván	8195	19	Veszprém	kiralyszentistvan	501	Község
+2502	Kisapáti	8284	19	Veszprém	kisapati	1025	Község
+430	Kisapostag	2428	7	Fejér	kisapostag	1487	Község
+2164	Kisasszond	7523	14	Somogy	kisasszond	1732	Község
+680	Kisbágyon	3046	12	Nógrád	kisbagyon	444	Község
+2178	Kisbajom	7542	14	Somogy	kisbajom	0	
+623	Kisbér	2870	11	Komárom-Esztergom	kisber	5735	Város
+624	Kisbér (Hánta)	2879	11	Komárom-Esztergom	hanta	0	
+2714	Kisberény	8693	14	Somogy	kisbereny	294	Község
+2601	Kisberzseny	8477	19	Veszprém	kisberzseny	202	Község
+3003	Kisbodak	9234	8	Győr-Moson-Sopron	kisbodak	380	Község
+942	Kiscsécs	3578	5	Borsod-Abaúj-Zemplén	kiscsecs	853	Község
+2612	Kiscsősz	8494	19	Veszprém	kiscsosz	139	Község
+2362	Kisdobsza	7985	2	Baranya	kisdobsza	699	Község
+1713	Kisdombegyház	5837	4	Békés	kisdombegyhaz	557	Község
+2024	Kisdorog	7159	17	Tolna	kisdorog	810	Község
+3029	Kisfalud	9341	8	Győr-Moson-Sopron	kisfalud	782	Község
+779	Kisfüzes	3256	10	Heves	kisfuzes	158	község
+2076	Kisgyalán	7279	14	Somogy	kisgyalan	0	
+927	Kisgyőr	3556	5	Borsod-Abaúj-Zemplén	kisgyor	1729	Község
+2114	Kishajmás	7391	2	Baranya	kishajmas	92	Község
+735	Kishartyán	3161	12	Nógrád	kishartyan	605	Község
+1542	Kishódos	4977	15	Szabolcs-Szatmár-Bereg	kishodos	93	Község
+654	Kisigmánd	2948	11	Komárom-Esztergom	kisigmand	527	Község
+2293	Kisjakabfalva	7773	2	Baranya	kisjakabfalva	144	Község
+1078	Kiskinizs	3843	5	Borsod-Abaúj-Zemplén	kiskinizs	350	Község
+2165	Kiskorpád	7524	14	Somogy	kiskorpad	395	Község
+854	Kisköre	3384	10	Heves	kiskore	3095	város
+1782	Kiskőrös	6200	3	Bács-Kiskun	kiskoros	14810	Város
+1783	Kiskőrös	6201	3	Bács-Kiskun	kiskoros	0	
+1766	Kiskunfélegyháza	6100	3	Bács-Kiskun	kiskunfelegyhaza	31549	Város
+1767	Kiskunfélegyháza	6101	3	Bács-Kiskun	kiskunfelegyhaza	0	
+1822	Kiskunhalas	6400	3	Bács-Kiskun	kiskunhalas	29946	Város
+1823	Kiskunhalas	6401	3	Bács-Kiskun	kiskunhalas	0	
+396	Kiskunlacháza	2340	13	Pest	kiskunlachaza	9092	Nagyközség
+1774	Kiskunmajsa	6120	3	Bács-Kiskun	kiskunmajsa	11881	Város
+1781	Kiskunmajsa (Bodoglár)	6137	3	Bács-Kiskun	bodoglar	0	
+2845	Kiskutas	8911	20	Zala	kiskutas	197	Község
+2440	Kisláng	8156	7	Fejér	kislang	2667	Község
+1318	Kisléta	4325	15	Szabolcs-Szatmár-Bereg	kisleta	1741	Község
+2582	Kislőd	8446	19	Veszprém	kislod	1295	Község
+2105	Kismányok	7356	17	Tolna	kismanyok	378	Község
+1243	Kismarja	4126	9	Hajdú-Bihar	kismarja	1349	Község
+504	Kismaros	2623	13	Pest	kismaros	2007	Község
+786	Kisnána	3264	10	Heves	kisnana	1063	község
+332	Kisnémedi	2165	13	Pest	kisnemedi	694	Község
+2285	Kisnyárád	7759	2	Baranya	kisnyarad	227	Község
+248	Kisoroszi	2024	13	Pest	kisoroszi	951	Község
+1526	Kispalád	4956	15	Szabolcs-Szatmár-Bereg	kispalad	599	Község
+2614	Kispirit	8496	19	Veszprém	kispirit	101	Község
+3248	Kisrákos	9936	18	Vas	kisrakos	226	Község
+1163	Kisrozvágy	3965	5	Borsod-Abaúj-Zemplén	kisrozvagy	209	Község
+967	Kissikátor	3627	5	Borsod-Abaúj-Zemplén	kissikator	953	Község
+3113	Kissomlyó	9555	18	Vas	kissomlyo	260	Község
+1828	Kisszállás	6421	3	Bács-Kiskun	kisszallas	2660	Község
+1983	Kisszékely	7082	17	Tolna	kisszekely	377	Község
+1529	Kisszekeres	4963	15	Szabolcs-Szatmár-Bereg	kisszekeres	17985	Község
+2606	Kisszőlős	8483	19	Veszprém	kisszolos	138	Község
+2309	Kistapolca	7823	2	Baranya	kistapolca	210	Község
+321	Kistarcsa	2143	13	Pest	kistarcsa	11083	Város
+1896	Kistelek	6760	6	Csongrád	kistelek	7479	Város
+924	Kistokaj	3553	5	Borsod-Abaúj-Zemplén	kistokaj	2027	Község
+1979	Kistormás	7068	17	Tolna	kistormas	360	Község
+2290	Kistótfalu	7768	2	Baranya	kistotfalu	351	Község
+1606	Kisújszállás	5310	16	Jász-Nagykun-Szolnok	kisujszallas	12086	Város
+3193	Kisunyom	9772	18	Vas	kisunyom	422	Község
+1430	Kisvárda	4600	15	Szabolcs-Szatmár-Bereg	kisvarda	1035	Város
+1480	Kisvarsány	4811	15	Szabolcs-Szatmár-Bereg	kisvarsany	595	Község
+2038	Kisvejke	7183	17	Tolna	kisvejke	450	Község
+1909	Kiszombor	6775	6	Csongrád	kiszombor	4242	Község
+1907	Klárafalva	6773	6	Csongrád	klarafalva	528	Község
+639	Kocs	2898	11	Komárom-Esztergom	kocs	2663	Község
+585	Kocsér	2755	13	Pest	kocser	1934	Község
+2053	Kocsola	7212	17	Tolna	kocsola	1358	Község
+1465	Kocsord	4751	15	Szabolcs-Szatmár-Bereg	kocsord	3025	Község
+370	Kóka	2243	13	Pest	koka	4531	Község
+1309	Kokad	4284	9	Hajdú-Bihar	kokad	697	Község
+2594	Kolontár	8468	19	Veszprém	kolontar	828	Község
+1253	Komádi	4138	9	Hajdú-Bihar	komadi	6024	Város
+641	Komárom	2900	11	Komárom-Esztergom	komarom	19804	Város
+642	Komárom (Koppánymonostor)	2903	11	Komárom-Esztergom	koppanymonostor	0	
+644	Komárom (Szőny)	2921	11	Komárom-Esztergom	szony	0	
+645	Komárom 6.	2922	11	Komárom-Esztergom	komarom	0	
+2083	Komló (Mecsekjánosi)	7300	2	Baranya	mecsekjanosi	0	
+2084	Komló 2.	7302	2	Baranya	komlo	0	
+1474	Komlódtótfalu	4765	15	Szabolcs-Szatmár-Bereg	komlodtotfalu	5211	Város
+1145	Komlóska	3937	5	Borsod-Abaúj-Zemplén	komloska	329	Község
+1433	Komoró	4622	15	Szabolcs-Szatmár-Bereg	komoro	1426	Község
+836	Kompolt	3356	10	Heves	kompolt	2146	község
+1043	Kondó	3775	5	Borsod-Abaúj-Zemplén	kondo	649	Község
+3253	Kondorfa	9943	18	Vas	kondorfa	556	Község
+1661	Kondoros	5553	4	Békés	kondoros	5500	Nagyközség
+2962	Kóny	9144	8	Győr-Moson-Sopron	kony	2717	Község
+1248	Konyár	4133	9	Hajdú-Bihar	konyar	2286	Község
+3086	Kópháza	9495	8	Győr-Moson-Sopron	kophaza	2028	Község
+1993	Koppányszántó	7094	17	Tolna	koppanyszanto	384	Község
+1105	Korlát	3886	5	Borsod-Abaúj-Zemplén	korlat	331	Község
+2945	Koroncó	9113	8	Győr-Moson-Sopron	koronco	1999	Község
+2320	Kórós	7841	2	Baranya	koros	219	Község
+495	Kosd	2612	13	Pest	kosd	2401	Község
+506	Kóspallag	2625	13	Pest	kospallag	744	Község
+1376	Kótaj	4482	15	Szabolcs-Szatmár-Bereg	kotaj	4534	Község
+2244	Kovácsszénája	7678	2	Baranya	kovacsszenaja	78	Község
+684	Kozárd	3053	12	Nógrád	kozard	1237	Község
+2889	Kozmadombja	8988	20	Zala	kozmadombja	179	Község
+2090	Köblény	7334	2	Baranya	kobleny	264	Község
+3290	Kökény	7639	2	Baranya	kokeny	0	
+2169	Kőkút	7530	14	Somogy	kokut	2685	Város
+1531	Kölcse	4965	15	Szabolcs-Szatmár-Bereg	kolcse	1354	Nagyközség
+1968	Kölesd	7052	17	Tolna	kolesd	1578	Község
+2260	Kölked	7717	2	Baranya	kolked	1112	Község
+844	Kömlő	3372	10	Heves	komlo	1989	község
+615	Kömlőd	2853	11	Komárom-Esztergom	komlod	1113	Község
+1515	Kömörő	4943	15	Szabolcs-Szatmár-Bereg	komoro	586	Község
+1778	Kömpöc	6134	3	Bács-Kiskun	kompoc	745	Község
+3231	Körmend	9900	18	Vas	kormend	12105	Város
+613	Környe	2851	11	Komárom-Esztergom	kornye	4613	Község
+941	Köröm	3577	5	Borsod-Abaúj-Zemplén	korom	1393	Község
+2667	Kőröshegy	8617	14	Somogy	koroshegy	1458	Község
+1647	Körösladány	5516	4	Békés	korosladany	4946	Város
+1657	Körösnagyharsány	5539	4	Békés	korosnagyharsany	671	Község
+1251	Körösszakál	4136	9	Hajdú-Bihar	korosszakal	884	Község
+1250	Körösszegapáti	4135	9	Hajdú-Bihar	korosszegapati	1017	Község
+1668	Köröstarcsa	5622	4	Békés	korostarcsa	2807	Község
+579	Kőröstetétlen	2745	13	Pest	korostetetlen	861	Község
+1654	Körösújfalu	5536	4	Békés	korosujfalu	627	Község
+2437	Kőszárhegy	8152	7	Fejér	koszarhegy	1585	Község
+3164	Kőszeg	9730	18	Vas	koszeg	11574	Város
+3161	Kőszegdoroszló	9725	18	Vas	koszegdoroszlo	279	Község
+2676	Kötcse	8627	14	Somogy	kotcse	547	Község
+1693	Kötegyán	5725	4	Békés	kotegyan	1545	Község
+1558	Kőtelek	5062	16	Jász-Nagykun-Szolnok	kotelek	1697	Község
+2242	Kővágótöttös	7675	2	Baranya	kovagotottos	374	Község
+1928	Kövegy	6912	6	Csongrád	kovegy	448	Község
+2497	Köveskál	8274	19	Veszprém	koveskal	422	Község
+445	Kulcs	2458	7	Fejér	kulcs	2568	Község
+1764	Kunadacs	6097	3	Bács-Kiskun	kunadacs	1623	Község
+1704	Kunágota	5746	4	Békés	kunagota	2988	Község
+1834	Kunbaja	6435	3	Bács-Kiskun	kunbaja	1728	Község
+1740	Kunbaracs	6043	3	Bács-Kiskun	kunbaracs	664	Község
+1623	Kuncsorba	5412	16	Jász-Nagykun-Szolnok	kuncsorba	697	Község
+1826	Kunfehértó	6413	3	Bács-Kiskun	kunfeherto	2253	Község
+1612	Kunhegyes	5340	16	Jász-Nagykun-Szolnok	kunhegyes	8396	Város
+1607	Kunmadaras	5321	16	Jász-Nagykun-Szolnok	kunmadaras	5872	Nagyközség
+1763	Kunpeszér	6096	3	Bács-Kiskun	kunpeszer	688	Község
+1772	Kunszállás	6115	3	Bács-Kiskun	kunszallas	1710	Község
+1628	Kunszentmárton	5440	16	Jász-Nagykun-Szolnok	kunszentmarton	9161	Város
+1629	Kunszentmárton (Kungyalu)	5449	16	Jász-Nagykun-Szolnok	kungyalu	0	
+1762	Kunszentmiklós	6090	3	Bács-Kiskun	kunszentmiklos	8734	Város
+2989	Kunsziget	9184	8	Győr-Moson-Sopron	kunsziget	1220	Község
+2655	Kup	8595	19	Veszprém	kup	484	Község
+1062	Kupa	3813	5	Borsod-Abaúj-Zemplén	kupa	166	Község
+2059	Kurd	7226	17	Tolna	kurd	1286	Község
+1016	Kurityán	3732	5	Borsod-Abaúj-Zemplén	kurityan	1741	Község
+2852	Kustánszeg	8919	20	Zala	kustanszeg	544	Község
+2177	Kutas	7541	14	Somogy	kutas	421	Község
+689	Kutasó	3066	12	Nógrád	kutaso	140	Község
+1892	Kübekháza	6755	6	Csongrád	kubekhaza	1586	Község
+3099	Külsővat	9532	19	Veszprém	kulsovat	780	Község
+2443	Küngös	8162	19	Veszprém	kungos	572	Község
+487	Lábatlan	2541	11	Komárom-Esztergom	labatlan	5315	Város
+488	Lábatlan 2.	2542	11	Komárom-Esztergom	labatlan	0	
+2182	Lábod	7551	14	Somogy	labod	2106	Község
+1164	Lácacséke	3967	5	Borsod-Abaúj-Zemplén	lacacseke	405	Község
+2172	Lad	7535	14	Somogy	lad	483	Község
+1742	Ladánybene	6045	3	Bács-Kiskun	ladanybene	1706	Község
+1048	Ládbesenyő	3780	5	Borsod-Abaúj-Zemplén	ladbesenyo	479	Község
+2427	Lajoskomárom	8136	7	Fejér	lajoskomarom	2424	Nagyközség
+1743	Lajosmizse	6050	3	Bács-Kiskun	lajosmizse	11665	Város
+2847	Lakhegy	8913	20	Zala	lakhegy	1076	Község
+1749	Lakitelek	6065	3	Bács-Kiskun	lakitelek	4666	Nagyközség
+2295	Lapáncsa	7775	2	Baranya	lapancsa	246	Község
+1410	Laskod	4543	15	Szabolcs-Szatmár-Bereg	laskod	1067	Község
+2834	Lasztonya	8887	20	Zala	lasztonya	859	Község
+2931	Lázi	9089	8	Győr-Moson-Sopron	lazi	586	Község
+243	Leányfalu	2016	13	Pest	leanyfalu	3409	Nagyközség
+469	Leányvár	2518	11	Komárom-Esztergom	leanyvar	1763	Község
+2970	Lébény	9155	8	Győr-Moson-Sopron	lebeny	3177	Nagyközség
+502	Legénd	2619	12	Nógrád	legend	518	Község
+1119	Legyesbénye	3904	5	Borsod-Abaúj-Zemplén	legyesbenye	1664	Község
+1071	Léh	3832	5	Borsod-Abaúj-Zemplén	leh	455	Község
+978	Lénárddaróc	3648	5	Borsod-Abaúj-Zemplén	lenarddaroc	150	Község
+2883	Lendvadedes	8978	20	Zala	lendvadedes	113	Község
+2882	Lendvajakabfa	8977	20	Zala	lendvajakabfa	61	Község
+2039	Lengyel	7184	2	Baranya	lengyel	587	Község
+2876	Lenti	8960	20	Zala	lenti	8623	Város
+3307	Lenti (Lentikápolna)	8966	20	Zala	lentikapolna	0	
+2423	Lepsény	8132	7	Fejér	lepseny	3306	Nagyközség
+2518	Lesencefalu	8318	19	Veszprém	lesencefalu	1178	Község
+2519	Lesenceistvánd	8319	19	Veszprém	lesenceistvand	993	Község
+1307	Létavértes (Nagyléta)	4281	9	Hajdú-Bihar	nagyleta	7379	Város
+1308	Létavértes (Vértes)	4283	9	Hajdú-Bihar	vertes	0	
+512	Letkés	2632	13	Pest	letkes	1149	Község
+2993	Levél	9221	8	Győr-Moson-Sopron	level	1843	Község
+1419	Levelek	4555	15	Szabolcs-Szatmár-Bereg	levelek	2951	Nagyközség
+2725	Libickozma	8707	14	Somogy	libickozma	43	Község
+2884	Lickóvadamos	8981	20	Zala	lickovadamos	1671	Község
+2087	Liget	7331	2	Baranya	liget	446	Község
+3002	Lipót	9233	8	Győr-Moson-Sopron	lipot	686	Község
+2284	Liptód	7757	2	Baranya	liptod	799	Község
+2802	Liszó	8831	20	Zala	liszo	415	Község
+2459	Litér	8196	19	Veszprém	liter	2154	Község
+1093	Litka	3866	5	Borsod-Abaúj-Zemplén	litka	59	Község
+750	Litke	3186	12	Nógrád	litke	900	Község
+2563	Lókút	8425	19	Veszprém	lokut	474	Község
+1493	Lónya	4836	15	Szabolcs-Szatmár-Bereg	lonya	807	Község
+378	Lórév	2309	13	Pest	lorev	312	Község
+2467	Lovas	8228	19	Veszprém	lovas	458	Község
+2401	Lovasberény	8093	7	Fejér	lovasbereny	2779	Község
+2826	Lovászi	8878	20	Zala	lovaszi	172	Község
+2636	Lovászpatona	8553	19	Veszprém	lovaszpatona	1292	Község
+1701	Lőkösháza	5743	4	Békés	lokoshaza	1935	Község
+665	Lőrinci	3021	10	Heves	lorinci	6047	város
+666	Lőrinci (Mátravidéki erőmű)	3022	10	Heves	matravideki eromu	0	
+668	Lőrinci (Selyp)	3024	10	Heves	selyp	0	
+3067	Lövő	9461	8	Győr-Moson-Sopron	lovo	1458	Község
+1441	Lövőpetri	4633	15	Szabolcs-Szatmár-Bereg	lovopetri	518	Község
+752	Ludányhalászi	3188	12	Nógrád	ludanyhalaszi	1579	Község
+791	Ludas	3274	10	Heves	ludas	853	község
+3160	Lukácsháza	9724	18	Vas	lukacshaza	1133	Község
+1124	Mád	3909	5	Borsod-Abaúj-Zemplén	mad	2413	Község
+1847	Madaras	6456	3	Bács-Kiskun	madaras	3148	Község
+1954	Madocsa	7026	17	Tolna	madocsa	1988	Község
+2978	Maglóca	9169	8	Győr-Moson-Sopron	magloca	769	Község
+366	Maglód	2234	13	Pest	maglod	11166	Város
+2092	Mágocs	7342	2	Baranya	magocs	2514	Város
+1523	Magosliget	4953	15	Szabolcs-Szatmár-Bereg	magosliget	284	Község
+1420	Magy	4556	15	Szabolcs-Szatmár-Bereg	magy	1058	Község
+2387	Magyaralmás	8071	7	Fejér	magyaralmas	1565	Község
+1681	Magyarbánhegyes	5667	4	Békés	magyarbanhegyes	2478	Község
+1938	Magyarcsanád	6932	6	Csongrád	magyarcsanad	1559	Község
+1714	Magyardombegyház	5838	4	Békés	magyardombegyhaz	310	Község
+2088	Magyaregregy	7332	2	Baranya	magyaregregy	790	Község
+2130	Magyaregres	7441	14	Somogy	magyaregres	0	
+718	Magyargéc	3133	12	Nógrád	magyargec	919	Község
+2623	Magyargencs	8517	19	Veszprém	magyargencs	582	Község
+1252	Magyarhomorog	4137	9	Hajdú-Bihar	magyarhomorog	984	Község
+1996	Magyarkeszi	7098	17	Tolna	magyarkeszi	1338	Község
+3263	Magyarlak	9962	18	Vas	magyarlak	929	Község
+2336	Magyarlukafa	7925	2	Baranya	magyarlukafa	108	Község
+3232	Magyarnádalja	9909	18	Vas	magyarnadalja	0	
+2585	Magyarpolány	8449	19	Veszprém	magyarpolany	1268	Község
+2286	Magyarsarlós	7761	2	Baranya	magyarsarlos	5795	Város
+3233	Magyarszecsőd	9912	18	Vas	magyarszecsod	448	Község
+2117	Magyarszék	7396	2	Baranya	magyarszek	1130	Község
+2775	Magyarszentmiklós	8776	20	Zala	magyarszentmiklos	284	Község
+2346	Magyartelek	7954	2	Baranya	magyartelek	433	Község
+395	Majosháza	2339	13	Pest	majoshaza	1459	Község
+2298	Majs	7783	2	Baranya	majs	1093	Község
+388	Makád	2322	13	Pest	makad	1271	Község
+1158	Makkoshotyka	3959	5	Borsod-Abaúj-Zemplén	makkoshotyka	959	Község
+863	Maklár	3397	10	Heves	maklar	2460	falu
+1925	Makó	6900	6	Csongrád	mako	25004	Város
+1926	Makó (Rákos)	6903	6	Csongrád	rakos	0	
+2630	Malomsok	8533	19	Veszprém	malomsok	569	Község
+883	Mályi	3434	5	Borsod-Abaúj-Zemplén	malyi	4415	Község
+975	Mályinka	3645	5	Borsod-Abaúj-Zemplén	malyinka	516	Község
+1447	Mándok	4644	15	Szabolcs-Szatmár-Bereg	mandok	4569	Város
+2085	Mánfa	7304	2	Baranya	manfa	849	Község
+274	Mány	2065	7	Fejér	many	2367	Község
+2271	Maráza	7733	2	Baranya	maraza	876	Község
+2721	Marcali	8700	14	Somogy	csomend	365	Község
+2722	Marcali	8701	14	Somogy	marcali	0	
+2727	Marcali (Horvátkút)	8709	14	Somogy	horvatkut	0	
+2629	Marcaltő	8532	19	Veszprém	marcalto	851	Község
+2628	Marcaltő (Ihász)	8531	19	Veszprém	ihasz	0	
+477	Máriahalom	2527	11	Komárom-Esztergom	mariahalom	681	Község
+3000	Máriakálnok	9231	8	Győr-Moson-Sopron	mariakalnok	1698	Község
+2235	Máriakéménd	7663	2	Baranya	mariakemend	543	Község
+510	Márianosztra	2629	13	Pest	marianosztra	888	Község
+1319	Máriapócs	4326	15	Szabolcs-Szatmár-Bereg	mariapocs	2217	Város
+784	Markaz	3262	10	Heves	markaz	1831	község
+698	Márkháza	3075	12	Nógrád	markhaza	242	Község
+2577	Márkó	8441	19	Veszprém	marko	1188	Község
+2352	Markóc	7967	2	Baranya	markoc	566	Község
+2974	Markotabödöge	9164	8	Győr-Moson-Sopron	markotabodoge	503	Község
+2835	Maróc	8888	20	Zala	maroc	182	Község
+2294	Márok	7774	2	Baranya	marok	493	Község
+2881	Márokföld	8976	20	Zala	marokfold	47	Község
+1507	Márokpapi	4932	15	Szabolcs-Szatmár-Bereg	marokpapi	429	Község
+1934	Maroslele	6921	6	Csongrád	maroslele	2166	Község
+1870	Mártély	6636	6	Csongrád	martely	1292	Község
+1627	Martfű	5435	16	Jász-Nagykun-Szolnok	martfu	7033	Város
+448	Martonvásár	2462	7	Fejér	martonvasar	5651	Város
+1028	Martonyi	3755	5	Borsod-Abaúj-Zemplén	martonyi	491	Község
+1450	Mátészalka	4700	15	Szabolcs-Szatmár-Bereg	mateszalka	17807	Város
+1451	Mátészalka 2.	4702	15	Szabolcs-Szatmár-Bereg	mateszalka	0	
+1843	Mátételke	6452	3	Bács-Kiskun	matetelke	575	Község
+772	Mátraballa	3247	10	Heves	matraballa	822	község
+771	Mátraderecske	3246	10	Heves	matraderecske	2105	község
+734	Mátramindszent	3155	12	Nógrád	matramindszent	894	Község
+726	Mátranovák	3143	12	Nógrád	matranovak	1110	Község
+3275	Mátranovák (Bányatelep)	3144	12	Nógrád	banyatelep	0	
+725	Mátraszele	3142	12	Nógrád	matraszele	1037	Község
+765	Mátraszentimre	3235	10	Heves	matraszentimre	535	Község
+764	Mátraszentimre (Galyatető)	3234	10	Heves	galyateto	0	
+691	Mátraszőlős	3068	12	Nógrád	matraszolos	1594	Község
+727	Mátraterenye (Homokterenye)	3145	12	Nógrád	homokterenye	1971	Község
+728	Mátraterenye (Nádújfalu)	3146	12	Nógrád	nadujfalu	0	
+699	Mátraverebély	3077	12	Nógrád	matraverebely	2119	Község
+2326	Matty	7854	2	Baranya	matty	376	Község
+2425	Mátyásdomb	8134	7	Fejér	matyasdomb	792	Község
+1492	Mátyus	4835	15	Szabolcs-Szatmár-Bereg	matyus	326	Község
+2100	Máza	7351	2	Baranya	maza	1309	Község
+2086	Mecsekpölöske	7305	2	Baranya	mecsekpoloske	450	Község
+2984	Mecsér	9176	8	Győr-Moson-Sopron	mecser	619	Község
+1677	Medgyesbodzás	5663	4	Békés	medgyesbodzas	1180	Község
+1678	Medgyesbodzás (Gábortelep)	5664	4	Békés	gabortelep	0	
+1680	Medgyesegyháza	5666	4	Békés	medgyesegyhaza	3984	Város
+1707	Medgyesegyháza (Bánkút)	5752	4	Békés	bankut	0	
+1971	Medina	7057	17	Tolna	medina	843	Község
+3186	Meggyeskovácsi	9757	18	Vas	meggyeskovacsi	714	Község
+1006	Megyaszó	3718	5	Borsod-Abaúj-Zemplén	megyaszo	2882	Község
+3184	Megyehíd	9754	18	Vas	megyehid	340	Község
+1694	Méhkerék	5726	4	Békés	mehkerek	2211	Község
+1540	Méhtelek	4975	15	Szabolcs-Szatmár-Bereg	mehtelek	806	Község
+2094	Mekényes	7344	2	Baranya	mekenyes	313	Község
+1841	Mélykút	6449	3	Bács-Kiskun	melykut	5641	Város
+2494	Mencshely	8271	19	Veszprém	mencshely	269	Község
+367	Mende	2235	13	Pest	mende	4294	Község
+1094	Méra	3871	5	Borsod-Abaúj-Zemplén	mera	1804	Község
+2958	Mérges	9136	8	Győr-Moson-Sopron	merges	96	Község
+1333	Mérk	4352	15	Szabolcs-Szatmár-Bereg	merk	0	
+2135	Mernye	7453	14	Somogy	mernye	241	Község
+3098	Mersevát	9531	18	Vas	mersevat	613	Község
+3139	Mesterháza	9662	18	Vas	mesterhaza	158	Község
+3109	Mesteri	9551	18	Vas	mesteri	264	Község
+1631	Mesterszállás	5452	16	Jász-Nagykun-Szolnok	mesterszallas	0	
+1027	Meszes	3754	5	Borsod-Abaúj-Zemplén	meszes	210	Község
+3177	Meszlen	9745	18	Vas	meszlen	241	Község
+1674	Mezőberény	5650	4	Békés	mezobereny	10994	Város
+888	Mezőcsát	3450	5	Borsod-Abaúj-Zemplén	mezocsat	6508	Város
+2126	Mezőcsokonya	7434	14	Somogy	mezocsokonya	1285	Község
+424	Mezőfalva	2422	7	Fejér	mezofalva	5038	Nagyközség
+1697	Mezőgyán	5732	4	Békés	mezogyan	1220	Község
+1710	Mezőhegyes	5820	4	Békés	mezohegyes	5882	Város
+1632	Mezőhék	5453	16	Jász-Nagykun-Szolnok	mezohek	364	Község
+884	Mezőkeresztes	3441	5	Borsod-Abaúj-Zemplén	mezokeresztes	4215	Város
+2428	Mezőkomárom	8137	7	Fejér	mezokomarom	1024	Község
+1708	Mezőkovácsháza	5800	4	Békés	mezokovacshaza	6596	Város
+866	Mezőkövesd	3400	5	Borsod-Abaúj-Zemplén	mezokovesd	17272	Város
+1444	Mezőladány	4641	15	Szabolcs-Szatmár-Bereg	mezoladany	1102	Község
+2620	Mezőlak	8514	19	Veszprém	mezolak	1062	Község
+886	Mezőnagymihály	3443	5	Borsod-Abaúj-Zemplén	mezonagymihaly	1136	Község
+874	Mezőnyárád	3421	5	Borsod-Abaúj-Zemplén	mezonyarad	1708	Község
+2939	Mezőörs	9097	8	Győr-Moson-Sopron	mezoors	995	Község
+2940	Mezőörs (Mindszentpuszta)	9098	8	Győr-Moson-Sopron	mindszentpuszta	0	
+1236	Mezőpeterd	4118	9	Hajdú-Bihar	mezopeterd	594	Község
+1249	Mezősas	4134	9	Hajdú-Bihar	mezosas	722	Község
+849	Mezőszemere	3378	10	Heves	mezoszemere	1347	Község
+2424	Mezőszentgyörgy	8133	7	Fejér	mezoszentgyorgy	1426	Község
+1949	Mezőszilas	7017	7	Fejér	mezoszilas	2333	Község
+847	Mezőtárkány	3375	10	Heves	mezotarkany	1740	község
+1620	Mezőtúr	5400	16	Jász-Nagykun-Szolnok	mezotur	18426	Város
+1621	Mezőtúr 4.	5404	16	Jász-Nagykun-Szolnok	mezotur	0	
+1139	Mezőzombor	3931	5	Borsod-Abaúj-Zemplén	mezozombor	2559	Község
+748	Mihálygerge	3184	12	Nógrád	mihalygerge	636	Község
+2619	Mihályháza	8513	19	Veszprém	mihalyhaza	800	Község
+3030	Mihályi	9342	8	Győr-Moson-Sopron	mihalyi	1149	Község
+2156	Mike	7512	14	Somogy	mike	377	Község
+576	Mikebuda	2736	13	Pest	mikebuda	778	Község
+2869	Mikekarácsonyfa	8949	20	Zala	mikekaracsonyfa	315	Község
+1302	Mikepércs	4271	9	Hajdú-Bihar	mikepercs	4249	Község
+2082	Miklósi	7286	14	Somogy	miklosi	0	
+3303	Miklósi	8669	14	Somogy	miklosi	0	
+824	Mikófalva	3344	10	Heves	mikofalva	790	Község
+3227	Mikosszéplak	9835	18	Vas	mikosszeplak	367	Község
+2850	Milejszeg	8917	20	Zala	milejszeg	0	
+1520	Milota	4948	15	Szabolcs-Szatmár-Bereg	milota	953	Község
+1868	Mindszent	6630	6	Csongrád	mindszent	7332	Város
+2500	Mindszentkálla	8282	19	Veszprém	mindszentkalla	306	Község
+1813	Miske	6343	3	Bács-Kiskun	miske	1922	Község
+898	Miskolc	3500	5	Borsod-Abaúj-Zemplén	miskolc	0	
+899	Miskolc	3501	5	Borsod-Abaúj-Zemplén	miskolc	0	
+910	Miskolc	3524	5	Borsod-Abaúj-Zemplén	miskolc	0	
+911	Miskolc	3525	5	Borsod-Abaúj-Zemplén	miskolc	171548	Megyei jogú város
+912	Miskolc	3526	5	Borsod-Abaúj-Zemplén	miskolc	0	
+913	Miskolc	3527	5	Borsod-Abaúj-Zemplén	miskolc	0	
+914	Miskolc	3528	5	Borsod-Abaúj-Zemplén	miskolc	0	
+915	Miskolc	3529	5	Borsod-Abaúj-Zemplén	miskolc	0	
+916	Miskolc	3530	5	Borsod-Abaúj-Zemplén	miskolc	0	
+917	Miskolc	3531	5	Borsod-Abaúj-Zemplén	miskolc	0	
+918	Miskolc	3532	5	Borsod-Abaúj-Zemplén	miskolc	0	
+919	Miskolc	3533	5	Borsod-Abaúj-Zemplén	miskolc	0	
+920	Miskolc	3534	5	Borsod-Abaúj-Zemplén	miskolc	0	
+921	Miskolc	3535	5	Borsod-Abaúj-Zemplén	miskolc	0	
+903	Miskolc (Bükkszentlászló)	3510	5	Borsod-Abaúj-Zemplén	bukkszentlaszlo	0	
+3277	Miskolc (Diósgyőr)	3511	5	Borsod-Abaúj-Zemplén	diosgyor	0	
+904	Miskolc (Egyetemváros)	3515	5	Borsod-Abaúj-Zemplén	egyetemvaros	0	
+905	Miskolc (Görömböly)	3516	5	Borsod-Abaúj-Zemplén	goromboly	0	
+901	Miskolc (Hejőcsaba)	3508	5	Borsod-Abaúj-Zemplén	hejocsaba	0	
+906	Miskolc (Lillafüred)	3517	5	Borsod-Abaúj-Zemplén	lillafured	0	
+908	Miskolc (Miskolctapolca)	3519	5	Borsod-Abaúj-Zemplén	miskolctapolca	0	
+907	Miskolc (Pereces)	3518	5	Borsod-Abaúj-Zemplén	pereces	0	
+909	Miskolc (Szirma)	3521	5	Borsod-Abaúj-Zemplén	szirma	0	
+902	Miskolc (Újdiósgyőr)	3509	5	Borsod-Abaúj-Zemplén	ujdiosgyor	0	
+900	Miskolc 4.	3504	5	Borsod-Abaúj-Zemplén	miskolc	0	
+1976	Miszla	7065	17	Tolna	miszla	318	Község
+643	Mocsa	2911	11	Komárom-Esztergom	mocsa	2313	Község
+324	Mogyoród	2146	13	Pest	mogyorod	6091	Nagyközség
+484	Mogyorósbánya	2535	11	Komárom-Esztergom	mogyorosbanya	870	Község
+2374	Moha	8042	7	Fejér	moha	534	Község
+2253	Mohács	7700	2	Baranya	mohacs	19735	Város
+2258	Mohács (Sárhát)	7715	2	Baranya	sarhat	0	
+2257	Mohács (Újmohács)	7714	2	Baranya	ujmohacs	0	
+2254	Mohács 2.	7701	2	Baranya	mohacs	0	
+563	Mohora	2698	12	Nógrád	mohora	1005	Község
+2815	Molnári	8863	20	Zala	molnari	732	Község
+1061	Monaj	3812	5	Borsod-Abaúj-Zemplén	monaj	990	Község
+1120	Monok	3905	5	Borsod-Abaúj-Zemplén	monok	1737	Község
+350	Monor	2200	13	Pest	monor	18025	Város
+351	Monor 1.	2201	13	Pest	monor	0	
+352	Monor 2.	2202	13	Pest	monor	0	
+356	Monorierdő	2213	13	Pest	monorierdo	4239	Község
+825	Mónosbél	3345	10	Heves	monosbel	387	község 
+1306	Monostorpályi	4275	9	Hajdú-Bihar	monostorpalyi	2259	Község
+2496	Monoszló	8273	19	Veszprém	monoszlo	135	Község
+2278	Monyoród	7751	2	Baranya	monyorod	203	Község
+2384	Mór	8060	7	Fejér	mor	14760	Város
+2029	Mórágy	7165	17	Tolna	moragy	815	Község
+1911	Mórahalom	6782	6	Csongrád	morahalom	6010	Város
+1776	Móricgát	6132	3	Bács-Kiskun	moricgat	505	Község
+2953	Mórichida	9131	8	Győr-Moson-Sopron	morichida	854	Község
+2067	Mosdós	7257	14	Somogy	mosdos	0	
+2990	Mosonmagyaróvár	9200	8	Győr-Moson-Sopron	mosonmagyarovar	31970	Város
+2991	Mosonmagyaróvár 1.	9201	8	Győr-Moson-Sopron	mosonmagyarovar	0	
+2969	Mosonszentmiklós	9154	8	Győr-Moson-Sopron	mosonszentmiklos	2480	Község
+2988	Mosonszentmiklós (Mosonújhely)	9183	8	Győr-Moson-Sopron	mosonujhely	0	
+3009	Mosonszolnok	9245	8	Győr-Moson-Sopron	mosonszolnok	1691	Község
+2027	Mőcsény	7163	17	Tolna	mocseny	366	Község
+2040	Mucsfa	7185	17	Tolna	mucsfa	1124	Község
+2047	Mucsi	7195	17	Tolna	mucsi	506	Község
+1023	Múcsony	3744	5	Borsod-Abaúj-Zemplén	mucsony	0	
+923	Muhi	3552	5	Borsod-Abaúj-Zemplén	muhi	547	Község
+2803	Murakeresztúr	8834	20	Zala	murakeresztur	1870	Község
+2820	Murarátka	8871	20	Zala	muraratka	279	Község
+2035	Murga	7176	17	Tolna	murga	92	Község
+1684	Murony	5672	4	Békés	murony	1382	Község
+1500	Nábrád	4911	15	Szabolcs-Szatmár-Bereg	nabrad	962	Község
+2404	Nadap	8097	7	Fejér	nadap	528	Község
+2434	Nádasdladány	8145	7	Fejér	nadasdladany	1832	Község
+1273	Nádudvar	4181	9	Hajdú-Bihar	nadudvar	9330	Város
+2705	Nágocs	8674	14	Somogy	nagocs	0	
+2625	Nagyacsád	8521	19	Veszprém	nagyacsad	674	Község
+1505	Nagyar	4922	15	Szabolcs-Szatmár-Bereg	nagyar	717	Község
+2153	Nagyatád	7500	14	Somogy	nagyatad	0	
+2154	Nagyatád	7501	14	Somogy	nagyatad	11712	Város
+2919	Nagybajcs	9063	8	Győr-Moson-Sopron	nagybajcs	949	Község
+2797	Nagybakónak	8821	20	Zala	nagybakonak	446	Község
+1682	Nagybánhegyes	5668	4	Békés	nagybanhegyes	1428	Község
+1859	Nagybaracska	6527	3	Bács-Kiskun	nagybaracska	2450	Község
+971	Nagybarca	3641	5	Borsod-Abaúj-Zemplén	nagybarca	953	Község
+2696	Nagyberény	8656	14	Somogy	nagybereny	1406	Község
+2065	Nagyberki	7255	14	Somogy	nagyberki	478	Község
+514	Nagybörzsöny	2634	13	Pest	nagyborzsony	788	Község
+3081	Nagycenk	9485	8	Győr-Moson-Sopron	nagycenk	1823	Nagyközség
+956	Nagycsécs	3598	5	Borsod-Abaúj-Zemplén	nagycsecs	867	Község
+2677	Nagycsepely	8628	14	Somogy	nagycsepely	0	
+1358	Nagycserkesz	4445	15	Szabolcs-Szatmár-Bereg	nagycserkesz	1883	Község
+2637	Nagydém	8554	19	Veszprém	nagydem	403	Község
+1485	Nagydobos	4823	15	Szabolcs-Szatmár-Bereg	nagydobos	2177	Község
+1964	Nagydorog	7044	17	Tolna	nagydorog	2845	Nagyközség
+1336	Nagyecsed	4355	15	Szabolcs-Szatmár-Bereg	nagyecsed	6904	Város
+1933	Nagyér	6917	6	Csongrád	nagyer	594	Község
+2554	Nagyesztergár	8415	19	Veszprém	nagyesztergar	1248	Község
+794	Nagyfüged	3282	10	Heves	nagyfuged	1875	község 
+3141	Nagygeresd	9664	18	Vas	nagygeresd	0	
+2535	Nagygörbő	8356	20	Zala	nagygorbo	190	Község
+2634	Nagygyimót	8551	19	Veszprém	nagygyimot	608	Község
+2093	Nagyhajmás	7343	2	Baranya	nagyhajmas	403	Község
+1379	Nagyhalász	4485	15	Szabolcs-Szatmár-Bereg	nagyhalasz	5946	Város
+2308	Nagyharsány	7822	2	Baranya	nagyharsany	1590	Község
+1211	Nagyhegyes	4064	9	Hajdú-Bihar	nagyhegyes	2772	Község
+1180	Nagyhuta	3994	5	Borsod-Abaúj-Zemplén	nagyhuta	210	Község
+648	Nagyigmánd	2942	11	Komárom-Esztergom	nagyigmand	3017	Nagyközség
+1619	Nagyiván	5363	16	Jász-Nagykun-Szolnok	nagyivan	1222	Község
+1316	Nagykálló	4320	15	Szabolcs-Szatmár-Bereg	nagykallo	10151	Város
+1706	Nagykamarás	5751	4	Békés	nagykamaras	1606	Község
+2791	Nagykanizsa	8800	20	Zala	nagykanizsa	51099	Megyei jogú város
+2795	Nagykanizsa (Palin)	8808	20	Zala	palin	0	
+2796	Nagykanizsa (Sánc)	8809	20	Zala	sanc	0	
+2792	Nagykanizsa 2.	8802	20	Zala	nagykanizsa	0	
+2793	Nagykanizsa 3.	8803	20	Zala	nagykanizsa	0	
+2794	Nagykanizsa 4.	8804	20	Zala	nagykanizsa	0	
+427	Nagykarácsony	2425	7	Fejér	nagykaracsony	1481	Község
+586	Nagykáta	2760	13	Pest	nagykata	12903	Város
+1244	Nagykereki	4127	9	Hajdú-Bihar	nagykereki	1280	Község
+715	Nagykeresztúr	3129	12	Nógrád	nagykeresztur	668	Község
+1991	Nagykónyi	7092	17	Tolna	nagykonyi	1202	Község
+2181	Nagykorpád	7545	14	Somogy	nagykorpad	618	Község
+292	Nagykovácsi	2094	13	Pest	nagykovacsi	6548	Nagyközség
+2274	Nagykozár	7741	2	Baranya	nagykozar	1838	Község
+660	Nagykökényes	3012	10	Heves	nagykokenyes	612	község
+3202	Nagykölked	9784	18	Vas	nagykolked	179	Község
+582	Nagykőrös	2750	13	Pest	nagykoros	24936	Város
+583	Nagykőrös 1.	2751	13	Pest	nagykoros	0	
+584	Nagykőrös 2.	2752	13	Pest	nagykoros	0	
+1561	Nagykörű	5065	16	Jász-Nagykun-Szolnok	nagykoru	1695	Község
+1939	Nagylak	6933	6	Csongrád	nagylak	545	Község
+740	Nagylóc	3175	12	Nógrád	nagyloc	1623	Község
+435	Nagylók	2435	7	Fejér	nagylok	1128	Község
+3078	Nagylózs	9482	8	Győr-Moson-Sopron	nagylozs	938	Község
+1864	Nagymágocs	6622	6	Csongrád	nagymagocs	3210	Nagyközség
+2104	Nagymányok	7355	17	Tolna	nagymanyok	2459	Város
+507	Nagymaros	2626	13	Pest	nagymaros	4820	Város
+3234	Nagymizdó	9913	18	Vas	nagymizdo	100	Község
+2299	Nagynyárád	7784	2	Baranya	nagynyarad	761	Község
+524	Nagyoroszi	2645	12	Nógrád	nagyoroszi	2180	Község
+2846	Nagypáli	8912	20	Zala	nagypali	275	Község
+2269	Nagypall	7731	2	Baranya	nagypall	439	Község
+1268	Nagyrábé	4173	9	Hajdú-Bihar	nagyrabe	2299	Nagyközség
+2758	Nagyrada	8746	20	Zala	nagyrada	545	Község
+759	Nagyréde	3214	10	Heves	nagyrede	3326	Község
+1635	Nagyrév	5463	16	Jász-Nagykun-Szolnok	nagyrev	713	Község
+474	Nagysáp	2524	11	Komárom-Esztergom	nagysap	1643	Község
+2752	Nagyszakácsi	8739	14	Somogy	nagyszakacsi	0	
+1986	Nagyszékely	7085	17	Tolna	nagyszekely	447	Község
+1528	Nagyszekeres	4962	15	Szabolcs-Szatmár-Bereg	nagyszekeres	580	Község
+1722	Nagyszénás	5931	4	Békés	nagyszenas	5425	Nagyközség
+2921	Nagyszentjános	9072	8	Győr-Moson-Sopron	nagyszentjanos	1874	Község
+1995	Nagyszokoly	7097	17	Tolna	nagyszokoly	915	Község
+864	Nagytálya	3398	10	Heves	nagytalya	892	község
+320	Nagytarcsa	2142	13	Pest	nagytarcsa	3488	Község
+2643	Nagytevel	8562	19	Veszprém	nagytevel	563	Község
+3224	Nagytilaj	9832	18	Vas	nagytilaj	150	Község
+2301	Nagytótfalu	7800	2	Baranya	nagytotfalu	402	Község
+1862	Nagytőke	6612	6	Csongrád	nagytoke	466	Község
+837	Nagyút	3357	10	Heves	nagyut	779	község
+1481	Nagyvarsány	4812	15	Szabolcs-Szatmár-Bereg	nagyvarsany	1299	Község
+2329	Nagyváty	7912	2	Baranya	nagyvaty	657	Község
+2041	Nagyvejke	7186	17	Tolna	nagyvejke	184	Község
+2385	Nagyveleg	8065	7	Fejér	nagyveleg	665	Község
+423	Nagyvenyim	2421	7	Fejér	nagyvenyim	4208	Község
+829	Nagyvisnyó	3349	10	Heves	nagyvisnyo	1033	Község
+2056	Nak	7215	17	Tolna	nak	616	Község
+1416	Napkor	4552	15	Szabolcs-Szatmár-Bereg	napkor	3867	Község
+3210	Nárai	9797	18	Vas	narai	1208	Község
+3206	Narda	9793	18	Vas	narda	512	Község
+640	Naszály	2899	11	Komárom-Esztergom	naszaly	2441	Község
+893	Négyes	3463	5	Borsod-Abaúj-Zemplén	negyes	303	Község
+976	Nekézseny	3646	5	Borsod-Abaúj-Zemplén	nekezseny	829	Község
+2854	Nemesapáti	8923	20	Zala	nemesapati	545	Község
+950	Nemesbikk	3592	5	Borsod-Abaúj-Zemplén	nemesbikk	1028	Község
+1514	Nemesborzova	4942	15	Szabolcs-Szatmár-Bereg	nemesborzova	266	Község
+3181	Nemesbőd	9749	18	Vas	nemesbod	660	Község
+2540	Nemesbük	8371	20	Zala	nemesbuk	707	Község
+2738	Nemesdéd	8722	14	Somogy	nemesded	794	Község
+2626	Nemesgörzsöny	8522	19	Veszprém	nemesgorzsony	726	Község
+2596	Nemeshany	8471	19	Veszprém	nemeshany	116	Község
+3071	Nemeskér	9471	8	Győr-Moson-Sopron	nemesker	229	Község
+3107	Nemeskeresztúr	9548	18	Vas	nemeskeresztur	306	Község
+2734	Nemeskisfalud	8717	14	Somogy	nemeskisfalud	0	
+3103	Nemeskocs	9542	18	Vas	nemeskocs	877	Község
+3196	Nemeskolta	9775	18	Vas	nemeskolta	384	Község
+3140	Nemesládony	9663	18	Vas	nemesladony	330	Község
+3259	Nemesmedves	9953	18	Vas	nemesmedves	360	Község
+1815	Nemesnádudvar	6345	3	Bács-Kiskun	nemesnadudvar	1989	Község
+3305	Nemespátró	8857	20	Zala	nemespatro	0	
+2849	Nemesrádó	8915	20	Zala	nemesrado	321	Község
+3200	Nemesrempehollós	9782	18	Vas	nemesrempehollos	289	Község
+3100	Nemesszalók	9533	19	Veszprém	nemesszalok	2692	Község
+2856	Nemesszentandrás	8925	20	Zala	nemesszentandras	849	Község
+2751	Nemesvid	8738	14	Somogy	nemesvid	824	Község
+2512	Nemesvita	8311	19	Veszprém	nemesvita	976	Község
+2851	Németfalu	8918	20	Zala	nemetfalu	364	Község
+1960	Németkér	7039	17	Tolna	nemetker	1805	Község
+731	Nemti	3152	12	Nógrád	nemti	772	Község
+490	Neszmély	2544	11	Komárom-Esztergom	neszmely	1429	Község
+501	Nézsa	2618	12	Nógrád	nezsa	1122	Község
+3135	Nick	9652	18	Vas	nick	546	Község
+2724	Nikla	8706	14	Somogy	nikla	339	Község
+521	Nógrád	2642	12	Nógrád	nograd	1542	Község
+557	Nógrádkövesd	2691	12	Nógrád	nogradkovesd	727	Község
+717	Nógrádmegyer	3132	12	Nógrád	nogradmegyer	1730	Község
+553	Nógrádsáp	2685	12	Nógrád	nogradsap	920	Község
+744	Nógrádsipek	3179	12	Nógrád	nogradsipek	719	Község
+751	Nógrádszakál	3187	12	Nógrád	nogradszakal	632	Község
+2651	Nóráp	8591	19	Veszprém	norap	220	Község
+2590	Noszlop	8456	19	Veszprém	noszlop	1096	Község
+812	Noszvaj	3325	10	Heves	noszvaj	1781	község
+814	Novaj	3327	10	Heves	novaj	1489	Község
+1095	Novajidrány	3872	5	Borsod-Abaúj-Zemplén	novajidrany	455	Község
+493	Nőtincs	2610	12	Nógrád	notincs	1150	Község
+2938	Nyalka	9096	8	Győr-Moson-Sopron	nyalka	465	Község
+2618	Nyárád	8512	19	Veszprém	nyarad	971	Község
+572	Nyáregyháza	2723	13	Pest	nyaregyhaza	3860	Község
+1734	Nyárlőrinc	6032	3	Bács-Kiskun	nyarlorinc	2416	Község
+569	Nyársapát	2712	13	Pest	nyarsapat	1917	Község
+882	Nyékládháza	3433	5	Borsod-Abaúj-Zemplén	nyekladhaza	5085	Város
+485	Nyergesújfalu	2536	11	Komárom-Esztergom	nyergesujfalu	7833	Város
+486	Nyergesújfalu (Viscosa)	2537	11	Komárom-Esztergom	viscosa	0	
+1059	Nyésta	3809	5	Borsod-Abaúj-Zemplén	nyesta	183	Község
+2664	Nyim	8612	14	Somogy	nyim	0	
+1299	Nyírábrány	4264	9	Hajdú-Bihar	nyirabrany	4093	Nagyközség
+1297	Nyíracsád	4262	9	Hajdú-Bihar	nyiracsad	4068	Község
+2588	Nyirád	8454	19	Veszprém	nyirad	0	
+1296	Nyíradony	4254	9	Hajdú-Bihar	nyiradony	7985	Város
+1295	Nyíradony (Aradványpuszta)	4253	9	Hajdú-Bihar	aradvanypuszta	0	
+1294	Nyíradony (Tamásipuszta)	4252	9	Hajdú-Bihar	tamasipuszta	0	
+1314	Nyírbátor	4300	15	Szabolcs-Szatmár-Bereg	nyirbator	13060	Város
+1342	Nyírbéltek	4372	15	Szabolcs-Szatmár-Bereg	nyirbeltek	2980	Nagyközség
+1338	Nyírbogát	4361	15	Szabolcs-Szatmár-Bereg	nyirbogat	3296	Nagyközség
+1392	Nyírbogdány	4511	15	Szabolcs-Szatmár-Bereg	nyirbogdany	3093	Község
+1337	Nyírcsaholy	4356	15	Szabolcs-Szatmár-Bereg	nyircsaholy	2340	Község
+1321	Nyírcsászári	4331	15	Szabolcs-Szatmár-Bereg	nyircsaszari	1262	Község
+1322	Nyírderzs	4332	15	Szabolcs-Szatmár-Bereg	nyirderzs	648	Község
+1347	Nyíregyháza	4400	15	Szabolcs-Szatmár-Bereg	nyiregyhaza	118874	Megyei jogú város
+1351	Nyíregyháza (Borbánya)	4405	15	Szabolcs-Szatmár-Bereg	borbanya	0	
+1292	Nyíregyháza (Butykatelep)	4246	15	Szabolcs-Szatmár-Bereg	butykatelep	0	
+1355	Nyíregyháza (Felsősima)	4433	15	Szabolcs-Szatmár-Bereg	felsosima	0	
+3280	Nyíregyháza (Jósaváros)	4413	15	Szabolcs-Szatmár-Bereg	josavaros	0	
+1354	Nyíregyháza (Nyírszőlős)	4432	15	Szabolcs-Szatmár-Bereg	nyirszolos	0	
+1415	Nyíregyháza (Oros)	4551	15	Szabolcs-Szatmár-Bereg	oros	0	
+3281	Nyíregyháza (Rozsrétszőlős)	4435	15	Szabolcs-Szatmár-Bereg	rozsretszolos	0	
+1353	Nyíregyháza (Sóstófürdő)	4431	15	Szabolcs-Szatmár-Bereg	sostofurdo	0	
+1375	Nyíregyháza (Sóstóhegy)	4481	15	Szabolcs-Szatmár-Bereg	sostohegy	0	
+1348	Nyíregyháza 2.	4402	15	Szabolcs-Szatmár-Bereg	nyiregyhaza	0	
+1349	Nyíregyháza 3.	4403	15	Szabolcs-Szatmár-Bereg	nyiregyhaza	0	
+1350	Nyíregyháza 4.	4404	15	Szabolcs-Szatmár-Bereg	nyiregyhaza	0	
+1352	Nyíregyháza 7.	4407	15	Szabolcs-Szatmár-Bereg	nyiregyhaza	0	
+1339	Nyírgelse	4362	15	Szabolcs-Szatmár-Bereg	nyirgelse	1200	Község
+1315	Nyírgyulaj	4311	15	Szabolcs-Szatmár-Bereg	nyirgyulaj	2055	Község
+1184	Nyíri	3998	5	Borsod-Abaúj-Zemplén	nyiri	452	Község
+1405	Nyíribrony	4535	15	Szabolcs-Szatmár-Bereg	nyiribrony	1148	Község
+1408	Nyírjákó	4541	15	Szabolcs-Szatmár-Bereg	nyirjako	886	Község
+1411	Nyírkarász	4544	15	Szabolcs-Szatmár-Bereg	nyirkarasz	2422	Község
+1323	Nyírkáta	4333	15	Szabolcs-Szatmár-Bereg	nyirkata	1923	Község
+1407	Nyírkércs	4537	15	Szabolcs-Szatmár-Bereg	nyirkercs	822	Község
+1440	Nyírlövő	4632	15	Szabolcs-Szatmár-Bereg	nyirlovo	724	Község
+1341	Nyírlugos	4371	15	Szabolcs-Szatmár-Bereg	nyirlugos	2996	Város
+1426	Nyírmada	4564	15	Szabolcs-Szatmár-Bereg	nyirmada	5034	Város
+1298	Nyírmártonfalva	4263	9	Hajdú-Bihar	nyirmartonfalva	2066	Község
+1453	Nyírmeggyes	4722	15	Szabolcs-Szatmár-Bereg	nyirmeggyes	2737	Község
+1340	Nyírmihálydi	4363	15	Szabolcs-Szatmár-Bereg	nyirmihalydi	0	
+1484	Nyírparasznya	4822	15	Szabolcs-Szatmár-Bereg	nyirparasznya	997	Község
+1401	Nyírpazony	4531	15	Szabolcs-Szatmár-Bereg	nyirpazony	3385	Község
+1346	Nyírpilis	4376	15	Szabolcs-Szatmár-Bereg	nyirpilis	858	Község
+1397	Nyírtass	4522	15	Szabolcs-Szatmár-Bereg	nyirtass	2141	Község
+1364	Nyírtelek	4461	15	Szabolcs-Szatmár-Bereg	nyirtelek	7196	Város
+1418	Nyírtét	4554	15	Szabolcs-Szatmár-Bereg	nyirtet	1139	Község
+1402	Nyírtura	4532	15	Szabolcs-Szatmár-Bereg	nyirtura	1910	Község
+1329	Nyírvasvári	4341	15	Szabolcs-Szatmár-Bereg	nyirvasvari	2011	Község
+1056	Nyomár	3795	5	Borsod-Abaúj-Zemplén	nyomar	655	Község
+3150	Nyőgér	9682	18	Vas	nyoger	334	Község
+2925	Nyúl	9082	8	Győr-Moson-Sopron	nyul	4081	Község
+272	Óbarok	2063	7	Fejér	obarok	794	Község
+403	Ócsa	2364	13	Pest	ocsa	9099	Város
+2013	Őcsény	7143	17	Tolna	ocseny	2592	Község
+2251	Ófalu	7695	2	Baranya	ofalu	1664	Község
+1422	Ófehértó	4558	15	Szabolcs-Szatmár-Bereg	ofeherto	2647	Község
+1936	Óföldeák	6923	6	Csongrád	ofoldeak	497	Község
+2523	Óhíd	8342	20	Zala	ohid	619	Község
+1653	Okány	5534	4	Békés	okany	2791	Község
+2347	Okorág	7957	2	Baranya	okorag	191	Község
+3220	Olaszfa	9824	18	Vas	olaszfa	470	Község
+2553	Olaszfalu	8414	19	Veszprém	olaszfalu	1108	Község
+1141	Olaszliszka	3933	5	Borsod-Abaúj-Zemplén	olaszliszka	1739	Község
+1487	Olcsva	4826	15	Szabolcs-Szatmár-Bereg	olcsva	721	Község
+1503	Olcsvaapáti	4914	15	Szabolcs-Szatmár-Bereg	olcsvaapati	334	Község
+2310	Old	7824	2	Baranya	old	316	Község
+3165	Ólmod	9733	18	Vas	olmod	817	Község
+2833	Oltárc	8886	20	Zala	oltarc	284	Község
+931	Onga	3562	5	Borsod-Abaúj-Zemplén	onga	4919	Nagyközség
+922	Ónod	3551	5	Borsod-Abaúj-Zemplén	onod	2563	Község
+1483	Ópályi	4821	15	Szabolcs-Szatmár-Bereg	opalyi	3077	Község
+1902	Ópusztaszer	6767	6	Csongrád	opusztaszer	2197	Község
+1326	Őr	4336	15	Szabolcs-Szatmár-Bereg	or	1507	Község
+329	Őrbottyán	2162	13	Pest	orbottyan	0	
+2680	Ordacsehi	8635	14	Somogy	ordacsehi	0	
+1808	Ordas	6335	3	Bács-Kiskun	ordas	479	Község
+3266	Orfalu	9982	18	Vas	orfalu	392	Község
+2243	Orfű	7677	2	Baranya	orfu	969	Község
+1755	Orgovány	6077	3	Bács-Kiskun	orgovany	3420	Község
+543	Őrhalom	2671	12	Nógrád	orhalom	1151	Község
+3245	Őrimagyarósd	9933	18	Vas	orimagyarosd	242	Község
+2885	Ormándlak	8983	20	Zala	ormandlak	557	Község
+1022	Ormosbánya	3743	5	Borsod-Abaúj-Zemplén	ormosbanya	1816	Község
+1715	Orosháza	5900	4	Békés	oroshaza	0	
+1717	Orosháza (Gyopárosfürdő)	5904	4	Békés	gyoparosfurdo	0	
+1716	Orosháza (Rákóczitelep)	5903	4	Békés	rakoczitelep	0	
+1718	Orosháza (Szentetornya)	5905	4	Békés	szentetornya	0	
+2592	Oroszi	8458	19	Veszprém	oroszi	144	Község
+610	Oroszlány	2840	11	Komárom-Esztergom	oroszlany	19962	Város
+611	Oroszlány 1.	2841	11	Komárom-Esztergom	oroszlany	0	
+612	Oroszlány 2.	2842	11	Komárom-Esztergom	oroszlany	0	
+2756	Orosztony	8744	20	Zala	orosztony	505	Község
+2872	Ortaháza	8954	20	Zala	ortahaza	129	Község
+2809	Őrtilos	8854	14	Somogy	ortilos	589	Község
+2442	Ősi	8161	19	Veszprém	osi	2179	Község
+3038	Osli	9354	8	Győr-Moson-Sopron	osli	937	Község
+3089	Ostffyasszonyfa	9512	18	Vas	ostffyasszonyfa	420	Község
+813	Ostoros	3326	10	Heves	ostoros	2741	község
+3221	Oszkó	9825	18	Vas	oszko	678	Község
+949	Oszlár	3591	5	Borsod-Abaúj-Zemplén	oszlar	431	Község
+2133	Osztopán	7444	14	Somogy	osztopan	460	Község
+958	Ózd	3600	5	Borsod-Abaúj-Zemplén	ozd	38698	Város
+960	Ózd (Bánszállás)	3604	5	Borsod-Abaúj-Zemplén	banszallas	0	
+979	Ózd (Center)	3651	5	Borsod-Abaúj-Zemplén	center	0	
+988	Ózd (Hódoscsépány)	3661	5	Borsod-Abaúj-Zemplén	hodoscsepany	0	
+959	Ózd (Sajóvárkony)	3603	5	Borsod-Abaúj-Zemplén	sajovarkony	0	
+989	Ózd (Somsálybánya)	3662	5	Borsod-Abaúj-Zemplén	somsalybanya	0	
+965	Ózd (Szentsimon)	3625	5	Borsod-Abaúj-Zemplén	szentsimon	0	
+962	Ózd (Uraj)	3621	5	Borsod-Abaúj-Zemplén	uraj	0	
+2316	Ózdfalu	7836	2	Baranya	ozdfalu	462	Község
+2896	Ozmánbük	8998	20	Zala	ozmanbuk	199	Község
+1987	Ozora	7086	17	Tolna	ozora	1809	Község
+2505	Öcs	8292	19	Veszprém	ocs	230	Község
+1630	Öcsöd	5451	16	Jász-Nagykun-Szolnok	ocsod	3670	Nagyközség
+1468	Ököritófülpös	4755	15	Szabolcs-Szatmár-Bereg	okoritofulpos	1908	Nagyközség
+3121	Ölbő	9621	18	Vas	olbo	774	Község
+1343	Ömböly	4373	15	Szabolcs-Szatmár-Bereg	omboly	477	Község
+1796	Öregcsertő	6311	3	Bács-Kiskun	oregcserto	957	Község
+2718	Öreglak	8697	14	Somogy	oreglak	1643	Község
+412	Örkény	2377	13	Pest	orkeny	4895	Város
+1594	Örményes	5222	16	Jász-Nagykun-Szolnok	ormenyes	1161	Község
+1663	Örménykút	5556	4	Békés	ormenykut	456	Község
+2474	Örvényes	8242	19	Veszprém	orvenyes	365	Község
+2454	Öskü	8191	19	Veszprém	osku	2322	Község
+2968	Öttevény	9153	8	Győr-Moson-Sopron	otteveny	2868	Község
+1913	Öttömös	6784	6	Csongrád	ottomos	809	Község
+2155	Ötvöskónyi	7511	14	Somogy	otvoskonyi	0	
+1162	Pácin	3964	5	Borsod-Abaúj-Zemplén	pacin	1533	Község
+3219	Pácsony	9823	18	Vas	pacsony	295	Község
+2861	Padár	8935	20	Zala	padar	66	Község
+1753	Páhi	6075	3	Bács-Kiskun	pahi	1259	Község
+2402	Pákozd	8095	7	Fejér	pakozd	2980	Község
+1956	Paks	7030	17	Tolna	paks	19957	Város
+1955	Paks (Dunakömlőd)	7027	17	Tolna	dunakomlod	0	
+1957	Paks 1.	7031	17	Tolna	paks	0	
+1958	Paks 2.	7032	17	Tolna	paks	0	
+1962	Pálfa	7042	17	Tolna	palfa	1658	Község
+3309	Pálfiszeg	8990	20	Zala	palfiszeg	0	
+3033	Páli	9345	8	Győr-Moson-Sopron	pali	407	Község
+2291	Palkonya	7771	2	Baranya	palkonya	330	Község
+2188	Pálmajor	7561	14	Somogy	palmajor	3369	Város
+1769	Pálmonostora	6112	3	Bács-Kiskun	palmonostora	1906	Község
+783	Pálosvörösmart	3261	10	Heves	palosvorosmart	2613	Község
+2267	Palotabozsok	7727	2	Baranya	palotabozsok	995	Község
+676	Palotás	3042	12	Nógrád	palotas	1700	Község
+2468	Paloznak	8229	19	Veszprém	paloznak	1979	Község
+2719	Pamuk	8698	14	Somogy	pamuk	274	Község
+357	Pánd	2214	13	Pest	pand	2027	Község
+3249	Pankasz	9937	18	Vas	pankasz	471	Község
+2932	Pannonhalma	9090	8	Győr-Moson-Sopron	pannonhalma	3525	Város
+1115	Pányok	3898	5	Borsod-Abaúj-Zemplén	panyok	261	Község
+1502	Panyola	4913	15	Szabolcs-Szatmár-Bereg	panyola	630	Község
+1439	Pap	4631	15	Szabolcs-Szatmár-Bereg	pap	1947	Község
+2616	Pápa	8500	19	Veszprém	papa	32199	Város
+2617	Pápa (Borsosgyőr)	8511	19	Veszprém	borsosgyor	0	
+2658	Pápa (Tapolcafő)	8598	19	Veszprém	tapolcafo	0	
+2653	Pápadereske	8593	19	Veszprém	papadereske	299	Község
+2656	Pápakovácsi	8596	19	Veszprém	papakovacsi	592	Község
+2654	Pápasalamon	8594	19	Veszprém	papasalamon	359	Község
+2639	Pápateszér	8556	19	Veszprém	papateszer	1258	Község
+2452	Papkeszi	8183	19	Veszprém	papkeszi	1631	Község
+3092	Pápoc	9515	18	Vas	papoc	348	Község
+1328	Papos	4338	15	Szabolcs-Szatmár-Bereg	papos	0	
+766	Parád	3240	10	Heves	parad	2093	Nagyközség
+769	Parád (Parádfürdő)	3244	10	Heves	paradfurdo	0	
+767	Parádsasvár	3242	10	Heves	paradsasvar	487	község
+1045	Parasznya	3777	5	Borsod-Abaúj-Zemplén	parasznya	1271	Község
+1990	Pári	7091	17	Tolna	pari	676	Község
+1374	Paszab	4475	15	Szabolcs-Szatmár-Bereg	paszab	1339	Község
+685	Pásztó	3060	12	Nógrád	paszto	9784	Város
+688	Pásztó (Hasznos)	3065	12	Nógrád	hasznos	0	
+701	Pásztó (Mátrakeresztes)	3082	12	Nógrád	matrakeresztes	0	
+3012	Pásztori	9311	8	Győr-Moson-Sopron	pasztori	398	Község
+2800	Pat	8825	20	Zala	pat	852	Község
+527	Patak	2648	12	Nógrád	patak	944	Község
+2141	Patalom	7463	14	Somogy	patalom	894	Község
+3296	Patapoklosi	7923	2	Baranya	patapoklosi	0	
+2400	Pátka	8092	7	Fejér	patka	1659	Község
+2173	Patosfa	7536	14	Somogy	patosfa	0	
+1398	Pátroha	4523	15	Szabolcs-Szatmár-Bereg	patroha	3094	Község
+541	Patvarc	2668	12	Nógrád	patvarc	750	Község
+277	Páty	2071	13	Pest	paty	6601	Község
+1475	Pátyod	4766	15	Szabolcs-Szatmár-Bereg	patyod	686	Község
+456	Pázmánd	2476	7	Fejér	pazmand	2046	Község
+2928	Pázmándfalu	9085	8	Győr-Moson-Sopron	pazmandfalu	998	Község
+310	Pécel	2119	13	Pest	pecel	14793	Város
+3289	Pécs	7600	2	Baranya	pecs	0	
+2218	Pécs	7621	2	Baranya	pecs	154509	Megyei jogú város
+2219	Pécs	7622	2	Baranya	pecs	0	
+2220	Pécs	7623	2	Baranya	pecs	0	
+2221	Pécs	7624	2	Baranya	pecs	0	
+2222	Pécs	7625	2	Baranya	pecs	0	
+2223	Pécs	7626	2	Baranya	pecs	0	
+2224	Pécs	7627	2	Baranya	pecs	0	
+2225	Pécs	7628	2	Baranya	pecs	0	
+2226	Pécs	7629	2	Baranya	pecs	0	
+2227	Pécs	7630	2	Baranya	pecs	0	
+2228	Pécs	7631	2	Baranya	pecs	0	
+2229	Pécs	7632	2	Baranya	pecs	0	
+2230	Pécs	7633	2	Baranya	pecs	0	
+2231	Pécs	7634	2	Baranya	pecs	0	
+2232	Pécs	7635	2	Baranya	pecs	0	
+2233	Pécs	7636	2	Baranya	pecs	0	
+2249	Pécs (Hird)	7693	2	Baranya	hird	0	
+2248	Pécs (Vasas)	7691	2	Baranya	vasas	0	
+2200	Pécs 1.	7601	2	Baranya	pecs	0	
+2208	Pécs 10.	7610	2	Baranya	pecs	0	
+2209	Pécs 11.	7611	2	Baranya	pecs	0	
+2210	Pécs 12.	7612	2	Baranya	pecs	0	
+2211	Pécs 13.	7613	2	Baranya	pecs	0	
+2212	Pécs 14.	7614	2	Baranya	pecs	0	
+2213	Pécs 15.	7615	2	Baranya	pecs	0	
+2214	Pécs 16.	7616	2	Baranya	pecs	0	
+2215	Pécs 17.	7617	2	Baranya	pecs	0	
+2216	Pécs 18.	7618	2	Baranya	pecs	0	
+2217	Pécs 19.	7619	2	Baranya	pecs	0	
+2201	Pécs 2.	7602	2	Baranya	pecs	0	
+2202	Pécs 3.	7603	2	Baranya	pecs	0	
+2203	Pécs 4.	7604	2	Baranya	pecs	0	
+2204	Pécs 5.	7605	2	Baranya	pecs	0	
+2205	Pécs 6.	7606	2	Baranya	pecs	0	
+2206	Pécs 7.	7607	2	Baranya	pecs	0	
+2207	Pécs 8.	7608	2	Baranya	pecs	0	
+2289	Pécsdevecser	7766	2	Baranya	pecsdevecser	129	Község
+2287	Pécsudvard	7762	2	Baranya	pecsudvard	0	
+2313	Pellérd	7831	2	Baranya	pellerd	2185	Község
+851	Pély	3381	10	Heves	pely	1592	község
+497	Penc	2614	13	Pest	penc	1450	Község
+1301	Penészlek	4267	15	Szabolcs-Szatmár-Bereg	peneszlek	1013	Község
+2564	Pénzesgyőr	8426	19	Veszprém	penzesgyor	357	Község
+1513	Penyige	4941	15	Szabolcs-Szatmár-Bereg	penyige	786	Község
+2941	Pér	9099	8	Győr-Moson-Sopron	per	2415	Község
+280	Perbál	2074	13	Pest	perbal	2095	Község
+3158	Perenye	9722	18	Vas	perenye	701	Község
+3166	Peresznye	9734	18	Vas	peresznye	0	
+3080	Pereszteg	9484	8	Győr-Moson-Sopron	pereszteg	1388	Község
+431	Perkáta	2431	7	Fejér	perkata	4114	Nagyközség
+516	Perőcsény	2637	13	Pest	perocseny	371	Község
+2193	Péterhida	7582	14	Somogy	peterhida	0	
+353	Péteri	2209	13	Pest	peteri	2137	Község
+774	Pétervására	3250	10	Heves	petervasara	2403	város
+2408	Pétfürdő	8105	19	Veszprém	petfurdo	4944	Nagyközség
+1409	Petneháza	4542	15	Szabolcs-Szatmár-Bereg	petnehaza	1905	Község
+667	Petőfibánya	3023	10	Heves	petofibanya	2979	község
+1770	Petőfiszállás	6113	3	Bács-Kiskun	petofiszallas	1576	Község
+3064	Petőháza	9443	8	Győr-Moson-Sopron	petohaza	1038	Község
+3222	Petőmihályfa	9826	18	Vas	petomihalyfa	170	Község
+2818	Petrivente	8866	20	Zala	petrivente	2247	Község
+2831	Petrivente	8884	20	Zala	petrivente	409	Község
+3298	Pettend	7980	7	Fejér	pettend	0	
+719	Piliny	3134	12	Nógrád	piliny	648	Község
+571	Pilis	2721	13	Pest	pilis	11557	Város
+295	Pilisborosjenő	2097	13	Pest	pilisborosjeno	3510	Község
+282	Piliscsaba	2081	13	Pest	piliscsaba	7335	Nagyközség
+287	Piliscsaba (Klotildliget)	2087	13	Pest	klotildliget	0	
+470	Piliscsév	2519	11	Komárom-Esztergom	piliscsev	2400	Község
+281	Pilisjászfalu	2080	13	Pest	pilisjaszfalu	1453	Község
+252	Pilismarót	2028	11	Komárom-Esztergom	pilismarot	2044	Község
+293	Pilisszántó	2095	13	Pest	pilisszanto	14034	Község
+284	Pilisszentiván	2084	13	Pest	pilisszentivan	2453	Község
+296	Pilisszentkereszt	2098	13	Pest	pilisszentkereszt	4375	Község
+3270	Pilisszentkereszt (Dobogókő)	2099	13	Pest	dobogoko	0	
+238	Pilisszentlászló	2009	13	Pest	pilisszentlaszlo	2243	Község
+285	Pilisvörösvár	2085	13	Pest	pilisvorosvar	1107	Város
+1985	Pincehely	7084	17	Tolna	pincehely	2449	Nagyközség
+3241	Pinkamindszent	9922	18	Vas	pinkamindszent	169	Község
+3077	Pinnye	9481	8	Győr-Moson-Sopron	pinnye	363	Község
+1345	Piricse	4375	15	Szabolcs-Szatmár-Bereg	piricse	1912	Község
+1827	Pirtó	6414	3	Bács-Kiskun	pirto	1007	Község
+1930	Pitvaros	6914	6	Csongrád	pitvaros	1564	Község
+2283	Pócsa	7756	2	Baranya	pocsa	473	Község
+1242	Pocsaj	4125	9	Hajdú-Bihar	pocsaj	2740	Nagyközség
+244	Pócsmegyer	2017	13	Pest	pocsmegyer	1810	Község
+1320	Pócspetri	4327	15	Szabolcs-Szatmár-Bereg	pocspetri	1773	Község
+2237	Pogány	7666	2	Baranya	pogany	1180	Község
+2743	Pogányszentpéter	8728	14	Somogy	poganyszentpeter	0	
+2140	Polány	7458	14	Somogy	polany	0	
+2439	Polgárdi	8154	7	Fejér	polgardi	6666	Város
+2438	Polgárdi-ipartelepek	8153	7	Fejér	polgardi-ipartelepek	0	
+240	Pomáz	2013	13	Pest	pomaz	16859	Város
+1470	Porcsalma	4761	15	Szabolcs-Szatmár-Bereg	porcsalma	2811	Nagyközség
+858	Poroszló	3388	10	Heves	poroszlo	3018	község
+3120	Porpác	9612	18	Vas	porpac	401	Község
+2567	Porva	8429	19	Veszprém	porva	486	Község
+3131	Pósfa	9636	18	Vas	posfa	291	Község
+2359	Potony	7977	14	Somogy	potony	0	
+3022	Potyond	9324	8	Győr-Moson-Sopron	potyond	650	Község
+2857	Pölöske	8929	20	Zala	poloske	933	Község
+2012	Pörböly	7142	17	Tolna	porboly	584	Község
+2873	Pördefölde	8956	20	Zala	pordefolde	142	Község
+2770	Pötréte	8767	20	Zala	potrete	785	Község
+1134	Prügy	3925	5	Borsod-Abaúj-Zemplén	prugy	2665	Község
+536	Pusztaberki	2658	12	Nógrád	pusztaberki	175	Község
+3046	Pusztacsalád	9373	8	Győr-Moson-Sopron	pusztacsalad	276	Község
+3171	Pusztacsó	9739	18	Vas	pusztacso	0	
+1427	Pusztadobos	4565	15	Szabolcs-Szatmár-Bereg	pusztadobos	1444	Község
+2866	Pusztaederics	8946	20	Zala	pusztaederics	351	Község
+1181	Pusztafalu	3995	5	Borsod-Abaúj-Zemplén	pusztafalu	233	Község
+1719	Pusztaföldvár	5919	4	Békés	pusztafoldvar	1931	Község
+1959	Pusztahencse	7038	17	Tolna	pusztahencse	1068	Község
+2838	Pusztamagyaród	8895	20	Zala	pusztamagyarod	605	Község
+1914	Pusztamérges	6785	6	Csongrád	pusztamerges	1216	Község
+2589	Pusztamiske	8455	19	Veszprém	pusztamiske	443	Község
+1579	Pusztamonostor	5125	16	Jász-Nagykun-Szolnok	pusztamonostor	1669	Község
+1679	Pusztaottlaka	5665	4	Békés	pusztaottlaka	416	Község
+1097	Pusztaradvány	3874	5	Borsod-Abaúj-Zemplén	pusztaradvany	254	Község
+463	Pusztaszabolcs	2490	7	Fejér	pusztaszabolcs	6419	Város
+2669	Pusztaszemes	8619	14	Somogy	pusztaszemes	0	
+2839	Pusztaszentlászló	8896	20	Zala	pusztaszentlaszlo	660	Község
+1904	Pusztaszer	6769	6	Csongrád	pusztaszer	1518	Község
+413	Pusztavacs	2378	13	Pest	pusztavacs	1415	Község
+2386	Pusztavám	8066	7	Fejér	pusztavam	2579	Község
+260	Pusztazámor	2039	13	Pest	pusztazamor	1146	Község
+968	Putnok	3630	5	Borsod-Abaúj-Zemplén	putnok	7490	Város
+551	Püspökhatvan	2682	13	Pest	puspokhatvan	1496	Község
+1260	Püspökladány	4150	9	Hajdú-Bihar	puspokladany	15759	Város
+1261	Püspökladány 2.	4152	9	Hajdú-Bihar	puspokladany	0	
+3197	Püspökmolnári	9776	18	Vas	puspokmolnari	920	Község
+333	Püspökszilágy	2166	13	Pest	puspokszilagy	770	Község
+3014	Rábacsanak	9313	8	Győr-Moson-Sopron	rabacsanak	557	Község
+3262	Rábagyarmat	9961	18	Vas	rabagyarmat	816	Község
+3198	Rábahídvég	9777	18	Vas	rabahidveg	1038	Község
+3032	Rábakecöl	9344	8	Győr-Moson-Sopron	rabakecol	788	Község
+2960	Rábapatona	9142	8	Győr-Moson-Sopron	rabapatona	2525	Község
+3132	Rábapaty	9641	18	Vas	rabapaty	1733	Község
+2964	Rábapordány	9146	8	Győr-Moson-Sopron	rabapordany	1110	Község
+3025	Rábasebes	9327	8	Győr-Moson-Sopron	rabasebes	101	Község
+3017	Rábaszentandrás	9316	8	Győr-Moson-Sopron	rabaszentandras	515	Község
+2957	Rábaszentmihály	9135	8	Győr-Moson-Sopron	rabaszentmihaly	535	Község
+2955	Rábaszentmiklós	9133	8	Győr-Moson-Sopron	rabaszentmiklos	224	Község
+3020	Rábatamási	9322	8	Győr-Moson-Sopron	rabatamasi	1043	Község
+446	Rácalmás	2459	7	Fejér	racalmas	4436	Város
+451	Ráckeresztúr	2465	7	Fejér	rackeresztur	3364	Község
+377	Ráckeve	2300	13	Pest	rackeve	9868	Város
+496	Rád	2613	13	Pest	rad	1835	Község
+2307	Rádfalva	7817	2	Baranya	radfalva	741	Község
+1044	Radostyán	3776	5	Borsod-Abaúj-Zemplén	radostyan	662	Község
+2996	Rajka	9224	8	Győr-Moson-Sopron	rajka	2643	Község
+1069	Rakacaszend	3826	5	Borsod-Abaúj-Zemplén	rakacaszend	410	Község
+1367	Rakamaz	4465	15	Szabolcs-Szatmár-Bereg	rakamaz	5072	Város
+730	Rákóczibánya	3151	12	Nógrád	rakoczibanya	673	Község
+1567	Rákóczifalva	5085	16	Jász-Nagykun-Szolnok	rakoczifalva	5572	Város
+1566	Rákócziújfalu	5084	16	Jász-Nagykun-Szolnok	rakocziujfalu	2080	Község
+2142	Ráksi	7464	14	Somogy	raksi	0	
+2879	Ramocsa	8973	20	Zala	ramocsa	80	Község
+1406	Ramocsaháza	4536	15	Szabolcs-Szatmár-Bereg	ramocsahaza	1572	Község
+1469	Rápolt	4756	15	Szabolcs-Szatmár-Bereg	rapolt	162	Község
+1072	Rásonysápberencs	3833	5	Borsod-Abaúj-Zemplén	rasonysapberencs	604	Község
+1123	Rátka	3908	5	Borsod-Abaúj-Zemplén	ratka	1000	Község
+3257	Rátót	9951	18	Vas	ratot	21	Község
+2933	Ravazd	9091	8	Győr-Moson-Sopron	ravazd	1249	Község
+770	Recsk	3245	10	Heves	recsk	2988	nagyközség
+630	Réde	2886	11	Komárom-Esztergom	rede	1451	Község
+1110	Regéc	3893	5	Borsod-Abaúj-Zemplén	regec	380	Község
+2045	Regöly	7193	17	Tolna	regoly	1250	Község
+1838	Rém	6446	3	Bács-Kiskun	rem	1401	Község
+3269	Remeteszőlős	2090	13	Pest	remeteszolos	0	
+929	Répáshuta	3559	5	Borsod-Abaúj-Zemplén	repashuta	506	Község
+3136	Répcelak	9653	18	Vas	repcelak	2724	Város
+3123	Répceszentgyörgy	9623	18	Vas	repceszentgyorgy	122	Község
+3075	Répcevis	9475	8	Győr-Moson-Sopron	repcevis	383	Község
+2923	Rétalap	9074	8	Győr-Moson-Sopron	retalap	570	Község
+1400	Rétközberencs	4525	15	Szabolcs-Szatmár-Bereg	retkozberencs	1162	Község
+529	Rétság	2651	12	Nógrád	retsag	2952	Város
+2483	Révfülöp	8253	19	Veszprém	revfulop	1242	Nagyközség
+1169	Révleányvár	3976	5	Borsod-Abaúj-Zemplén	revleanyvar	572	Község
+2542	Rezi	8373	20	Zala	rezi	1236	Község
+2830	Rigyác	8883	20	Zala	rigyac	422	Község
+742	Rimóc	3177	12	Nógrád	rimoc	1880	Község
+2183	Rinyabesenyő	7552	14	Somogy	rinyabesenyo	0	
+2168	Rinyakovácsi	7527	14	Somogy	rinyakovacsi	1031	Község
+2157	Rinyaszentkirály	7513	14	Somogy	rinyaszentkiraly	0	
+2186	Rinyaújlak	7556	14	Somogy	rinyaujlak	0	
+1425	Rohod	4563	15	Szabolcs-Szatmár-Bereg	rohod	1304	Község
+2572	Románd	8434	19	Veszprém	romand	328	Község
+532	Romhány	2654	12	Nógrád	romhany	2275	Község
+3292	Romonya	7743	2	Baranya	romonya	0	
+1536	Rozsály	4971	15	Szabolcs-Szatmár-Bereg	rozsaly	810	Község
+671	Rózsaszentmárton	3033	10	Heves	rozsaszentmarton	2053	község
+3260	Rönök	9954	18	Vas	ronok	444	Község
+1895	Röszke	6758	6	Csongrád	roszke	3392	Község
+1017	Rudabánya	3733	5	Borsod-Abaúj-Zemplén	rudabanya	2917	Város
+1021	Rudolftelep	3742	5	Borsod-Abaúj-Zemplén	rudolftelep	790	Község
+1915	Ruzsa	6786	6	Csongrád	ruzsa	2666	Község
+736	Ságújfalu	3162	12	Nógrád	sagujfalu	1085	Község
+2694	Ságvár	8654	14	Somogy	sagvar	321	Község
+1053	Sajóbábony	3792	5	Borsod-Abaúj-Zemplén	sajobabony	2961	Város
+1054	Sajóecseg	3793	5	Borsod-Abaúj-Zemplén	sajoecseg	1111	Község
+970	Sajógalgóc	3636	5	Borsod-Abaúj-Zemplén	sajogalgoc	389	Község
+940	Sajóhídvég	3576	5	Borsod-Abaúj-Zemplén	sajohidveg	1112	Község
+1007	Sajóivánka	3720	5	Borsod-Abaúj-Zemplén	sajoivanka	612	Község
+1052	Sajókeresztúr	3791	5	Borsod-Abaúj-Zemplén	sajokeresztur	1633	Község
+936	Sajólád	3572	5	Borsod-Abaúj-Zemplén	sajolad	3092	Község
+1042	Sajólászlófalva	3773	5	Borsod-Abaúj-Zemplén	sajolaszlofalva	423	Község
+984	Sajómercse	3656	5	Borsod-Abaúj-Zemplén	sajomercse	256	Község
+980	Sajónémeti	3652	5	Borsod-Abaúj-Zemplén	sajonemeti	556	Község
+945	Sajóörös	3586	5	Borsod-Abaúj-Zemplén	sajooros	1268	Község
+1002	Sajópálfala	3714	5	Borsod-Abaúj-Zemplén	sajopalfala	814	Község
+937	Sajópetri	3573	5	Borsod-Abaúj-Zemplén	sajopetri	1583	Község
+981	Sajópüspöki	3653	5	Borsod-Abaúj-Zemplén	sajopuspoki	557	Község
+1000	Sajósenye	3712	5	Borsod-Abaúj-Zemplén	sajosenye	462	Község
+1041	Sajószentpéter	3770	5	Borsod-Abaúj-Zemplén	sajoszentpeter	13408	Város
+957	Sajószöged	3599	5	Borsod-Abaúj-Zemplén	sajoszoged	2292	Község
+3127	Sajtoskál	9632	18	Vas	sajtoskal	426	Község
+2486	Salföld	8256	19	Veszprém	salfold	553	Község
+702	Salgótarján	3100	12	Nógrád	salgotarjan	40005	Megyei jogú város
+704	Salgótarján (Baglyasalja)	3102	12	Nógrád	baglyasalja	0	
+706	Salgótarján (Salgóbánya)	3109	12	Nógrád	salgobanya	0	
+705	Salgótarján (Zagyvapálfalva)	3104	12	Nógrád	zagyvapalfalva	0	
+724	Salgótarján (Zagyvaróna)	3141	12	Nógrád	zagyvarona	0	
+703	Salgótarján 1.	3101	12	Nógrád	salgotarjan	0	
+707	Salgótarján 10.	3110	12	Nógrád	salgotarjan	0	
+3174	Salköveskút	9742	18	Vas	salkoveskut	487	Község
+878	Sály	3425	5	Borsod-Abaúj-Zemplén	saly	1928	Község
+697	Sámsonháza	3074	12	Nógrád	samsonhaza	272	Község
+2799	Sand	8824	20	Zala	sand	437	Község
+1897	Sándorfalva	6762	6	Csongrád	sandorfalva	8237	Város
+2152	Sántos	7479	14	Somogy	santos	571	Község
+1271	Sáp	4176	9	Hajdú-Bihar	sap	1056	Község
+1303	Sáránd	4272	9	Hajdú-Bihar	sarand	2423	Község
+1147	Sárazsadány	3942	5	Borsod-Abaúj-Zemplén	sarazsadany	278	Község
+1940	Sárbogárd	7000	7	Fejér	sarbogard	13160	Város
+1950	Sárbogárd (Pusztaegres)	7018	7	Fejér	pusztaegres	0	
+1951	Sárbogárd (Sárhatvan)	7019	7	Fejér	sarhatvan	0	
+1942	Sárbogárd (Sárszentmiklós)	7003	7	Fejér	sarszentmiklos	0	
+1941	Sárbogárd 1.	7001	7	Fejér	sarbogard	0	
+1946	Sáregres	7014	7	Fejér	saregres	762	Község
+3216	Sárfimizdó	9813	18	Vas	sarfimizdo	774	Község
+2864	Sárhida	8944	20	Zala	sarhida	827	Község
+473	Sárisáp	2523	11	Komárom-Esztergom	sarisap	2958	Község
+1692	Sarkad	5720	4	Békés	sarkad	0	
+3285	Sarkad (Cukorgyár)	5722	4	Békés	cukorgyar	0	
+1696	Sarkadkeresztúr	5731	4	Békés	sarkadkeresztur	0	
+2378	Sárkeresztes	8051	7	Fejér	sarkeresztes	1568	Község
+2417	Sárkeresztúr	8125	7	Fejér	sarkeresztur	2590	Község
+2433	Sárkeszi	8144	7	Fejér	sarkeszi	598	Község
+2544	Sármellék	8391	20	Zala	sarmellek	1854	Község
+2296	Sárok	7781	2	Baranya	sarok	261	Község
+433	Sárosd	2433	7	Fejér	sarosd	3461	Nagyközség
+1151	Sárospatak	3950	5	Borsod-Abaúj-Zemplén	sarospatak	13487	Város
+1152	Sárospatak (Végardó)	3952	5	Borsod-Abaúj-Zemplén	vegardo	0	
+2015	Sárpilis	7145	17	Tolna	sarpilis	679	Község
+1266	Sárrétudvari	4171	9	Hajdú-Bihar	sarretudvari	3084	Nagyközség
+3059	Sarród	9435	8	Győr-Moson-Sopron	sarrod	1023	Község
+3058	Sarród (Fertőújlak)	9434	8	Győr-Moson-Sopron	fertoujlak	0	
+3312	Sarród (Nyárliget)	9438	8	Győr-Moson-Sopron	nyarliget	0	
+2418	Sárszentágota	8126	7	Fejér	sarszentagota	1415	Község
+1966	Sárszentlőrinc	7047	17	Tolna	sarszentlorinc	1040	Község
+2432	Sárszentmihály	8143	7	Fejér	sarszentmihaly	3076	Község
+856	Sarud	3386	10	Heves	sarud	1284	Község
+3116	Sárvár	9600	18	Vas	sarvar	15415	Város
+3118	Sárvár (Lánkapuszta)	9609	18	Vas	lankapuszta	0	
+3117	Sárvár (Rábasömjén)	9608	18	Vas	rabasomjen	0	
+2511	Sáska	8308	19	Veszprém	saska	303	Község
+987	Sáta	3659	5	Borsod-Abaúj-Zemplén	sata	1296	Község
+1172	Sátoraljaújhely	3980	5	Borsod-Abaúj-Zemplén	satoraljaujhely	16796	Város
+1149	Sátoraljaújhely (Károlyfalva)	3944	5	Borsod-Abaúj-Zemplén	karolyfalva	0	
+1150	Sátoraljaújhely (Rudabányácska)	3945	5	Borsod-Abaúj-Zemplén	rudabanyacska	0	
+1175	Sátoraljaújhely (Széphalom)	3988	5	Borsod-Abaúj-Zemplén	szephalom	0	
+2300	Sátorhely	7785	2	Baranya	satorhely	691	Község
+3203	Sé	9789	18	Vas	se	1378	Község
+2189	Segesd	7562	14	Somogy	segesd	685	Község
+2349	Sellye	7960	2	Baranya	sellye	216	Község
+1168	Semjén	3974	5	Borsod-Abaúj-Zemplén	semjen	1852	Nagyközség
+2814	Semjénháza	8862	20	Zala	semjenhaza	636	Község
+2781	Sénye	8788	20	Zala	senye	42	Község
+1403	Sényő	4533	15	Szabolcs-Szatmár-Bereg	senyo	1480	Község
+2410	Seregélyes	8111	7	Fejér	seregelyes	4569	Nagyközség
+2412	Seregélyes (Szőlőhegy)	8113	7	Fejér	szolohegy	0	
+1014	Serényfalva	3729	5	Borsod-Abaúj-Zemplén	serenyfalva	1073	Község
+2575	Sikátor	8439	19	Veszprém	sikator	336	Község
+2305	Siklósbodony	7814	2	Baranya	siklosbodony	144	Község
+1101	Sima	3881	5	Borsod-Abaúj-Zemplén	sima	3239	Város
+3128	Simaság	9633	18	Vas	simasag	135	Község
+1982	Simontornya	7081	17	Tolna	simontornya	4364	Város
+2030	Sióagárd	7171	17	Tolna	sioagard	1319	Község
+2659	Siófok	8600	14	Somogy	siofok	0	
+2660	Siófok	8602	14	Somogy	siofok	0	
+2663	Siófok (Balatonkiliti)	8611	14	Somogy	balatonkiliti	0	
+2662	Siófok (Balatonszéplak)	8609	14	Somogy	balatonszeplak	0	
+2661	Siófok 4.	8604	14	Somogy	siofok	0	
+2692	Siójut	8652	14	Somogy	siojut	0	
+817	Sirok	3332	10	Heves	sirok	2015	község
+3143	Sitke	9671	18	Vas	sitke	687	Község
+3016	Sobor	9315	8	Győr-Moson-Sopron	sobor	305	Község
+2944	Sokorópátka	9112	8	Győr-Moson-Sopron	sokoropatka	1116	Község
+1797	Solt	6320	3	Bács-Kiskun	solt	6972	Város
+1787	Soltszentimre	6223	3	Bács-Kiskun	soltszentimre	1347	Község
+1789	Soltvadkert	6230	3	Bács-Kiskun	soltvadkert	7744	Város
+2456	Sóly	8193	19	Veszprém	soly	457	Község
+283	Solymár	2083	13	Pest	solymar	10088	Nagyközség
+2695	Som	8655	14	Somogy	som	0	
+2602	Somlójenő	8478	19	Veszprém	somlojeno	324	Község
+2604	Somlóvásárhely	8481	19	Veszprém	somlovasarhely	1188	Község
+2136	Somodor	7454	14	Somogy	somodor	0	
+2079	Somogyacsa	7283	14	Somogy	somogyacsa	0	
+2335	Somogyapáti	7922	2	Baranya	somogyapati	202	Község
+2194	Somogyaracs	7584	14	Somogy	somogyaracs	1722	Község
+2134	Somogyaszaló	7452	14	Somogy	somogyaszalo	658	Község
+2710	Somogybabod	8684	14	Somogy	somogybabod	0	
+2812	Somogybükkösd	8858	14	Somogy	somogybukkosd	259	Község
+2742	Somogycsicsó	8726	14	Somogy	somogycsicso	0	
+2080	Somogydöröcske	7284	14	Somogy	somogydorocske	0	
+2699	Somogyegres	8666	14	Somogy	somogyegres	470	Község
+2726	Somogyfajsz	8708	14	Somogy	somogyfajsz	534	Község
+2137	Somogygeszti	7455	14	Somogy	somogygeszti	0	
+2334	Somogyhatvan	7921	2	Baranya	somogyhatvan	386	Község
+2704	Somogymeggyes	8673	14	Somogy	somogymeggyes	0	
+2746	Somogysámson	8733	14	Somogy	somogysamson	779	Község
+2127	Somogysárd	7435	14	Somogy	somogysard	1317	Község
+2750	Somogysimonyi	8737	14	Somogy	somogysimonyi	0	
+2723	Somogyszentpál	8705	14	Somogy	somogyszentpal	803	Község
+2190	Somogyszob	7563	14	Somogy	somogyszob	477	Község
+2709	Somogytúr	8683	14	Somogy	somogytur	0	
+2159	Somogyudvarhely	7515	14	Somogy	somogyudvarhely	1151	Község
+2720	Somogyvámos	8699	14	Somogy	somogyvamos	0	
+3297	Somogyviszló	7924	2	Baranya	somogyviszlo	0	
+2747	Somogyzsitfa	8734	14	Somogy	somogyzsitfa	304	Község
+708	Somoskőújfalu	3121	12	Nógrád	somoskoujfalu	2457	Község
+1524	Sonkád	4954	15	Szabolcs-Szatmár-Bereg	sonkad	755	Község
+2415	Soponya	8123	7	Fejér	soponya	1959	Nagyközség
+3049	Sopron	9400	8	Győr-Moson-Sopron	sopron	57244	Megyei jogú város
+3085	Sopron (Balf)	9494	8	Győr-Moson-Sopron	balf	0	
+3052	Sopron (Brennbergbánya)	9408	8	Győr-Moson-Sopron	brennbergbanya	0	
+3051	Sopron (Sopronkőhida)	9407	8	Győr-Moson-Sopron	sopronkohida	0	
+3050	Sopron 1.	9401	8	Győr-Moson-Sopron	sopron	0	
+3069	Sopronhorpács	9463	8	Győr-Moson-Sopron	sopronhorpacs	828	Község
+3079	Sopronkövesd	9483	8	Győr-Moson-Sopron	sopronkovesd	1165	Község
+3023	Sopronnémeti	9325	8	Győr-Moson-Sopron	sopronnemeti	288	Község
+3195	Sorkikápolna	9774	18	Vas	sorkikapolna	164	Község
+2828	Sormás	8881	20	Zala	sormas	933	Község
+3194	Sorokpolány	9773	18	Vas	sorokpolany	853	Község
+716	Sóshartyán	3131	12	Nógrád	soshartyan	944	Község
+259	Sóskút	2038	13	Pest	soskut	3083	Község
+1004	Sóstófalva	3716	5	Borsod-Abaúj-Zemplén	sostofalva	294	Község
+3149	Sótony	9681	18	Vas	sotony	654	Község
+2840	Söjtör	8897	20	Zala	sojtor	1584	Község
+3175	Söpte	9743	18	Vas	sopte	816	Község
+2388	Söréd	8072	7	Fejér	sored	518	Község
+2403	Sukoró	8096	7	Fejér	sukoro	1253	Község
+633	Súr	2889	11	Komárom-Esztergom	sur	1288	Község
+2811	Surd	8856	20	Zala	surd	618	Község
+1816	Sükösd	6346	3	Bács-Kiskun	sukosd	3964	Nagyközség
+369	Sülysáp (Tápiósáp)	2242	13	Pest	tapiosap	0	
+368	Sülysáp (Tápiósüly)	2241	13	Pest	tapiosuly	8254	Nagyközség
+2521	Sümeg	8330	19	Veszprém	sumeg	6650	Város
+2530	Sümegprága	8351	19	Veszprém	sumegpraga	663	Község
+489	Süttő	2543	11	Komárom-Esztergom	sutto	2107	Község
+2436	Szabadbattyán	8151	7	Fejér	szabadbattyan	4684	Nagyközség
+432	Szabadegyháza	2432	7	Fejér	szabadegyhaza	2299	Község
+2429	Szabadhídvég	8138	7	Fejér	szabadhidveg	904	Község
+2430	Szabadhidvég (Pélpuszta)	8139	7	Fejér	pelpuszta	0	
+2064	Szabadi	7253	14	Somogy	szabadi	0	
+1691	Szabadkígyós	5712	4	Békés	szabadkigyos	2798	Község
+1757	Szabadszállás	6080	3	Bács-Kiskun	szabadszallas	6646	Város
+2180	Szabás	7544	14	Somogy	szabas	0	
+1369	Szabolcs	4467	15	Szabolcs-Szatmár-Bereg	szabolcs	393	Község
+1414	Szabolcsbáka	4547	15	Szabolcs-Szatmár-Bereg	szabolcsbaka	1303	Község
+1388	Szabolcsveresmart	4496	15	Szabolcs-Szatmár-Bereg	szabolcsveresmart	1650	Község
+302	Szada	2111	13	Pest	szada	4278	Község
+2110	Szágy	7383	2	Baranya	szagy	164	Község
+2280	Szajk	7753	2	Baranya	szajk	862	Község
+818	Szajla	3334	10	Heves	szajla	655	község
+1563	Szajol	5081	16	Jász-Nagykun-Szolnok	szajol	4047	Község
+1050	Szakácsi	3786	5	Borsod-Abaúj-Zemplén	szakacsi	132	Község
+1980	Szakadát	7071	17	Tolna	szakadat	292	Község
+954	Szakáld	3596	5	Borsod-Abaúj-Zemplén	szakald	558	Község
+2044	Szakály	7192	17	Tolna	szakaly	1435	Község
+2054	Szakcs	7213	17	Tolna	szakcs	978	Község
+1809	Szakmár	6336	3	Bács-Kiskun	szakmar	1332	Község
+3246	Szaknyér	9934	18	Vas	szaknyer	214	Község
+1285	Szakoly	4234	15	Szabolcs-Szatmár-Bereg	szakoly	3022	Község
+3267	Szakonyfalu	9983	18	Vas	szakonyfalu	392	Község
+618	Szákszend	2856	11	Komárom-Esztergom	szakszend	1581	Község
+3252	Szalafő	9942	18	Vas	szalafo	233	Község
+2522	Szalapa	8341	20	Zala	szalapa	170	Község
+1090	Szalaszend	3863	5	Borsod-Abaúj-Zemplén	szalaszend	1114	Község
+2002	Szálka	7121	17	Tolna	szalka	607	Község
+1759	Szalkszentmárton	6086	3	Bács-Kiskun	szalkszentmarton	2992	Község
+737	Szalmatercs	3163	12	Nógrád	szalmatercs	1212	Község
+1476	Szamosangyalos	4767	15	Szabolcs-Szatmár-Bereg	szamosangyalos	556	Község
+1463	Szamosbecs	4745	15	Szabolcs-Szatmár-Bereg	szamosbecs	375	Község
+1452	Szamoskér	4721	15	Szabolcs-Szatmár-Bereg	szamosker	457	Község
+1486	Szamosszeg	4824	15	Szabolcs-Szatmár-Bereg	szamosszeg	321	Község
+1464	Szamostatárfalva	4746	15	Szabolcs-Szatmár-Bereg	szamostatarfalva	420	Község
+1457	Szamosújlak	4734	15	Szabolcs-Szatmár-Bereg	szamosujlak	2049	Község
+562	Szanda	2697	12	Nógrád	szanda	665	Község
+1775	Szank	6131	3	Bács-Kiskun	szank	2592	Község
+2671	Szántód	8622	14	Somogy	szantod	0	
+3018	Szany	9317	8	Győr-Moson-Sopron	szany	2301	Nagyközség
+2561	Szápár	8423	19	Veszprém	szapar	528	Község
+3287	Szárász	7188	2	Baranya	szarasz	0	
+1974	Szárazd	7063	17	Tolna	szarazd	236	Község
+3037	Szárföld	9353	8	Győr-Moson-Sopron	szarfold	923	Község
+276	Szárliget	2067	11	Komárom-Esztergom	szarliget	2333	Község
+1658	Szarvas	5540	4	Békés	szarvas	17479	Város
+682	Szarvasgede	3051	12	Nógrád	szarvasgede	435	Község
+810	Szarvaskő	3323	10	Heves	szarvasko	374	Község
+1554	Szászberek	5053	16	Jász-Nagykun-Szolnok	szaszberek	1018	Község
+1067	Szászfa	3821	5	Borsod-Abaúj-Zemplén	szaszfa	216	Község
+2099	Szászvár	7349	2	Baranya	szaszvar	2557	Nagyközség
+1517	Szatmárcseke	4945	15	Szabolcs-Szatmár-Bereg	szatmarcseke	1553	Község
+534	Szátok	2656	12	Nógrád	szatok	564	Község
+3250	Szatta	9938	18	Vas	szatta	297	Község
+1898	Szatymaz	6763	6	Csongrád	szatymaz	4688	Község
+2304	Szava	7813	2	Baranya	szava	359	Község
+436	Százhalombatta	2440	13	Pest	szazhalombatta	18533	Város
+437	Százhalombatta 2.	2442	13	Pest	szazhalombatta	0	
+438	Százhalombatta 3.	2443	13	Pest	szazhalombatta	0	
+2265	Szebény	7725	2	Baranya	szebeny	465	Község
+558	Szécsénke	2692	12	Nógrád	szecsenke	233	Község
+739	Szécsény	3170	12	Nógrád	szecseny	6221	Város
+720	Szécsényfelfalu	3135	12	Nógrád	szecsenyfelfalu	470	Község
+1970	Szedres	7056	17	Tolna	szedres	2364	Község
+1876	Szeged	6700	6	Csongrád	szeged	0	
+1879	Szeged	6720	6	Csongrád	szeged	165646	Megyei jogú város
+1880	Szeged	6721	6	Csongrád	szeged	0	
+1881	Szeged	6722	6	Csongrád	szeged	0	
+1882	Szeged	6723	6	Csongrád	szeged	0	
+1883	Szeged	6724	6	Csongrád	szeged	0	
+1884	Szeged	6725	6	Csongrád	szeged	0	
+1885	Szeged	6726	6	Csongrád	szeged	0	
+1886	Szeged	6727	6	Csongrád	szeged	0	
+1887	Szeged	6728	6	Csongrád	szeged	0	
+1888	Szeged	6729	6	Csongrád	szeged	0	
+1894	Szeged (Gyálarét)	6757	6	Csongrád	gyalaret	0	
+1917	Szeged (Kiskundorozsma)	6791	6	Csongrád	kiskundorozsma	0	
+1877	Szeged (Szentmihály)	6710	6	Csongrád	szentmihaly	0	
+1905	Szeged (Szőreg)	6771	6	Csongrád	szoreg	0	
+1890	Szeged (Tápé)	6753	6	Csongrád	tape	0	
+1878	Szeged Tanposta	6713	6	Csongrád	szeged-tanposta	0	
+2745	Szegerdő	8732	14	Somogy	szegerdo	94	Község
+1648	Szeghalom	5520	4	Békés	szeghalom	0	
+1129	Szegilong	3918	5	Borsod-Abaúj-Zemplén	szegilong	347	Község
+1869	Szegvár	6635	6	Csongrád	szegvar	4904	Nagyközség
+1404	Székely	4534	15	Szabolcs-Szatmár-Bereg	szekely	1087	Község
+2273	Székelyszabar	7737	2	Baranya	szekelyszabar	665	Község
+2365	Székesfehérvár	8000	7	Fejér	szekesfehervar	101707	Megyei jogú város
+2367	Székesfehérvár	8002	7	Fejér	szekesfehervar	0	
+2372	Székesfehérvár (Börgönd)	8019	7	Fejér	borgond	0	
+2366	Székesfehérvár 1.	8001	7	Fejér	szekesfehervar	0	
+2368	Székesfehérvár 3.	8003	7	Fejér	szekesfehervar	0	
+2369	Székesfehérvár 6.	8006	7	Fejér	szekesfehervar	0	
+2370	Székesfehérvár 7.	8007	7	Fejér	szekesfehervar	0	
+2371	Székesfehérvár 8.	8008	7	Fejér	szekesfehervar	0	
+1924	Székkutas	6821	6	Csongrád	szekkutas	2404	Község
+1998	Szekszárd	7100	17	Tolna	szekszard	34818	Megyei jogú város
+1999	Szekszárd 1.	7101	17	Tolna	szekszard	0	
+2000	Szekszárd 2.	7102	17	Tolna	szekszard	0	
+2001	Szekszárd 3.	7103	17	Tolna	szekszard	0	
+3122	Szeleste	9622	18	Vas	szeleste	699	Község
+1642	Szelevény	5476	16	Jász-Nagykun-Szolnok	szeleveny	1118	Község
+2234	Szellő	7661	2	Baranya	szello	318	Község
+3153	Szemenye	9685	18	Vas	szemenye	336	Község
+519	Szendehely	2640	12	Nógrád	szendehely	1562	Község
+1024	Szendrőlád	3751	5	Borsod-Abaúj-Zemplén	szendrolad	1879	Község
+2806	Szenta	8849	14	Somogy	szenta	0	
+2499	Szentbékkálla	8281	19	Veszprém	szentbekkalla	226	Község
+2330	Szentdénes	7913	2	Baranya	szentdenes	337	Község
+782	Szentdomonkos	3259	10	Heves	szentdomonkos	490	község
+533	Szente	2655	12	Nógrád	szente	487	Község
+2332	Szentegát	7915	2	Baranya	szentegat	608	Község
+236	Szentendre	2000	13	Pest	szentendre	25876	Város
+237	Szentendre 1.	2001	13	Pest	szentendre	0	
+1861	Szentes	6600	6	Csongrád	szentes	29800	Város
+2580	Szentgál	8444	19	Veszprém	szentgal	2923	Község
+2143	Szentgáloskér	7465	14	Somogy	szentgalosker	452	Község
+3264	Szentgotthárd	9970	18	Vas	szentgotthard	8891	Város
+3265	Szentgotthárd (Farkasfa)	9981	18	Vas	farkasfa	0	
+3261	Szentgotthárd (Rábafüzes)	9955	18	Vas	rabafuzes	0	
+2546	Szentgyörgyvár	8393	20	Zala	szentgyorgyvar	335	Község
+2880	Szentgyörgyvölgy	8975	20	Zala	szentgyorgyvolgy	459	Község
+2599	Szentimrefalva	8475	19	Veszprém	szentimrefalva	100	Község
+873	Szentistván	3418	5	Borsod-Abaúj-Zemplén	szentistvan	2647	Nagyközség
+1079	Szentistvánbaksa	3844	5	Borsod-Abaúj-Zemplén	szentistvanbaksa	378	Község
+2245	Szentkatalin	7681	2	Baranya	szentkatalin	507	Község
+1733	Szentkirály	6031	3	Bács-Kiskun	szentkiraly	1962	Község
+2464	Szentkirályszabadja	8225	19	Veszprém	szentkiralyszabadja	2118	Község
+2867	Szentkozmadombja	8947	20	Zala	szentkozmadombja	71	Község
+2341	Szentlászló	7936	2	Baranya	szentlaszlo	872	Község
+376	Szentlőrinckáta	2255	13	Pest	szentlorinckata	1990	Község
+2821	Szentmargitfalva	8872	20	Zala	szentmargitfalva	606	Község
+375	Szentmártonkáta	2254	13	Pest	szentmartonkata	5107	Község
+3212	Szentpéterfa	9799	18	Vas	szentpeterfa	1056	Község
+2871	Szentpéterfölde	8953	20	Zala	szentpeterfolde	157	Község
+1238	Szentpéterszeg	4121	9	Hajdú-Bihar	szentpeterszeg	1177	Község
+2813	Szepetnek	8861	20	Zala	szepetnek	1607	Község
+2950	Szerecseny	9125	8	Győr-Moson-Sopron	szerecseny	820	Község
+1852	Szeremle	6512	3	Bács-Kiskun	szeremle	1592	Község
+1117	Szerencs	3900	5	Borsod-Abaúj-Zemplén	szerencs	9878	Város
+1264	Szerep	4163	9	Hajdú-Bihar	szerep	1671	Község
+1263	Szerep (Hosszúhát)	4162	9	Hajdú-Bihar	hosszuhat	0	
+3097	Szergény	9523	18	Vas	szergeny	373	Község
+387	Szigetbecse	2321	13	Pest	szigetbecse	1379	Község
+384	Szigetcsép	2317	13	Pest	szigetcsep	2404	Község
+382	Szigethalom	2315	13	Pest	szigethalom	16929	Város
+242	Szigetmonostor	2015	13	Pest	szigetmonostor	2319	Község
+385	Szigetszentmárton	2318	13	Pest	szigetszentmarton	2157	Község
+379	Szigetszentmiklós	2310	13	Pest	szigetszentmiklos	33223	Város
+380	Szigetszentmiklós 3.	2313	13	Pest	szigetszentmiklos	0	
+386	Szigetújfalu	2319	13	Pest	szigetujfalu	2194	Község
+2328	Szigetvár 1.	7901	2	Baranya	szigetvar	0	
+2492	Szigliget	8264	19	Veszprém	szigliget	980	Község
+848	Szihalom	3377	10	Heves	szihalom	2129	község
+1058	Szikszó	3800	5	Borsod-Abaúj-Zemplén	szikszo	6039	Város
+3024	Szil	9326	8	Győr-Moson-Sopron	szil	1390	Község
+2236	Szilágy	7664	2	Baranya	szilagy	913	Község
+711	Szilaspogony	3125	12	Nógrád	szilaspogony	346	Község
+3013	Szilsárkány	9312	8	Győr-Moson-Sopron	szilsarkany	694	Község
+2888	Szilvágy	8986	20	Zala	szilvagy	332	Község
+828	Szilvásvárad	3348	10	Heves	szilvasvarad	1717	Község
+678	Szirák	3044	12	Nógrád	szirak	1170	Község
+999	Szirmabesenyő	3711	5	Borsod-Abaúj-Zemplén	szirmabesenyo	4606	Nagyközség
+509	Szob	2628	13	Pest	szob	2861	Város
+505	Szokolya	2624	13	Pest	szokolya	1762	Község
+2674	Szólád	8625	14	Somogy	szolad	0	
+1543	Szolnok	5000	16	Jász-Nagykun-Szolnok	szolnok	75180	Megyei jogú város
+1550	Szolnok (Szandaszőllős)	5008	16	Jász-Nagykun-Szolnok	szandaszollos	0	
+1544	Szolnok 1.	5001	16	Jász-Nagykun-Szolnok	szolnok	0	
+1545	Szolnok 3.	5003	16	Jász-Nagykun-Szolnok	szolnok	0	
+1546	Szolnok 4.	5004	16	Jász-Nagykun-Szolnok	szolnok	0	
+1547	Szolnok 5.	5005	16	Jász-Nagykun-Szolnok	szolnok	0	
+1548	Szolnok 6.	5006	16	Jász-Nagykun-Szolnok	szolnok	0	
+1549	Szolnok 7.	5007	16	Jász-Nagykun-Szolnok	szolnok	0	
+1551	Szolnok 9.	5009	16	Jász-Nagykun-Szolnok	szolnok	0	
+3154	Szombathely	9700	18	Vas	szombathely	79235	Megyei jogú város
+3155	Szombathely (Herény)	9707	18	Vas	hereny	0	
+3156	Szombathely (Szentkirály)	9719	18	Vas	szentkiraly	0	
+637	Szomód	2896	11	Komárom-Esztergom	szomod	2126	Község
+867	Szomolya	3411	5	Borsod-Abaúj-Zemplén	szomolya	1673	Község
+600	Szomor	2822	11	Komárom-Esztergom	szomor	1138	Község
+3282	Szorgalmatos	4441	15	Szabolcs-Szatmár-Bereg	szorgalmatos	0	
+2081	Szorosad	7285	14	Somogy	szorosad	64	Község
+2587	Szőc	8452	19	Veszprém	szoc	1237	Község
+3247	Szőce	9935	18	Vas	szoce	387	Község
+318	Sződ	2134	13	Pest	szod	3477	Község
+317	Sződliget	2133	13	Pest	szodliget	4484	Község
+1034	Szögliget	3762	5	Borsod-Abaúj-Zemplén	szogliget	0	
+2314	Szőke	7833	2	Baranya	szoke	1660	Község
+2288	Szőkéd	7763	2	Baranya	szoked	215	Község
+2749	Szőkedencs	8736	14	Somogy	szokedencs	0	
+2358	Szörény	7976	2	Baranya	szoreny	69	Község
+822	Szúcs	3341	10	Heves	szucs	1510	község
+672	Szűcsi	3034	10	Heves	szucsi	1645	község
+733	Szuha	3154	12	Nógrád	szuha	642	Község
+1012	Szuhafő	3726	5	Borsod-Abaúj-Zemplén	szuhafo	176	Község
+1015	Szuhakálló	3731	5	Borsod-Abaúj-Zemplén	szuhakallo	3359	Nagyközség
+1018	Szuhogy	3734	5	Borsod-Abaúj-Zemplén	szuhogy	1220	Község
+2338	Szulimán	7932	2	Baranya	szuliman	82	Község
+2176	Szulok	7539	14	Somogy	szulok	670	Község
+2272	Szűr	7735	2	Baranya	szur	96	Község
+687	Szurdokpüspöki	3064	12	Nógrád	szurdokpuspoki	1991	Község
+564	Szügy	2699	12	Nógrád	szugy	1530	Község
+2398	Tabajd	8088	7	Fejér	tabajd	1007	Község
+1788	Tabdi	6224	3	Bács-Kiskun	tabdi	1190	Község
+414	Táborfalva	2381	13	Pest	taborfalva	3569	Község
+2413	Tác	8121	7	Fejér	tac	1731	Község
+2495	Tagyon	8272	19	Veszprém	tagyon	215	Község
+246	Tahitótfalu (Tahi)	2022	13	Pest	tahi	0	
+245	Tahitótfalu (Tótfalu)	2021	13	Pest	totfalu	5422	Község
+2631	Takácsi	8541	19	Veszprém	takacsi	934	Község
+1498	Tákos	4845	15	Szabolcs-Szatmár-Bereg	takos	365	Község
+391	Taksony	2335	13	Pest	taksony	6382	Nagyközség
+1135	Taktabáj	3926	5	Borsod-Abaúj-Zemplén	taktabaj	623	Község
+1131	Taktaharkány	3922	5	Borsod-Abaúj-Zemplén	taktaharkany	3951	Nagyközség
+1133	Taktakenéz	3924	5	Borsod-Abaúj-Zemplén	taktakenez	1312	Község
+1130	Taktaszada	3921	5	Borsod-Abaúj-Zemplén	taktaszada	2067	Község
+2507	Taliándörögd	8295	19	Veszprém	taliandorogd	690	Község
+1122	Tállya	3907	5	Borsod-Abaúj-Zemplén	tallya	2117	Község
+1989	Tamási	7090	17	Tolna	tamasi	8742	Város
+3188	Tanakajd	9762	18	Vas	tanakajd	769	Község
+2937	Táp	9095	8	Győr-Moson-Sopron	tap	744	Község
+587	Tápióbicske	2764	13	Pest	tapiobicske	3648	Község
+590	Tápiógyörgye	2767	13	Pest	tapiogyorgye	3783	Község
+374	Tápióság	2253	13	Pest	tapiosag	2775	Község
+372	Tápiószecső	2251	13	Pest	tapioszecso	6353	Nagyközség
+589	Tápiószele	2766	13	Pest	tapioszele	6315	Város
+568	Tápiószentmárton	2711	13	Pest	tapioszentmarton	5704	Nagyközség
+592	Tápiószőlős	2769	13	Pest	tapioszolos	3177	Község
+3187	Táplánszentkereszt	9761	18	Vas	taplanszentkereszt	2567	Község
+2510	Tapolca	8300	19	Veszprém	raposka	253	Község
+2509	Tapolca (Diszel)	8297	19	Veszprém	diszel	0	
+2735	Tapsony	8718	14	Somogy	tapsony	493	Község
+2936	Tápszentmiklós	9094	8	Győr-Moson-Sopron	tapszentmiklos	958	Község
+696	Tar	3073	12	Nógrád	tar	1991	Község
+2158	Tarany	7514	14	Somogy	tarany	1256	Község
+1126	Tarcal	3915	5	Borsod-Abaúj-Zemplén	tarcal	3129	Község
+871	Tard	3416	5	Borsod-Abaúj-Zemplén	tard	1385	Község
+974	Tardona	3644	5	Borsod-Abaúj-Zemplén	tardona	1127	Község
+606	Tardos	2834	11	Komárom-Esztergom	tardos	1667	Község
+1672	Tarhos	5641	4	Békés	tarhos	915	Község
+603	Tarján	2831	11	Komárom-Esztergom	tarjan	2627	Község
+2934	Tarjánpuszta	9092	8	Győr-Moson-Sopron	tarjanpuszta	404	Község
+651	Tárkány	2945	11	Komárom-Esztergom	tarkany	1628	Község
+842	Tarnabod	3369	10	Heves	tarnabod	808	Község
+781	Tarnalelesz	3258	10	Heves	tarnalelesz	1834	község
+796	Tarnaméra	3284	10	Heves	tarnamera	1743	község
+800	Tarnaörs	3294	10	Heves	tarnaors	1872	község
+816	Tarnaszentmária	3331	10	Heves	tarnaszentmaria	262	Község
+852	Tarnaszentmiklós	3382	10	Heves	tarnaszentmiklos	941	község
+795	Tarnazsadány	3283	10	Heves	tarnazsadany	1301	község
+447	Tárnok	2461	13	Pest	tarnok	8964	Nagyközség
+2975	Tárnokréti	9165	8	Győr-Moson-Sopron	tarnokreti	60	Község
+1506	Tarpa	4931	15	Szabolcs-Szatmár-Bereg	tarpa	2274	Nagyközség
+2107	Tarrós	7362	2	Baranya	tarros	264	Község
+2717	Táska	8696	14	Somogy	taska	444	Község
+1765	Tass	6098	3	Bács-Kiskun	tass	3088	Község
+2069	Taszár	7261	14	Somogy	taszar	497	Község
+483	Tát	2534	11	Komárom-Esztergom	tat	5594	Nagyközség
+634	Tata	2890	11	Komárom-Esztergom	tata	23922	Város
+607	Tata (Agostyán)	2835	11	Komárom-Esztergom	agostyan	0	
+635	Tata 2.	2892	11	Komárom-Esztergom	tata	0	
+636	Tata 3.	2893	11	Komárom-Esztergom	tata	0	
+593	Tatabánya	2800	11	Komárom-Esztergom	tatabanya	71302	Megyei jogú város
+594	Tatabánya 1.	2801	11	Komárom-Esztergom	tatabanya	0	
+595	Tatabánya 2.	2802	11	Komárom-Esztergom	tatabanya	0	
+596	Tatabánya 3.	2803	11	Komárom-Esztergom	tatabanya	0	
+597	Tatabánya 4.	2804	11	Komárom-Esztergom	tatabanya	0	
+598	Tatabánya 5.	2805	11	Komárom-Esztergom	tatabanya	0	
+1842	Tataháza	6451	3	Bács-Kiskun	tatahaza	1333	Község
+410	Tatárszentgyörgy	2375	13	Pest	tatarszentgyorgy	1966	Község
+1791	Tázlár	6236	3	Bács-Kiskun	tazlar	1780	Község
+1289	Téglás	4243	9	Hajdú-Bihar	teglas	6567	Város
+2109	Tékes	7381	2	Baranya	tekes	192	Község
+3215	Telekes	9812	18	Vas	telekes	542	Község
+1687	Telekgerendás	5675	4	Békés	telekgerendas	1658	Község
+2675	Teleki	8626	14	Somogy	teleki	0	
+288	Telki	2089	13	Pest	telki	3275	Község
+1113	Telkibánya	3896	5	Borsod-Abaúj-Zemplén	telkibanya	688	Község
+1969	Tengelic	7054	17	Tolna	tengelic	2482	Község
+2701	Tengőd	8668	14	Somogy	tengod	0	
+839	Tenk	3359	10	Heves	tenk	1237	község
+2943	Tényő	9111	8	Győr-Moson-Sopron	tenyo	1562	Község
+1247	Tépe	4132	9	Hajdú-Bihar	tepe	1140	Község
+1330	Terem	4342	15	Szabolcs-Szatmár-Bereg	terem	676	Község
+561	Terény	2696	12	Nógrád	tereny	419	Község
+530	Tereske	2652	12	Nógrád	tereske	727	Község
+1030	Teresztenye	3757	5	Borsod-Abaúj-Zemplén	teresztenye	65	Község
+3276	Terpes	3333	10	Heves	terpes	0	
+2409	Tés	8109	19	Veszprém	tes	893	Község
+3273	Tésa	2636	13	Pest	tesa	0	
+2321	Tésenfa	7843	2	Baranya	tesenfa	268	Község
+2315	Téseny	7834	2	Baranya	teseny	805	Község
+2942	Tét	9100	8	Győr-Moson-Sopron	tet	4094	Város
+1275	Tetétlen	4184	9	Hajdú-Bihar	tetetlen	1420	Község
+2036	Tevel	7181	17	Tolna	tevel	1523	Község
+876	Tibolddaróc	3423	5	Borsod-Abaúj-Zemplén	tibolddaroc	1526	Község
+1334	Tiborszállás	4353	15	Szabolcs-Szatmár-Bereg	tiborszallas	1111	Község
+2472	Tihany	8237	19	Veszprém	tihany	1384	Község
+2744	Tikos	8731	14	Somogy	tikos	0	
+2778	Tilaj	8782	20	Zala	tilaj	63	Község
+1368	Timár	4466	15	Szabolcs-Szatmár-Bereg	timar	1431	Község
+286	Tinnye	2086	13	Pest	tinnye	1537	Község
+1490	Tiszaadony	4833	15	Szabolcs-Szatmár-Bereg	tiszaadony	669	Község
+1750	Tiszaalpár (Alpár)	6066	3	Bács-Kiskun	alpar	5175	Nagyközség
+1751	Tiszaalpár (Tiszaújfalú)	6067	3	Bács-Kiskun	tiszaujfalu	0	
+895	Tiszabábolna	3465	5	Borsod-Abaúj-Zemplén	tiszababolna	424	Község
+1521	Tiszabecs	4951	15	Szabolcs-Szatmár-Bereg	tiszabecs	1128	Nagyközség
+1373	Tiszabercel	4474	15	Szabolcs-Szatmár-Bereg	tiszabercel	1970	Község
+1435	Tiszabezdéd	4624	15	Szabolcs-Szatmár-Bereg	tiszabezded	2062	Község
+1596	Tiszabő	5232	16	Jász-Nagykun-Szolnok	tiszabo	2143	Község
+1599	Tiszabura	5235	16	Jász-Nagykun-Szolnok	tiszabura	2995	Község
+1519	Tiszacsécse	4947	15	Szabolcs-Szatmár-Bereg	tiszacsecse	273	Község
+1213	Tiszacsege	4066	9	Hajdú-Bihar	tiszacsege	5013	Város
+1166	Tiszacsermely	3972	5	Borsod-Abaúj-Zemplén	tiszacsermely	687	Község
+1362	Tiszadada	4455	15	Szabolcs-Szatmár-Bereg	tiszadada	2438	Község
+1601	Tiszaderzs	5243	16	Jász-Nagykun-Szolnok	tiszaderzs	1261	Község
+1363	Tiszadob	4456	15	Szabolcs-Szatmár-Bereg	tiszadob	3039	Nagyközség
+896	Tiszadorogma	3466	5	Borsod-Abaúj-Zemplén	tiszadorogma	447	Község
+1366	Tiszaeszlár	4464	15	Szabolcs-Szatmár-Bereg	tiszaeszlar	2755	Község
+1359	Tiszaeszlár (Bashalom)	4446	15	Szabolcs-Szatmár-Bereg	bashalom	0	
+1625	Tiszaföldvár	5430	16	Jász-Nagykun-Szolnok	tiszafoldvar	11871	Város
+1626	Tiszaföldvár	5432	16	Jász-Nagykun-Szolnok	tiszafoldvar	788	Község
+1633	Tiszaföldvár (Homok)	5461	16	Jász-Nagykun-Szolnok	homok	0	
+1614	Tiszafüred	5350	16	Jász-Nagykun-Szolnok	tiszafured	12337	Város
+1616	Tiszafüred (Kócsújfalu)	5359	16	Jász-Nagykun-Szolnok	kocsujfalu	0	
+1615	Tiszafüred (Tiszaörvény)	5358	16	Jász-Nagykun-Szolnok	tiszaorveny	0	
+1597	Tiszagyenda	5233	16	Jász-Nagykun-Szolnok	tiszagyenda	1109	Község
+1228	Tiszagyulaháza	4097	9	Hajdú-Bihar	tiszagyulahaza	803	Község
+1617	Tiszaigar	5361	16	Jász-Nagykun-Szolnok	tiszaigar	888	Község
+1636	Tiszainoka	5464	16	Jász-Nagykun-Szolnok	tiszainoka	428	Község
+1571	Tiszajenő	5094	16	Jász-Nagykun-Szolnok	tiszajeno	1648	Község
+1385	Tiszakanyár	4493	15	Szabolcs-Szatmár-Bereg	tiszakanyar	1723	Község
+1165	Tiszakarád	3971	5	Borsod-Abaúj-Zemplén	tiszakarad	2612	Község
+1745	Tiszakécske	6060	3	Bács-Kiskun	tiszakecske	11763	Város
+1746	Tiszakécske	6061	3	Bács-Kiskun	tiszakecske	0	
+1747	Tiszakécske (Tiszabög)	6062	3	Bács-Kiskun	tiszabog	0	
+1491	Tiszakerecseny	4834	15	Szabolcs-Szatmár-Bereg	tiszakerecseny	959	Község
+889	Tiszakeszi	3458	5	Borsod-Abaúj-Zemplén	tiszakeszi	2727	Község
+1518	Tiszakóród	4946	15	Szabolcs-Szatmár-Bereg	tiszakorod	838	Község
+1638	Tiszakürt	5471	16	Jász-Nagykun-Szolnok	tiszakurt	1567	Község
+1639	Tiszakürt (Bogaras)	5472	16	Jász-Nagykun-Szolnok	bogaras	0	
+1138	Tiszaladány	3929	5	Borsod-Abaúj-Zemplén	tiszaladany	698	Község
+1361	Tiszalök	4450	15	Szabolcs-Szatmár-Bereg	tiszalok	5824	Város
+1360	Tiszalök (Kisfástanya)	4447	15	Szabolcs-Szatmár-Bereg	kisfastanya	0	
+934	Tiszalúc	3565	5	Borsod-Abaúj-Zemplén	tiszaluc	5536	Nagyközség
+1448	Tiszamogyorós	4645	15	Szabolcs-Szatmár-Bereg	tiszamogyoros	751	Község
+1365	Tiszanagyfalu	4463	15	Szabolcs-Szatmár-Bereg	tiszanagyfalu	1937	Község
+855	Tiszanána	3385	10	Heves	tiszanana	2583	község
+1618	Tiszaörs	5362	16	Jász-Nagykun-Szolnok	tiszaors	1391	Község
+946	Tiszapalkonya	3587	5	Borsod-Abaúj-Zemplén	tiszapalkonya	1518	Község
+1591	Tiszapüspöki	5211	16	Jász-Nagykun-Szolnok	tiszapuspoki	2203	Község
+1391	Tiszarád	4503	15	Szabolcs-Szatmár-Bereg	tiszarad	620	Község
+1598	Tiszaroff	5234	16	Jász-Nagykun-Szolnok	tiszaroff	0	
+1640	Tiszasas	5474	16	Jász-Nagykun-Szolnok	tiszasas	1137	Község
+1557	Tiszasüly	5061	16	Jász-Nagykun-Szolnok	tiszasuly	1651	Község
+1488	Tiszaszalka	4831	15	Szabolcs-Szatmár-Bereg	tiszaszalka	975	Község
+1608	Tiszaszentimre	5322	16	Jász-Nagykun-Szolnok	tiszaszentimre	2307	Község
+1609	Tiszaszentimre (Újszentgyörgy)	5323	16	Jász-Nagykun-Szolnok	ujszentgyorgy	0	
+1438	Tiszaszentmárton	4628	15	Szabolcs-Szatmár-Bereg	tiszaszentmarton	1281	Község
+1893	Tiszasziget	6756	6	Csongrád	tiszasziget	1779	Község
+1602	Tiszaszőlős	5244	16	Jász-Nagykun-Szolnok	tiszaszolos	1655	Község
+1137	Tiszatardos	3928	5	Borsod-Abaúj-Zemplén	tiszatardos	269	Község
+948	Tiszatarján	3589	5	Borsod-Abaúj-Zemplén	tiszatarjan	1425	Község
+1381	Tiszatelek	4487	15	Szabolcs-Szatmár-Bereg	tiszatelek	1543	Község
+1380	Tiszatelek (Kétérköz)	4486	15	Szabolcs-Szatmár-Bereg	keterkoz	0	
+1564	Tiszatenyő	5082	16	Jász-Nagykun-Szolnok	tiszatenyo	1851	Község
+1748	Tiszaug	6064	3	Bács-Kiskun	tiszaug	990	Község
+944	Tiszaújváros	3580	5	Borsod-Abaúj-Zemplén	tiszaujvaros	18021	Város
+3278	Tiszaújváros (Óváros)	3585	5	Borsod-Abaúj-Zemplén	ovaros	0	
+894	Tiszavalk	3464	5	Borsod-Abaúj-Zemplén	tiszavalk	349	Község
+1569	Tiszavárkony	5092	16	Jász-Nagykun-Szolnok	tiszavarkony	1620	Község
+3283	Tiszavárkony (Tiszavárkonyi-Szőlők)	5095	16	Jász-Nagykun-Szolnok	tiszavarkonyi-szolok	0	
+1357	Tiszavasvári	4440	15	Szabolcs-Szatmár-Bereg	tiszavasvari	13709	Város
+1489	Tiszavid	4832	15	Szabolcs-Szatmár-Bereg	tiszavid	539	Község
+1535	Tisztaberek	4969	15	Szabolcs-Szatmár-Bereg	tisztaberek	680	Község
+1504	Tivadar	4921	15	Szabolcs-Szatmár-Bereg	tivadar	1070	Község
+373	Tóalmás	2252	13	Pest	toalmas	3445	Község
+834	Tófalu	3354	10	Heves	tofalu	641	község
+2098	Tófű	7348	2	Baranya	tofu	192	Község
+1125	Tokaj	3910	5	Borsod-Abaúj-Zemplén	tokaj	4243	Város
+480	Tokod	2531	11	Komárom-Esztergom	tokod	4388	Nagyközség
+481	Tokodaltáró	2532	11	Komárom-Esztergom	tokodaltaro	3161	Község
+3115	Tokorcs	9561	18	Vas	tokorcs	1009	Község
+1142	Tolcsva	3934	5	Borsod-Abaúj-Zemplén	tolcsva	1948	Község
+1235	Told	4117	9	Hajdú-Bihar	told	356	Község
+535	Tolmács	2657	12	Nógrád	tolmacs	760	Község
+2004	Tolna	7130	17	Tolna	tolna	11946	Város
+2005	Tolna (Mözs)	7131	17	Tolna	mozs	0	
+1984	Tolnanémedi	7083	17	Tolna	tolnanemedi	1153	Község
+1610	Tomajmonostora	5324	16	Jász-Nagykun-Szolnok	tomajmonostora	760	Község
+1051	Tomor	3787	5	Borsod-Abaúj-Zemplén	tomor	256	Község
+1829	Tompa	6422	3	Bács-Kiskun	tompa	4764	Város
+449	Tordas	2463	7	Fejér	tordas	1910	Község
+2824	Tormafölde	8876	20	Zala	tormafolde	0	
+3168	Tormásliget	9736	18	Vas	tormasliget	332	Község
+1033	Tornakápolna	3761	5	Borsod-Abaúj-Zemplén	tornakapolna	807	Község
+1038	Tornanádaska	3767	5	Borsod-Abaúj-Zemplén	tornanadaska	606	Község
+1037	Tornaszentandrás	3765	5	Borsod-Abaúj-Zemplén	tornaszentandras	292	Község
+1040	Tornaszentjakab	3769	5	Borsod-Abaúj-Zemplén	tornaszentjakab	235	Község
+2825	Tornyiszentmiklós	8877	20	Zala	tornyiszentmiklos	650	Község
+1100	Tornyosnémeti	3877	5	Borsod-Abaúj-Zemplén	tornyosnemeti	561	Község
+1445	Tornyospálca	4642	15	Szabolcs-Szatmár-Bereg	tornyospalca	2701	Község
+1568	Tószeg	5091	16	Jász-Nagykun-Szolnok	toszeg	4701	Község
+1724	Tótkomlós	5940	4	Békés	totkomlos	6449	Város
+1728	Tótkomlós (Pusztaszőlős)	5949	4	Békés	pusztaszolos	0	
+2361	Tótszentgyörgy	7981	2	Baranya	totszentgyorgy	142	Község
+2817	Tótszentmárton	8865	20	Zala	totszentmarton	937	Község
+2816	Tótszerdahely	8864	20	Zala	totszerdahely	1196	Község
+2333	Tótújfalu	7918	14	Somogy	totujfalu	615	Község
+2478	Tótvázsony	8246	19	Veszprém	totvazsony	1281	Község
+279	Tök	2073	13	Pest	tok	1426	Község
+383	Tököl	2316	13	Pest	tokol	10095	Város
+2929	Töltéstava	9086	8	Győr-Moson-Sopron	toltestava	2176	Község
+3170	Tömörd	9738	18	Vas	tomord	279	Község
+1873	Tömörkény	6646	6	Csongrád	tomorkeny	1869	Község
+265	Törökbálint	2045	13	Pest	torokbalint	13047	Város
+266	Törökbálint 2.	2046	13	Pest	torokbalint	0	
+1590	Törökszentmiklós	5200	16	Jász-Nagykun-Szolnok	torokszentmiklos	22515	Város
+1592	Törökszentmiklós (Surjány)	5212	16	Jász-Nagykun-Szolnok	surjany	0	
+581	Törtel	2747	13	Pest	tortel	4370	Község
+2282	Töttös	7755	2	Baranya	tottos	599	Község
+1011	Trizs	3724	5	Borsod-Abaúj-Zemplén	trizs	684	Község
+1454	Tunyogmatolcs	4731	15	Szabolcs-Szatmár-Bereg	tunyogmatolcs	2596	Község
+349	Tura	2194	13	Pest	tura	8044	Város
+1516	Túristvándi	4944	15	Szabolcs-Szatmár-Bereg	turistvandi	741	Község
+1624	Túrkeve	5420	16	Jász-Nagykun-Szolnok	turkeve	9659	Város
+2302	Túrony	7811	2	Baranya	turony	251	Község
+1534	Túrricse	4968	15	Szabolcs-Szatmár-Bereg	turricse	674	Község
+1434	Tuzsér	4623	15	Szabolcs-Szatmár-Bereg	tuzser	3492	Nagyközség
+2787	Türje	8796	20	Zala	turje	1769	Község
+1471	Tyukod	4762	15	Szabolcs-Szatmár-Bereg	tyukod	2098	Nagyközség
+2261	Udvar	7718	2	Baranya	udvar	172	Község
+1977	Udvari	7066	17	Tolna	udvari	486	Község
+2645	Ugod	8564	19	Veszprém	ugod	1468	Község
+275	Újbarok	2066	7	Fejér	ujbarok	1693	Község
+1383	Újdombrád	4491	15	Szabolcs-Szatmár-Bereg	ujdombrad	727	Község
+1290	Újfehértó	4244	15	Szabolcs-Szatmár-Bereg	ujfeherto	13589	Város
+406	Újhartyán	2367	13	Pest	ujhartyan	2768	Község
+1259	Újiráz	4146	9	Hajdú-Bihar	ujiraz	651	Község
+1994	Újireg	7095	17	Tolna	ujireg	2811	Község
+1443	Újkenéz	4635	15	Szabolcs-Szatmár-Bereg	ujkenez	1083	Község
+3072	Újkér	9472	8	Győr-Moson-Sopron	ujker	1004	Község
+1675	Újkígyós	5661	4	Békés	ujkigyos	5616	Város
+573	Újlengyel	2724	13	Pest	ujlengyel	1765	Község
+1313	Újléta	4288	9	Hajdú-Bihar	ujleta	1092	Község
+857	Újlőrincfalva	3387	10	Heves	ujlorincfalva	262	község
+3008	Újrónafő	9244	8	Győr-Moson-Sopron	ujronafo	835	Község
+3286	Újsolt	6321	3	Bács-Kiskun	ujsolt	0	
+1695	Újszalonta	5727	4	Békés	ujszalonta	125	Község
+1553	Újszász	5052	16	Jász-Nagykun-Szolnok	ujszasz	6679	Város
+1891	Újszentiván	6754	6	Csongrád	ujszentivan	1665	Község
+1212	Újszentmargita	4065	9	Hajdú-Bihar	ujszentmargita	1566	Község
+591	Újszilvás	2768	13	Pest	ujszilvas	2778	Község
+1810	Újtelek	6337	3	Bács-Kiskun	ujtelek	435	Község
+1227	Újtikos	4096	9	Hajdú-Bihar	ujtikos	965	Község
+2777	Újudvar	8778	20	Zala	ujudvar	1014	Község
+2128	Újvárfalva	7436	14	Somogy	ujvarfalva	0	
+2527	Ukk	8347	19	Veszprém	ukk	333	Község
+3070	Und	9464	8	Győr-Moson-Sopron	und	367	Község
+478	Úny	2528	11	Komárom-Esztergom	uny	718	Község
+963	Uppony	3622	5	Borsod-Abaúj-Zemplén	uppony	349	Község
+1472	Ura	4763	15	Szabolcs-Szatmár-Bereg	ura	700	Község
+3134	Uraiújfalu	9651	18	Vas	uraiujfalu	891	Község
+2431	Úrhida	8142	7	Fejér	urhida	2258	Község
+371	Úri	2244	13	Pest	uri	2650	Község
+2549	Úrkút	8409	19	Veszprém	urkut	2173	Község
+1522	Uszka	4952	15	Szabolcs-Szatmár-Bereg	uszka	386	Község
+1805	Uszód	6332	3	Bács-Kiskun	uszod	1103	Község
+2520	Uzsa	8321	19	Veszprém	uzsa	362	Község
+1920	Üllés	6794	6	Csongrád	ulles	3280	Község
+363	Üllő	2225	13	Pest	ullo	10919	Város
+294	Üröm	2096	13	Pest	urom	6810	Község
+492	Vác	2600	13	Pest	vac	35096	Város
+334	Vácduka	2167	13	Pest	vacduka	1241	Község
+344	Vácegres	2184	13	Pest	vacegres	866	Község
+331	Váchartyán	2164	13	Pest	vachartyan	1819	Község
+345	Váckisújfalu	2185	13	Pest	vackisujfalu	486	Község
+330	Vácrátót	2163	13	Pest	vacratot	1834	Község
+306	Vácszentlászló	2115	13	Pest	vacszentlaszlo	2087	Község
+1178	Vágáshuta	3992	5	Borsod-Abaúj-Zemplén	vagashuta	653	Község
+1424	Vaja	4562	15	Szabolcs-Szatmár-Bereg	vaja	3749	Város
+1159	Vajdácska	3961	5	Borsod-Abaúj-Zemplén	vajdacska	1326	Község
+1961	Vajta	7041	7	Fejér	vajta	933	Község
+454	Vál	2473	7	Fejér	val	2472	Község
+305	Valkó	2114	13	Pest	valko	2427	Nagyközség
+2832	Valkonya	8885	20	Zala	valkonya	67	Község
+1332	Vállaj	4351	15	Szabolcs-Szatmár-Bereg	vallaj	2307	Nagyközség
+2517	Vállus	8316	20	Zala	vallus	147	Község
+1511	Vámosatya	4936	15	Szabolcs-Szatmár-Bereg	vamosatya	582	Község
+3142	Vámoscsalád	9665	18	Vas	vamoscsalad	350	Község
+797	Vámosgyörk	3291	10	Heves	vamosgyork	2000	község
+515	Vámosmikola	2635	13	Pest	vamosmikola	1643	Község
+1532	Vámosoroszi	4966	15	Szabolcs-Szatmár-Bereg	vamosoroszi	575	Község
+1312	Vámospércs	4287	9	Hajdú-Bihar	vamospercs	5548	Város
+2917	Vámosszabadi	9061	8	Győr-Moson-Sopron	vamosszabadi	1500	Község
+1146	Vámosújfalu	3941	5	Borsod-Abaúj-Zemplén	vamosujfalu	855	Község
+1237	Váncsod	4119	9	Hajdú-Bihar	vancsod	1258	Község
+556	Vanyarc	2688	12	Nógrád	vanyarc	1343	Község
+2635	Vanyola	8552	19	Veszprém	vanyola	601	Község
+2356	Várad	7973	2	Baranya	varad	99	Község
+2103	Váralja	7354	17	Tolna	varalja	942	Község
+2739	Varászló	8723	14	Somogy	varaszlo	0	
+777	Váraszó	3254	10	Heves	varaszo	551	község
+3007	Várbalog	9243	8	Győr-Moson-Sopron	varbalog	430	Község
+1046	Varbó	3778	5	Borsod-Abaúj-Zemplén	varbo	1170	Község
+1029	Varbóc	3756	5	Borsod-Abaúj-Zemplén	varboc	923	Község
+2131	Várda	7442	14	Somogy	varda	523	Község
+2016	Várdomb	7146	17	Tolna	vardomb	1264	Község
+2836	Várfölde	8891	20	Zala	varfolde	683	Község
+602	Várgesztes	2824	11	Komárom-Esztergom	vargesztes	596	Község
+2627	Várkesző	8523	19	Veszprém	varkeszo	531	Község
+2055	Várong	7214	17	Tolna	varong	196	Község
+1735	Városföld	6033	3	Bács-Kiskun	varosfold	2230	Község
+2405	Várpalota	8100	19	Veszprém	varpalota	21564	Város
+2406	Várpalota (Inota)	8103	19	Veszprém	inota	0	
+2407	Várpalota (Inotai Erőmű)	8104	19	Veszprém	inotai eromu	0	
+1978	Varsád	7067	17	Tolna	varsad	437	Község
+743	Varsány	3178	12	Nógrád	varsany	1737	Község
+354	Vasad	2211	13	Pest	vasad	1813	Község
+3240	Vasalja	9921	18	Vas	vasalja	350	Község
+2337	Vásárosbéc	7926	2	Baranya	vasarosbec	193	Község
+3031	Vásárosfalu	9343	8	Győr-Moson-Sopron	vasarosfalu	2824	Város
+3110	Vásárosmiske	9552	18	Vas	vasarosmiske	367	Község
+1477	Vásárosnamény	4800	15	Szabolcs-Szatmár-Bereg	vasarosnameny	9005	Város
+1478	Vásárosnamény (Gergelyiugornya)	4803	15	Szabolcs-Szatmár-Bereg	gergelyiugornya	0	
+1479	Vásárosnamény (Vitka)	4804	15	Szabolcs-Szatmár-Bereg	vitka	0	
+3176	Vasasszonyfa	9744	18	Vas	vasasszonyfa	380	Község
+2848	Vasboldogasszony	8914	20	Zala	vasboldogasszony	608	Község
+3138	Vasegerszeg	9661	18	Vas	vasegerszeg	305	Község
+3146	Vashosszúfalu	9674	18	Vas	vashosszufalu	410	Község
+3208	Vaskeresztes	9795	18	Vas	vaskeresztes	361	Község
+1854	Vaskút	6521	3	Bács-Kiskun	vaskut	3601	Község
+1390	Vasmegyer	4502	15	Szabolcs-Szatmár-Bereg	vasmegyer	1728	Község
+3173	Vassurány	9741	18	Vas	vassurany	853	Község
+3189	Vasszécseny	9763	18	Vas	vasszecseny	1436	Község
+3179	Vasszilvágy	9747	18	Vas	vasszilvagy	413	Község
+3213	Vasvár	9800	18	Vas	vasvar	4572	Város
+2632	Vaszar	8542	19	Veszprém	vaszar	1649	Község
+2477	Vászoly	8245	19	Veszprém	vaszoly	591	Község
+3180	Vát	9748	18	Vas	vat	709	Község
+880	Vatta	3431	5	Borsod-Abaúj-Zemplén	vatta	975	Község
+2108	Vázsnok	7370	2	Baranya	vazsnok	331	Község
+787	Vécs	3265	10	Heves	vecs	713	község
+361	Vecsés	2220	13	Pest	vecses	20225	Város
+362	Vecsés 2.	2222	13	Pest	vecses	0	
+1709	Végegyháza	5811	4	Békés	vegegyhaza	1552	Község
+2318	Vejti	7838	2	Baranya	vejti	252	Község
+2089	Vékény	7333	2	Baranya	vekeny	371	Község
+1256	Vekerd	4143	9	Hajdú-Bihar	vekerd	141	Község
+3162	Velem	9726	18	Vas	velem	350	Község
+3256	Velemér	9946	18	Vas	velemer	278	Község
+458	Velence	2481	7	Fejér	velence	5417	Város
+459	Velence 2.	2482	7	Fejér	velence	0	
+2344	Velény	7951	2	Baranya	veleny	120	Község
+2266	Véménd	7726	2	Baranya	vemend	1603	Község
+2918	Vének	9062	8	Győr-Moson-Sopron	venek	826	Község
+3182	Vép	9751	18	Vas	vep	3550	Város
+457	Vereb	2477	7	Fejér	vereb	831	Község
+303	Veresegyház	2112	13	Pest	veresegyhaz	15385	Város
+503	Verőce	2621	13	Pest	veroce	3428	Község
+831	Verpelét	3351	10	Heves	verpelet	4031	Nagyközség
+337	Verseg	2174	13	Pest	verseg	1409	Község
+2279	Versend	7752	2	Baranya	versend	943	Község
+2399	Vértesacsa	8089	7	Fejér	vertesacsa	1794	Község
+2395	Vértesboglár	8085	7	Fejér	vertesboglar	241	Község
+620	Vérteskethely	2859	11	Komárom-Esztergom	verteskethely	581	Község
+601	Vértessomló	2823	11	Komárom-Esztergom	vertessomlo	1398	Község
+609	Vértesszőlős	2837	11	Komárom-Esztergom	vertesszolos	525	Község
+605	Vértestolna	2833	11	Komárom-Esztergom	vertestolna	3022	Község
+2737	Vése	8721	14	Somogy	vese	0	
+3036	Veszkény	9352	8	Győr-Moson-Sopron	veszkeny	949	Község
+2460	Veszprém	8200	19	Veszprém	veszprem	58582	Megyei jogú város
+2551	Veszprém (Gyulafirátót)	8412	19	Veszprém	gyulafiratot	0	
+2550	Veszprém (Kádárta)	8411	19	Veszprém	kadarta	0	
+2461	Veszprém 2.	8202	19	Veszprém	veszprem	0	
+2462	Veszprém 6.	8206	19	Veszprém	veszprem	0	
+2480	Veszprémfajsz	8248	19	Veszprém	veszpremfajsz	391	Község
+2574	Veszprémvarsány	8438	19	Veszprém	veszpremvarsany	1047	Község
+1652	Vésztő	5530	4	Békés	veszto	7754	Város
+1570	Vezseny	5093	16	Jász-Nagykun-Szolnok	vezseny	739	Község
+2607	Vid	8484	19	Veszprém	vid	540	Község
+2506	Vigántpetend	8294	19	Veszprém	vigantpetend	416	Község
+1108	Vilmány	3891	5	Borsod-Abaúj-Zemplén	vilmany	1472	Község
+2457	Vilonya	8194	19	Veszprém	vilonya	659	Község
+1177	Vilyvitány	3991	5	Borsod-Abaúj-Zemplén	vilyvitany	286	Község
+3101	Vinár	9534	19	Veszprém	vinar	444	Község
+2532	Vindornyalak	8353	20	Zala	vindornyalak	101	Község
+2534	Vindornyaszőlős	8355	20	Zala	vindornyaszolos	359	Község
+249	Visegrád	2025	13	Pest	visegrad	1773	Város
+250	Visegrád (Gizellatelep)	2026	13	Pest	gizellatelep	0	
+2171	Visnye	7533	14	Somogy	visnye	0	
+788	Visonta	3271	10	Heves	visonta	1116	község
+789	Visonta (Mátrai Erőmű)	3272	10	Heves	matrai eromu	0	
+1155	Viss	3956	5	Borsod-Abaúj-Zemplén	viss	739	Község
+2708	Visz	8681	14	Somogy	visz	1416	Község
+3244	Viszák	9932	18	Vas	viszak	276	Község
+1068	Viszló	3825	5	Borsod-Abaúj-Zemplén	viszlo	17	Község
+799	Visznek	3293	10	Heves	visznek	1189	Község
+3044	Vitnyéd	9371	8	Győr-Moson-Sopron	vitnyed	1292	Község
+2198	Vízvár	7588	14	Somogy	vizvar	0	
+714	Vizslás	3128	12	Nógrád	vizslas	1432	Község
+1107	Vizsoly	3888	5	Borsod-Abaúj-Zemplén	vizsoly	1002	Község
+2515	Vonyarcvashegy	8314	20	Zala	vonyarcvashegy	2275	Nagyközség
+2858	Vöckönd	8931	20	Zala	vockond	530	Község
+3068	Völcsej	9462	8	Győr-Moson-Sopron	volcsej	378	Község
+3093	Vönöck	9516	18	Vas	vonock	801	Község
+2504	Vöröstó	8291	19	Veszprém	vorosto	154	Község
+2729	Vörs	8711	14	Somogy	vors	0	
+710	Zabar	3124	12	Nógrád	zabar	564	Község
+1552	Zagyvarékas	5051	16	Jász-Nagykun-Szolnok	zagyvarekas	3848	Község
+669	Zagyvaszántó	3031	10	Heves	zagyvaszanto	2039	község
+2819	Zajk	8868	20	Zala	zajk	61	Község
+1539	Zajta	4974	15	Szabolcs-Szatmár-Bereg	zajta	420	Község
+3304	Zákány	8852	14	Somogy	zakany	0	
+2808	Zákányfalu	8853	14	Somogy	zakanyfalu	1228	Község
+1916	Zákányszék	6787	6	Csongrád	zakanyszek	2828	Község
+2698	Zala	8660	14	Somogy	zala	211	Község
+2789	Zalabér	8798	20	Zala	zalaber	734	Község
+2891	Zalaboldogfa	8992	20	Zala	zalaboldogfa	1335	Község
+2894	Zalacséb	8996	20	Zala	zalacseb	582	Község
+2841	Zalaegerszeg	8900	20	Zala	zalaegerszeg	59832	Megyei jogú város
+2844	Zalaegerszeg (Andráshida)	8904	20	Zala	andrashida	0	
+3306	Zalaegerszeg (Szanatórium)	8908	20	Zala	szanatorium	0	
+2842	Zalaegerszeg 2.	8902	20	Zala	zalaegerszeg	0	
+2843	Zalaegerszeg 3.	8903	20	Zala	zalaegerszeg	0	
+2529	Zalagyömörő	8349	19	Veszprém	zalagyomoro	477	Község
+2895	Zalaháshágy	8997	20	Zala	zalahashagy	386	Község
+2766	Zalaigrice	8761	20	Zala	zalaigrice	1844	Város
+2859	Zalaistvánd	8932	20	Zala	zalaistvand	102	Község
+2760	Zalakaros	8749	20	Zala	zalakaros	2140	Város
+2761	Zalakomár (Kiskomárom)	8751	20	Zala	kiskomarom	3162	Község
+2762	Zalakomár (Komárváros)	8752	20	Zala	komarvaros	0	
+2533	Zalaköveskút	8354	20	Zala	zalakoveskut	775	Község
+2528	Zalameggyes	8348	19	Veszprém	zalameggyes	56	Község
+2759	Zalamerenye	8747	20	Zala	zalamerenye	763	Község
+2765	Zalasárszeg	8756	20	Zala	zalasarszeg	208	Község
+2755	Zalaszabar	8743	20	Zala	zalaszabar	629	Község
+2600	Zalaszegvár	8476	19	Veszprém	zalaszegvar	158	Község
+2783	Zalaszentgrót	8790	20	Zala	zalaszentgrot	7481	Város
+2786	Zalaszentgrót (Csáford)	8795	20	Zala	csaford	0	
+2785	Zalaszentgrót (Tekenye)	8793	20	Zala	tekenye	0	
+2782	Zalaszentgrót (Zalaudvarnok)	8789	20	Zala	zalaudvarnok	0	
+2801	Zalaszentjakab	8827	20	Zala	zalaszentjakab	0	
+2853	Zalaszentlőrinc	8921	20	Zala	zalaszentlorinc	470	Község
+2768	Zalaszentmárton	8764	20	Zala	zalaszentmarton	530	Község
+2862	Zalaszentmihály	8936	20	Zala	zalaszentmihaly	1066	Község
+2877	Zalaszombatfa	8969	20	Zala	zalaszombatfa	32	Község
+2798	Zalaújlak	8822	20	Zala	zalaujlak	110	Község
+2545	Zalavár	8392	20	Zala	zalavar	987	Község
+2784	Zalavég	8792	20	Zala	zalaveg	424	Község
+1156	Zalkod	3957	5	Borsod-Abaúj-Zemplén	zalkod	277	Község
+2670	Zamárdi	8621	14	Somogy	zamardi	2671	Város
+2391	Zámoly	8081	7	Fejér	zamoly	2344	Község
+2481	Zánka	8251	19	Veszprém	zanka	959	Község
+802	Zaránk	3296	10	Heves	zarank	482	község
+2037	Závod	7182	17	Tolna	zavod	324	Község
+2874	Zebecke	8957	20	Zala	zebecke	641	Község
+508	Zebegény	2627	13	Pest	zebegeny	1261	Község
+1170	Zemplénagárd	3977	5	Borsod-Abaúj-Zemplén	zemplenagard	847	Község
+2262	Zengővárkony	7720	2	Baranya	zengovarkony	135	Község
+2411	Zichyújfalu	8112	7	Fejér	zichyujfalu	968	Község
+2703	Zics	8672	14	Somogy	zics	628	Község
+1055	Ziliz	3794	5	Borsod-Abaúj-Zemplén	ziliz	2508	Község
+2144	Zimány	7471	14	Somogy	zimany	0	
+2559	Zirc	8420	19	Veszprém	zirc	7116	Város
+2239	Zók	7671	2	Baranya	zok	381	Község
+2032	Zomba	7173	17	Tolna	zomba	2278	Község
+1010	Zubogy	3723	5	Borsod-Abaúj-Zemplén	zubogy	610	Község
+1655	Zsadány	5537	4	Békés	zsadany	1760	Község
+1255	Zsáka	4142	9	Hajdú-Bihar	zsaka	1695	Nagyközség
+278	Zsámbék	2072	13	Pest	zsambek	5171	Város
+307	Zsámbok	2116	13	Pest	zsambok	2506	Község
+1824	Zsana	6411	3	Bács-Kiskun	zsana	839	Község
+1527	Zsarolyán	4961	15	Szabolcs-Szatmár-Bereg	zsarolyan	439	Község
+3034	Zsebeháza	9346	8	Győr-Moson-Sopron	zsebehaza	468	Község
+3130	Zsédeny	9635	18	Vas	zsedeny	211	Község
+2150	Zselickisfalud	7477	14	Somogy	zselickisfalud	55	Község
+2147	Zselicszentpál	7474	14	Somogy	zselicszentpal	548	Község
+3191	Zsennye	9766	18	Vas	zsennye	1122	Község
+3076	Zsira	9476	8	Győr-Moson-Sopron	zsira	804	Község
+1918	Zsombó	6792	6	Csongrád	zsombo	3491	Község
+1114	Zsujta	3897	5	Borsod-Abaúj-Zemplén	zsujta	192	Község
+1437	Zsurk	4627	15	Szabolcs-Szatmár-Bereg	zsurk	0	
