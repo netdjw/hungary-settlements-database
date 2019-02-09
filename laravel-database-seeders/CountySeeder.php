@@ -11,7 +11,7 @@ class Country extends Seeder
      */
     public function run()
     {
-        DB::table('countries')->insert([
+        DB::table('counties')->insert([
             ['id' => 1, 'name' => 'Budapest'],
             ['id' => 2, 'name' => 'Baranya'],
             ['id' => 3, 'name' => 'Bács-Kiskun'],

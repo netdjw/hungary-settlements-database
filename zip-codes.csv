@@ -1,4 +1,4 @@
-id	name	zip	country_id	country_name	slug	populity	type
+id	name	zip	county_id	county_name	slug	populity	type
 2419	Aba	8127	7	Fejér	aba	4667	Nagyközség
 2420	Aba (Belsőbáránd)	8128	7	Fejér	belsobarand	0	
 1600	Abádszalók	5241	16	Jász-Nagykun-Szolnok	abadszalok	4673	Város
