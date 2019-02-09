@@ -10,8 +10,8 @@ This is a country and settlement database of Hungary.
 
 # Feel free to use
 
-This collection is absolutly free to use to any projects.
+This collection is absolutely free to use for any projects.
 
 # Updates
 
-If you want to supplement or update the database files fell free to create a pull request or an issue.
+If you want to supplement or update the database files feel free to create a pull request or an issue.
