@@ -1,6 +1,6 @@
 # What is this?
 
-This is a country and settlement database of Hungary.
+This is a county and settlement database of Hungary.
 
 # Formats
 
