@@ -33,7 +33,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 574	Albertirsa	2730	13	Pest	albertirsa	12426	Város
 2397	Alcsútdoboz	8087	7	Fejér	alcsutdoboz	1490	Község
 833	Aldebrő	3353	10	Heves	aldebro	729	község
-1889	Algyő	6750	6	Csongrád	algyo	5356	Nagyközség
+1889	Algyő	6750	6	Csongrád-Csanád	algyo	5356	Nagyközség
 2339	Almamellék	7934	2	Baranya	almamellek	480	Község
 646	Almásfüzitő	2931	11	Komárom-Esztergom	almasfuzito	0	
 1705	Almáskamarás	5747	4	Békés	almaskamaras	998	Község
@@ -53,7 +53,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 3230	Alsóújlak	9842	18	Vas	alsoujlak	650	Község
 1060	Alsóvadász	3811	5	Borsod-Abaúj-Zemplén	alsovadasz	1564	Község
 935	Alsózsolca	3571	5	Borsod-Abaúj-Zemplén	alsozsolca	6003	Város
-1932	Ambrózfalva	6916	6	Csongrád	ambrozfalva	531	Község
+1932	Ambrózfalva	6916	6	Csongrád-Csanád	ambrozfalva	531	Község
 1413	Anarcs	4546	15	Szabolcs-Szatmár-Bereg	anarcs	2043	Község
 2706	Andocs	8675	14	Somogy	andocs	1132	Község
 865	Andornaktálya	3399	10	Heves	andornaktalya	2865	község
@@ -61,7 +61,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 479	Annavölgy	2529	11	Komárom-Esztergom	annavolgy	974	Község
 1417	Apagy	4553	15	Szabolcs-Szatmár-Bereg	apagy	2372	Község
 398	Apaj	2345	13	Pest	apaj	1262	Község
-1937	Apátfalva	6931	6	Csongrád	apatfalva	3233	Község
+1937	Apátfalva	6931	6	Csongrád-Csanád	apatfalva	3233	Község
 670	Apc	3032	10	Heves	apc	2669	község
 394	Áporka	2338	13	Pest	aporka	1162	Község
 1761	Apostag	6088	3	Bács-Kiskun	apostag	2126	Község
@@ -70,10 +70,10 @@ id	name	zip	county_id	county_name	slug	populity	type
 990	Arló	3663	5	Borsod-Abaúj-Zemplén	arlo	4057	Nagyközség
 1001	Arnót	3713	5	Borsod-Abaúj-Zemplén	arnot	2611	Község
 897	Ároktő	3467	5	Borsod-Abaúj-Zemplén	arokto	1238	Község
-1865	Árpádhalom	6623	6	Csongrád	arpadhalom	557	Község
+1865	Árpádhalom	6623	6	Csongrád-Csanád	arpadhalom	557	Község
 2954	Árpás	9132	8	Győr-Moson-Sopron	arpas	264	Község
 1233	Ártánd	4115	9	Hajdú-Bihar	artand	553	Község
-1912	Ásotthalom	6783	6	Csongrád	asotthalom	4103	Község
+1912	Ásotthalom	6783	6	Csongrád-Csanád	asotthalom	4103	Község
 2985	Ásványráró	9177	8	Győr-Moson-Sopron	asvanyraro	1995	Község
 1076	Aszaló	3841	5	Borsod-Abaúj-Zemplén	aszalo	1933	Község
 625	Ászár	2881	11	Komárom-Esztergom	aszar	1784	Község
@@ -126,13 +126,13 @@ id	name	zip	county_id	county_name	slug	populity	type
 628	Bakonyszombathely	2884	11	Komárom-Esztergom	bakonyszombathely	1472	Község
 2648	Bakonyszücs	8572	19	Veszprém	bakonyszucs	370	Község
 2638	Bakonytamási	8555	19	Veszprém	bakonytamasi	731	Község
-1903	Baks	6768	6	Csongrád	baks	2190	Község
+1903	Baks	6768	6	Csongrád-Csanád	baks	2190	Község
 1074	Baktakék	3836	5	Borsod-Abaúj-Zemplén	baktakek	762	Község
 1423	Baktalórántháza	4561	15	Szabolcs-Szatmár-Bereg	baktaloranthaza	3824	Város
 538	Balassagyarmat	2660	12	Nógrád	ipolyszog	16490	Város
 539	Balassagyarmat 1.	2661	12	Nógrád	balassagyarmat	0	
 540	Balassagyarmat 2.	2662	12	Nógrád	balassagyarmat	0	
-1899	Balástya	6764	6	Csongrád	balastya	3554	Község
+1899	Balástya	6764	6	Csongrád-Csanád	balastya	3554	Község
 827	Balaton	3347	10	Heves	balaton	1197	község
 2475	Balatonakali	8243	19	Veszprém	balatonakali	708	Község
 2446	Balatonaliga (Balatonvilágos)	8171	7	Fejér	balatonvilagos	1389	Község
@@ -308,7 +308,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2042	Bonyhád (Majos)	7187	17	Tolna	majos	0	
 2022	Bonyhád 3.	7153	17	Tolna	bonyhad	0	
 2023	Bonyhádvarasd	7158	17	Tolna	bonyhadvarasd	471	Község
-1921	Bordány	6795	6	Csongrád	bordany	3171	Község
+1921	Bordány	6795	6	Csongrád-Csanád	bordany	3171	Község
 3112	Borgáta	9554	18	Vas	borgata	370	Község
 1837	Borota	6445	3	Bács-Kiskun	borota	1457	Község
 986	Borsodbóta	3658	5	Borsod-Abaúj-Zemplén	borsodbota	946	Község
@@ -620,13 +620,13 @@ id	name	zip	county_id	county_name	slug	populity	type
 2389	Csákberény	8073	7	Fejér	csakbereny	1226	Község
 2393	Csákvár	8083	7	Fejér	csakvar	5275	Nagyközség
 2394	Csákvár	8084	7	Fejér	csakvar	0	
-1931	Csanádalberti	6915	6	Csongrád	csanadalberti	477	Község
+1931	Csanádalberti	6915	6	Csongrád-Csanád	csanadalberti	477	Község
 1676	Csanádapáca	5662	4	Békés	csanadapaca	2801	Község
-1929	Csanádpalota	6913	6	Csongrád	csanadpalota	3144	Város
+1929	Csanádpalota	6913	6	Csongrád-Csanád	csanadpalota	3144	Város
 3137	Csánig	9654	18	Vas	csanig	386	Község
 663	Csány	3015	10	Heves	csany	2342	község
 2350	Csányoszró	7964	2	Baranya	csanyoszro	135	Község
-1874	Csanytelek	6647	6	Csongrád	csanytelek	2996	Község
+1874	Csanytelek	6647	6	Csongrád-Csanád	csanytelek	2996	Község
 3045	Csapod	9372	8	Győr-Moson-Sopron	csapod	549	Község
 1667	Csárdaszállás	5621	4	Békés	csardaszallas	497	Község
 1497	Csaroda	4844	15	Szabolcs-Szatmár-Bereg	csaroda	590	Község
@@ -646,7 +646,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 655	Csém	2949	11	Komárom-Esztergom	csem	485	Község
 570	Csemő	2713	13	Pest	csemo	4413	Község
 3190	Csempeszkopács	9764	18	Vas	csempeszkopacs	329	Község
-1900	Csengele	6765	6	Csongrád	csengele	2070	Község
+1900	Csengele	6765	6	Csongrád-Csanád	csengele	2070	Község
 1462	Csengersima	4743	15	Szabolcs-Szatmár-Bereg	csengersima	736	Község
 1473	Csengerújfalu	4764	15	Szabolcs-Szatmár-Bereg	csengerujfalu	854	Község
 1786	Csengőd	6222	3	Bács-Kiskun	csengod	2284	Község
@@ -685,8 +685,8 @@ id	name	zip	county_id	county_name	slug	populity	type
 1779	Csólyospálos	6135	3	Bács-Kiskun	csolyospalos	1723	Község
 328	Csomád	2161	13	Pest	csomad	1347	Község
 2125	Csombárd	7432	14	Somogy	csombard	288	Község
-1871	Csongrád	6640	6	Csongrád	csongrad	18108	Város
-1875	Csongrád (Bokros)	6648	6	Csongrád	bokros	0	
+1871	Csongrád	6640	6	Csongrád-Csanád	csongrad	18108	Város
+1875	Csongrád (Bokros)	6648	6	Csongrád-Csanád	bokros	0
 2373	Csór	8041	7	Fejér	csor	1805	Község
 3010	Csorna	9300	8	Győr-Moson-Sopron	csorna	10726	Város
 3011	Csorna 1.	9301	8	Győr-Moson-Sopron	csorna	0	
@@ -761,8 +761,8 @@ id	name	zip	county_id	county_name	slug	populity	type
 861	Demjén	3395	10	Heves	demjen	660	község
 3043	Dénesfa	9365	8	Győr-Moson-Sopron	denesfa	407	Község
 1246	Derecske	4130	9	Hajdú-Bihar	derecske	9246	Város
-1863	Derekegyház	6621	6	Csongrád	derekegyhaz	1743	Község
-1906	Deszk	6772	6	Csongrád	deszk	3587	Község
+1863	Derekegyház	6621	6	Csongrád-Csanád	derekegyhaz	1743	Község
+1906	Deszk	6772	6	Csongrád-Csanád	deszk	3587	Község
 792	Detk	3275	10	Heves	detk	1199	község
 1645	Dévaványa	5510	4	Békés	devavanya	8381	Város
 2593	Devecser	8460	19	Veszprém	devecser	0	
@@ -773,8 +773,8 @@ id	name	zip	county_id	county_name	slug	populity	type
 2605	Doba	8482	19	Veszprém	doba	504	Község
 1670	Doboz	5624	4	Békés	doboz	4545	Nagyközség
 3308	Dobronhegy	8989	20	Zala	dobronhegy	0	
-1901	Dóc	6766	6	Csongrád	doc	792	Község
-1910	Domaszék	6781	6	Csongrád	domaszek	4742	Község
+1901	Dóc	6766	6	Csongrád-Csanád	doc	792	Község
+1910	Domaszék	6781	6	Csongrád-Csanád	domaszek	4742	Község
 1712	Dombegyház	5836	4	Békés	dombegyhaz	2213	Nagyközség
 1703	Dombiratos	5745	4	Békés	dombiratos	664	Község
 2048	Dombóvár	7200	17	Tolna	dombovar	0	
@@ -886,7 +886,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2961	Enese	9143	8	Győr-Moson-Sopron	enese	1783	Község
 2421	Enying	8130	7	Fejér	enying	7240	Város
 2422	Enying (Balatonbozsok)	8131	7	Fejér	balatonbozsok	0	
-1866	Eperjes	6624	6	Csongrád	eperjes	595	Község
+1866	Eperjes	6624	6	Csongrád-Csanád	eperjes	595	Község
 1449	Eperjeske	4646	15	Szabolcs-Szatmár-Bereg	eperjeske	1236	Község
 2552	Eplény	8413	19	Veszprém	epleny	544	Község
 476	Epöl	2526	11	Komárom-Esztergom	epol	665	Község
@@ -922,7 +922,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 721	Etes	3136	12	Nógrád	etes	1489	Község
 289	Etyek	2091	7	Fejér	etyek	4154	Község
 1335	Fábiánháza	4354	15	Szabolcs-Szatmár-Bereg	fabianhaza	1917	Község
-1867	Fábiánsebestyén	6625	6	Csongrád	fabiansebestyen	2222	Község
+1867	Fábiánsebestyén	6625	6	Csongrád-Csanád	fabiansebestyen	2222	Község
 2010	Fácánkert	7136	17	Tolna	facankert	735	Község
 2007	Fadd	7133	17	Tolna	fadd	4468	Nagyközség
 1092	Fáj	3865	5	Borsod-Abaúj-Zemplén	faj	368	Község
@@ -943,7 +943,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2992	Feketeerdő	9211	8	Győr-Moson-Sopron	feketeerdo	498	Község
 2396	Felcsút	8086	7	Fejér	felcsut	1797	Község
 832	Feldebrő	3352	10	Heves	feldebro	1140	Község
-1872	Felgyő	6645	6	Csongrád	felgyo	1317	Község
+1872	Felgyő	6645	6	Csongrád-Csanád	felgyo	1317	Község
 2947	Felpéc	9122	8	Győr-Moson-Sopron	felpec	890	Község
 1173	Felsőberecki	3985	5	Borsod-Abaúj-Zemplén	felsoberecki	864	Község
 3207	Felsőcsatár	9794	18	Vas	felsocsatar	474	Község
@@ -966,7 +966,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 930	Felsőzsolca	3561	5	Borsod-Abaúj-Zemplén	felsozsolca	7298	Város
 1432	Fényeslitke	4621	15	Szabolcs-Szatmár-Bereg	fenyeslitke	2506	Község
 2570	Fenyőfő	8432	19	Veszprém	fenyofo	136	Község
-1908	Ferencszállás	6774	6	Csongrád	ferencszallas	662	Község
+1908	Ferencszállás	6774	6	Csongrád-Csanád	ferencszallas	662	Község
 3084	Fertőboz	9493	8	Győr-Moson-Sopron	fertoboz	263	Község
 3056	Fertőd	9431	8	Győr-Moson-Sopron	fertod	3430	Város
 3057	Fertőd (Tőzeggyármajor)	9433	8	Győr-Moson-Sopron	tozeggyarmajor	0	
@@ -983,12 +983,12 @@ id	name	zip	county_id	county_name	slug	populity	type
 2684	Fonyód	8640	14	Somogy	fonyod	0	
 2686	Fonyód (Alsóbélatelep)	8644	14	Somogy	alsobelatelep	0	
 2685	Fonyód 2.	8642	14	Somogy	fonyod	5401	Város
-1919	Forráskút	6793	6	Csongrád	forraskut	2158	Község
+1919	Forráskút	6793	6	Csongrád-Csanád	forraskut	2158	Község
 1083	Forró	3849	5	Borsod-Abaúj-Zemplén	forro	2642	Község
 325	Fót	2151	13	Pest	fot	18443	Város
 326	Fót 2.	2152	13	Pest	fot	0	
 327	Fót 3.	2153	13	Pest	fot	0	
-1935	Földeák	6922	6	Csongrád	foldeak	3339	Község
+1935	Földeák	6922	6	Csongrád-Csanád	foldeak	3339	Község
 1272	Földes	4177	9	Hajdú-Bihar	foldes	4254	Nagyközség
 1091	Fulókércs	3864	5	Borsod-Abaúj-Zemplén	fulokercs	379	Község
 1254	Furta	4141	9	Hajdú-Bihar	furta	1241	Község
@@ -1231,8 +1231,8 @@ id	name	zip	county_id	county_name	slug	populity	type
 3040	Himod	9362	8	Győr-Moson-Sopron	himod	709	Község
 2354	Hobol	7971	2	Baranya	hobol	1006	Község
 1324	Hodász	4334	15	Szabolcs-Szatmár-Bereg	hodasz	3464	Nagyközség
-1922	Hódmezővásárhely	6800	6	Csongrád	hodmezovasarhely	47395	Megyei jogú város
-1923	Hódmezővásárhely (Szikáncs)	6806	6	Csongrád	szikancs	0	
+1922	Hódmezővásárhely	6800	6	Csongrád-Csanád	hodmezovasarhely	47395	Megyei jogú város
+1923	Hódmezővásárhely (Szikáncs)	6806	6	Csongrád-Csanád	szikancs	0	
 1185	Hollóháza	3999	5	Borsod-Abaúj-Zemplén	hollohaza	1029	Község
 741	Hollókő	3176	12	Nógrád	holloko	370	Község
 2644	Homokbödöge	8563	19	Veszprém	homokbodoge	767	Község
@@ -1482,7 +1482,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2376	Kincsesbánya	8044	7	Fejér	kincsesbanya	1534	Község
 985	Királd	3657	5	Borsod-Abaúj-Zemplén	kirald	924	Község
 2345	Királyegyháza	7953	2	Baranya	kiralyegyhaza	1050	Község
-1927	Királyhegyes	6911	6	Csongrád	kiralyhegyes	679	Község
+1927	Királyhegyes	6911	6	Csongrád-Csanád	kiralyhegyes	679	Község
 2458	Királyszentistván	8195	19	Veszprém	kiralyszentistvan	501	Község
 2502	Kisapáti	8284	19	Veszprém	kisapati	1025	Község
 430	Kisapostag	2428	7	Fejér	kisapostag	1487	Község
@@ -1543,7 +1543,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2606	Kisszőlős	8483	19	Veszprém	kisszolos	138	Község
 2309	Kistapolca	7823	2	Baranya	kistapolca	210	Község
 321	Kistarcsa	2143	13	Pest	kistarcsa	11083	Város
-1896	Kistelek	6760	6	Csongrád	kistelek	7479	Város
+1896	Kistelek	6760	6	Csongrád-Csanád	kistelek	7479	Város
 924	Kistokaj	3553	5	Borsod-Abaúj-Zemplén	kistokaj	2027	Község
 1979	Kistormás	7068	17	Tolna	kistormas	360	Község
 2290	Kistótfalu	7768	2	Baranya	kistotfalu	351	Község
@@ -1552,8 +1552,8 @@ id	name	zip	county_id	county_name	slug	populity	type
 1430	Kisvárda	4600	15	Szabolcs-Szatmár-Bereg	kisvarda	1035	Város
 1480	Kisvarsány	4811	15	Szabolcs-Szatmár-Bereg	kisvarsany	595	Község
 2038	Kisvejke	7183	17	Tolna	kisvejke	450	Község
-1909	Kiszombor	6775	6	Csongrád	kiszombor	4242	Község
-1907	Klárafalva	6773	6	Csongrád	klarafalva	528	Község
+1909	Kiszombor	6775	6	Csongrád-Csanád	kiszombor	4242	Község
+1907	Klárafalva	6773	6	Csongrád-Csanád	klarafalva	528	Község
 639	Kocs	2898	11	Komárom-Esztergom	kocs	2663	Község
 585	Kocsér	2755	13	Pest	kocser	1934	Község
 2053	Kocsola	7212	17	Tolna	kocsola	1358	Község
@@ -1616,7 +1616,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 1693	Kötegyán	5725	4	Békés	kotegyan	1545	Község
 1558	Kőtelek	5062	16	Jász-Nagykun-Szolnok	kotelek	1697	Község
 2242	Kővágótöttös	7675	2	Baranya	kovagotottos	374	Község
-1928	Kövegy	6912	6	Csongrád	kovegy	448	Község
+1928	Kövegy	6912	6	Csongrád-Csanád	kovegy	448	Község
 2497	Köveskál	8274	19	Veszprém	koveskal	422	Község
 445	Kulcs	2458	7	Fejér	kulcs	2568	Község
 1764	Kunadacs	6097	3	Bács-Kiskun	kunadacs	1623	Község
@@ -1640,7 +1640,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2852	Kustánszeg	8919	20	Zala	kustanszeg	544	Község
 2177	Kutas	7541	14	Somogy	kutas	421	Község
 689	Kutasó	3066	12	Nógrád	kutaso	140	Község
-1892	Kübekháza	6755	6	Csongrád	kubekhaza	1586	Község
+1892	Kübekháza	6755	6	Csongrád-Csanád	kubekhaza	1586	Község
 3099	Külsővat	9532	19	Veszprém	kulsovat	780	Község
 2443	Küngös	8162	19	Veszprém	kungos	572	Község
 487	Lábatlan	2541	11	Komárom-Esztergom	labatlan	5315	Város
@@ -1713,7 +1713,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 1420	Magy	4556	15	Szabolcs-Szatmár-Bereg	magy	1058	Község
 2387	Magyaralmás	8071	7	Fejér	magyaralmas	1565	Község
 1681	Magyarbánhegyes	5667	4	Békés	magyarbanhegyes	2478	Község
-1938	Magyarcsanád	6932	6	Csongrád	magyarcsanad	1559	Község
+1938	Magyarcsanád	6932	6	Csongrád-Csanád	magyarcsanad	1559	Község
 1714	Magyardombegyház	5838	4	Békés	magyardombegyhaz	310	Község
 2088	Magyaregregy	7332	2	Baranya	magyaregregy	790	Község
 2130	Magyaregres	7441	14	Somogy	magyaregres	0	
@@ -1735,8 +1735,8 @@ id	name	zip	county_id	county_name	slug	populity	type
 388	Makád	2322	13	Pest	makad	1271	Község
 1158	Makkoshotyka	3959	5	Borsod-Abaúj-Zemplén	makkoshotyka	959	Község
 863	Maklár	3397	10	Heves	maklar	2460	falu
-1925	Makó	6900	6	Csongrád	mako	25004	Város
-1926	Makó (Rákos)	6903	6	Csongrád	rakos	0	
+1925	Makó	6900	6	Csongrád-Csanád	mako	25004	Város
+1926	Makó (Rákos)	6903	6	Csongrád-Csanád	rakos	0	
 2630	Malomsok	8533	19	Veszprém	malomsok	569	Község
 883	Mályi	3434	5	Borsod-Abaúj-Zemplén	malyi	4415	Község
 975	Mályinka	3645	5	Borsod-Abaúj-Zemplén	malyinka	516	Község
@@ -1763,8 +1763,8 @@ id	name	zip	county_id	county_name	slug	populity	type
 2294	Márok	7774	2	Baranya	marok	493	Község
 2881	Márokföld	8976	20	Zala	marokfold	47	Község
 1507	Márokpapi	4932	15	Szabolcs-Szatmár-Bereg	marokpapi	429	Község
-1934	Maroslele	6921	6	Csongrád	maroslele	2166	Község
-1870	Mártély	6636	6	Csongrád	martely	1292	Község
+1934	Maroslele	6921	6	Csongrád-Csanád	maroslele	2166	Község
+1870	Mártély	6636	6	Csongrád-Csanád	martely	1292	Község
 1627	Martfű	5435	16	Jász-Nagykun-Szolnok	martfu	7033	Város
 448	Martonvásár	2462	7	Fejér	martonvasar	5651	Város
 1028	Martonyi	3755	5	Borsod-Abaúj-Zemplén	martonyi	491	Község
@@ -1852,7 +1852,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 3227	Mikosszéplak	9835	18	Vas	mikosszeplak	367	Község
 2850	Milejszeg	8917	20	Zala	milejszeg	0	
 1520	Milota	4948	15	Szabolcs-Szatmár-Bereg	milota	953	Község
-1868	Mindszent	6630	6	Csongrád	mindszent	7332	Város
+1868	Mindszent	6630	6	Csongrád-Csanád	mindszent	7332	Város
 2500	Mindszentkálla	8282	19	Veszprém	mindszentkalla	306	Község
 1813	Miske	6343	3	Bács-Kiskun	miske	1922	Község
 898	Miskolc	3500	5	Borsod-Abaúj-Zemplén	miskolc	0	
@@ -1903,7 +1903,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2278	Monyoród	7751	2	Baranya	monyorod	203	Község
 2384	Mór	8060	7	Fejér	mor	14760	Város
 2029	Mórágy	7165	17	Tolna	moragy	815	Község
-1911	Mórahalom	6782	6	Csongrád	morahalom	6010	Város
+1911	Mórahalom	6782	6	Csongrád-Csanád	morahalom	6010	Város
 1776	Móricgát	6132	3	Bács-Kiskun	moricgat	505	Község
 2953	Mórichida	9131	8	Győr-Moson-Sopron	morichida	854	Község
 2067	Mosdós	7257	14	Somogy	mosdos	0	
@@ -1946,7 +1946,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 1485	Nagydobos	4823	15	Szabolcs-Szatmár-Bereg	nagydobos	2177	Község
 1964	Nagydorog	7044	17	Tolna	nagydorog	2845	Nagyközség
 1336	Nagyecsed	4355	15	Szabolcs-Szatmár-Bereg	nagyecsed	6904	Város
-1933	Nagyér	6917	6	Csongrád	nagyer	594	Község
+1933	Nagyér	6917	6	Csongrád-Csanád	nagyer	594	Község
 2554	Nagyesztergár	8415	19	Veszprém	nagyesztergar	1248	Község
 794	Nagyfüged	3282	10	Heves	nagyfuged	1875	község 
 3141	Nagygeresd	9664	18	Vas	nagygeresd	0	
@@ -1981,11 +1981,11 @@ id	name	zip	county_id	county_name	slug	populity	type
 583	Nagykőrös 1.	2751	13	Pest	nagykoros	0	
 584	Nagykőrös 2.	2752	13	Pest	nagykoros	0	
 1561	Nagykörű	5065	16	Jász-Nagykun-Szolnok	nagykoru	1695	Község
-1939	Nagylak	6933	6	Csongrád	nagylak	545	Község
+1939	Nagylak	6933	6	Csongrád-Csanád	nagylak	545	Község
 740	Nagylóc	3175	12	Nógrád	nagyloc	1623	Község
 435	Nagylók	2435	7	Fejér	nagylok	1128	Község
 3078	Nagylózs	9482	8	Győr-Moson-Sopron	nagylozs	938	Község
-1864	Nagymágocs	6622	6	Csongrád	nagymagocs	3210	Nagyközség
+1864	Nagymágocs	6622	6	Csongrád-Csanád	nagymagocs	3210	Nagyközség
 2104	Nagymányok	7355	17	Tolna	nagymanyok	2459	Város
 507	Nagymaros	2626	13	Pest	nagymaros	4820	Város
 3234	Nagymizdó	9913	18	Vas	nagymizdo	100	Község
@@ -2009,7 +2009,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2643	Nagytevel	8562	19	Veszprém	nagytevel	563	Község
 3224	Nagytilaj	9832	18	Vas	nagytilaj	150	Község
 2301	Nagytótfalu	7800	2	Baranya	nagytotfalu	402	Község
-1862	Nagytőke	6612	6	Csongrád	nagytoke	466	Község
+1862	Nagytőke	6612	6	Csongrád-Csanád	nagytoke	466	Község
 837	Nagyút	3357	10	Heves	nagyut	779	község
 1481	Nagyvarsány	4812	15	Szabolcs-Szatmár-Bereg	nagyvarsany	1299	Község
 2329	Nagyváty	7912	2	Baranya	nagyvaty	657	Község
@@ -2133,7 +2133,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2013	Őcsény	7143	17	Tolna	ocseny	2592	Község
 2251	Ófalu	7695	2	Baranya	ofalu	1664	Község
 1422	Ófehértó	4558	15	Szabolcs-Szatmár-Bereg	ofeherto	2647	Község
-1936	Óföldeák	6923	6	Csongrád	ofoldeak	497	Község
+1936	Óföldeák	6923	6	Csongrád-Csanád	ofoldeak	497	Község
 2523	Óhíd	8342	20	Zala	ohid	619	Község
 1653	Okány	5534	4	Békés	okany	2791	Község
 2347	Okorág	7957	2	Baranya	okorag	191	Község
@@ -2148,7 +2148,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 931	Onga	3562	5	Borsod-Abaúj-Zemplén	onga	4919	Nagyközség
 922	Ónod	3551	5	Borsod-Abaúj-Zemplén	onod	2563	Község
 1483	Ópályi	4821	15	Szabolcs-Szatmár-Bereg	opalyi	3077	Község
-1902	Ópusztaszer	6767	6	Csongrád	opusztaszer	2197	Község
+1902	Ópusztaszer	6767	6	Csongrád-Csanád	opusztaszer	2197	Község
 1326	Őr	4336	15	Szabolcs-Szatmár-Bereg	or	1507	Község
 329	Őrbottyán	2162	13	Pest	orbottyan	0	
 2680	Ordacsehi	8635	14	Somogy	ordacsehi	0	
@@ -2202,7 +2202,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2474	Örvényes	8242	19	Veszprém	orvenyes	365	Község
 2454	Öskü	8191	19	Veszprém	osku	2322	Község
 2968	Öttevény	9153	8	Győr-Moson-Sopron	otteveny	2868	Község
-1913	Öttömös	6784	6	Csongrád	ottomos	809	Község
+1913	Öttömös	6784	6	Csongrád-Csanád	ottomos	809	Község
 2155	Ötvöskónyi	7511	14	Somogy	otvoskonyi	0	
 1162	Pácin	3964	5	Borsod-Abaúj-Zemplén	pacin	1533	Község
 3219	Pácsony	9823	18	Vas	pacsony	295	Község
@@ -2346,7 +2346,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 3077	Pinnye	9481	8	Győr-Moson-Sopron	pinnye	363	Község
 1345	Piricse	4375	15	Szabolcs-Szatmár-Bereg	piricse	1912	Község
 1827	Pirtó	6414	3	Bács-Kiskun	pirto	1007	Község
-1930	Pitvaros	6914	6	Csongrád	pitvaros	1564	Község
+1930	Pitvaros	6914	6	Csongrád-Csanád	pitvaros	1564	Község
 2283	Pócsa	7756	2	Baranya	pocsa	473	Község
 1242	Pocsaj	4125	9	Hajdú-Bihar	pocsaj	2740	Nagyközség
 244	Pócsmegyer	2017	13	Pest	pocsmegyer	1810	Község
@@ -2378,7 +2378,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 1719	Pusztaföldvár	5919	4	Békés	pusztafoldvar	1931	Község
 1959	Pusztahencse	7038	17	Tolna	pusztahencse	1068	Község
 2838	Pusztamagyaród	8895	20	Zala	pusztamagyarod	605	Község
-1914	Pusztamérges	6785	6	Csongrád	pusztamerges	1216	Község
+1914	Pusztamérges	6785	6	Csongrád-Csanád	pusztamerges	1216	Község
 2589	Pusztamiske	8455	19	Veszprém	pusztamiske	443	Község
 1579	Pusztamonostor	5125	16	Jász-Nagykun-Szolnok	pusztamonostor	1669	Község
 1679	Pusztaottlaka	5665	4	Békés	pusztaottlaka	416	Község
@@ -2386,7 +2386,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 463	Pusztaszabolcs	2490	7	Fejér	pusztaszabolcs	6419	Város
 2669	Pusztaszemes	8619	14	Somogy	pusztaszemes	0	
 2839	Pusztaszentlászló	8896	20	Zala	pusztaszentlaszlo	660	Község
-1904	Pusztaszer	6769	6	Csongrád	pusztaszer	1518	Község
+1904	Pusztaszer	6769	6	Csongrád-Csanád	pusztaszer	1518	Község
 413	Pusztavacs	2378	13	Pest	pusztavacs	1415	Község
 2386	Pusztavám	8066	7	Fejér	pusztavam	2579	Község
 260	Pusztazámor	2039	13	Pest	pusztazamor	1146	Község
@@ -2457,10 +2457,10 @@ id	name	zip	county_id	county_name	slug	populity	type
 1536	Rozsály	4971	15	Szabolcs-Szatmár-Bereg	rozsaly	810	Község
 671	Rózsaszentmárton	3033	10	Heves	rozsaszentmarton	2053	község
 3260	Rönök	9954	18	Vas	ronok	444	Község
-1895	Röszke	6758	6	Csongrád	roszke	3392	Község
+1895	Röszke	6758	6	Csongrád-Csanád	roszke	3392	Község
 1017	Rudabánya	3733	5	Borsod-Abaúj-Zemplén	rudabanya	2917	Város
 1021	Rudolftelep	3742	5	Borsod-Abaúj-Zemplén	rudolftelep	790	Község
-1915	Ruzsa	6786	6	Csongrád	ruzsa	2666	Község
+1915	Ruzsa	6786	6	Csongrád-Csanád	ruzsa	2666	Község
 736	Ságújfalu	3162	12	Nógrád	sagujfalu	1085	Község
 2694	Ságvár	8654	14	Somogy	sagvar	321	Község
 1053	Sajóbábony	3792	5	Borsod-Abaúj-Zemplén	sajobabony	2961	Város
@@ -2493,7 +2493,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 878	Sály	3425	5	Borsod-Abaúj-Zemplén	saly	1928	Község
 697	Sámsonháza	3074	12	Nógrád	samsonhaza	272	Község
 2799	Sand	8824	20	Zala	sand	437	Község
-1897	Sándorfalva	6762	6	Csongrád	sandorfalva	8237	Város
+1897	Sándorfalva	6762	6	Csongrád-Csanád	sandorfalva	8237	Város
 2152	Sántos	7479	14	Somogy	santos	571	Község
 1271	Sáp	4176	9	Hajdú-Bihar	sap	1056	Község
 1303	Sáránd	4272	9	Hajdú-Bihar	sarand	2423	Község
@@ -2681,7 +2681,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 1517	Szatmárcseke	4945	15	Szabolcs-Szatmár-Bereg	szatmarcseke	1553	Község
 534	Szátok	2656	12	Nógrád	szatok	564	Község
 3250	Szatta	9938	18	Vas	szatta	297	Község
-1898	Szatymaz	6763	6	Csongrád	szatymaz	4688	Község
+1898	Szatymaz	6763	6	Csongrád-Csanád	szatymaz	4688	Község
 2304	Szava	7813	2	Baranya	szava	359	Község
 436	Százhalombatta	2440	13	Pest	szazhalombatta	18533	Város
 437	Százhalombatta 2.	2442	13	Pest	szazhalombatta	0	
@@ -2691,27 +2691,27 @@ id	name	zip	county_id	county_name	slug	populity	type
 739	Szécsény	3170	12	Nógrád	szecseny	6221	Város
 720	Szécsényfelfalu	3135	12	Nógrád	szecsenyfelfalu	470	Község
 1970	Szedres	7056	17	Tolna	szedres	2364	Község
-1876	Szeged	6700	6	Csongrád	szeged	0	
-1879	Szeged	6720	6	Csongrád	szeged	165646	Megyei jogú város
-1880	Szeged	6721	6	Csongrád	szeged	0	
-1881	Szeged	6722	6	Csongrád	szeged	0	
-1882	Szeged	6723	6	Csongrád	szeged	0	
-1883	Szeged	6724	6	Csongrád	szeged	0	
-1884	Szeged	6725	6	Csongrád	szeged	0	
-1885	Szeged	6726	6	Csongrád	szeged	0	
-1886	Szeged	6727	6	Csongrád	szeged	0	
-1887	Szeged	6728	6	Csongrád	szeged	0	
-1888	Szeged	6729	6	Csongrád	szeged	0	
-1894	Szeged (Gyálarét)	6757	6	Csongrád	gyalaret	0	
-1917	Szeged (Kiskundorozsma)	6791	6	Csongrád	kiskundorozsma	0	
-1877	Szeged (Szentmihály)	6710	6	Csongrád	szentmihaly	0	
-1905	Szeged (Szőreg)	6771	6	Csongrád	szoreg	0	
-1890	Szeged (Tápé)	6753	6	Csongrád	tape	0	
-1878	Szeged Tanposta	6713	6	Csongrád	szeged-tanposta	0	
+1876	Szeged	6700	6	Csongrád-Csanád	szeged	0	
+1879	Szeged	6720	6	Csongrád-Csanád	szeged	165646	Megyei jogú város
+1880	Szeged	6721	6	Csongrád-Csanád	szeged	0	
+1881	Szeged	6722	6	Csongrád-Csanád	szeged	0	
+1882	Szeged	6723	6	Csongrád-Csanád	szeged	0	
+1883	Szeged	6724	6	Csongrád-Csanád	szeged	0	
+1884	Szeged	6725	6	Csongrád-Csanád	szeged	0	
+1885	Szeged	6726	6	Csongrád-Csanád	szeged	0	
+1886	Szeged	6727	6	Csongrád-Csanád	szeged	0	
+1887	Szeged	6728	6	Csongrád-Csanád	szeged	0	
+1888	Szeged	6729	6	Csongrád-Csanád	szeged	0	
+1894	Szeged (Gyálarét)	6757	6	Csongrád-Csanád	gyalaret	0	
+1917	Szeged (Kiskundorozsma)	6791	6	Csongrád-Csanád	kiskundorozsma	0	
+1877	Szeged (Szentmihály)	6710	6	Csongrád-Csanád	szentmihaly	0	
+1905	Szeged (Szőreg)	6771	6	Csongrád-Csanád	szoreg	0	
+1890	Szeged (Tápé)	6753	6	Csongrád-Csanád	tape	0	
+1878	Szeged Tanposta	6713	6	Csongrád-Csanád	szeged-tanposta	0	
 2745	Szegerdő	8732	14	Somogy	szegerdo	94	Község
 1648	Szeghalom	5520	4	Békés	szeghalom	0	
 1129	Szegilong	3918	5	Borsod-Abaúj-Zemplén	szegilong	347	Község
-1869	Szegvár	6635	6	Csongrád	szegvar	4904	Nagyközség
+1869	Szegvár	6635	6	Csongrád-Csanád	szegvar	4904	Nagyközség
 1404	Székely	4534	15	Szabolcs-Szatmár-Bereg	szekely	1087	Község
 2273	Székelyszabar	7737	2	Baranya	szekelyszabar	665	Község
 2365	Székesfehérvár	8000	7	Fejér	szekesfehervar	101707	Megyei jogú város
@@ -2722,7 +2722,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2369	Székesfehérvár 6.	8006	7	Fejér	szekesfehervar	0	
 2370	Székesfehérvár 7.	8007	7	Fejér	szekesfehervar	0	
 2371	Székesfehérvár 8.	8008	7	Fejér	szekesfehervar	0	
-1924	Székkutas	6821	6	Csongrád	szekkutas	2404	Község
+1924	Székkutas	6821	6	Csongrád-Csanád	szekkutas	2404	Község
 1998	Szekszárd	7100	17	Tolna	szekszard	34818	Megyei jogú város
 1999	Szekszárd 1.	7101	17	Tolna	szekszard	0	
 2000	Szekszárd 2.	7102	17	Tolna	szekszard	0	
@@ -2741,7 +2741,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 2332	Szentegát	7915	2	Baranya	szentegat	608	Község
 236	Szentendre	2000	13	Pest	szentendre	25876	Város
 237	Szentendre 1.	2001	13	Pest	szentendre	0	
-1861	Szentes	6600	6	Csongrád	szentes	29800	Város
+1861	Szentes	6600	6	Csongrád-Csanád	szentes	29800	Város
 2580	Szentgál	8444	19	Veszprém	szentgal	2923	Község
 2143	Szentgáloskér	7465	14	Somogy	szentgalosker	452	Község
 3264	Szentgotthárd	9970	18	Vas	szentgotthard	8891	Város
@@ -2987,7 +2987,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 1608	Tiszaszentimre	5322	16	Jász-Nagykun-Szolnok	tiszaszentimre	2307	Község
 1609	Tiszaszentimre (Újszentgyörgy)	5323	16	Jász-Nagykun-Szolnok	ujszentgyorgy	0	
 1438	Tiszaszentmárton	4628	15	Szabolcs-Szatmár-Bereg	tiszaszentmarton	1281	Község
-1893	Tiszasziget	6756	6	Csongrád	tiszasziget	1779	Község
+1893	Tiszasziget	6756	6	Csongrád-Csanád	tiszasziget	1779	Község
 1602	Tiszaszőlős	5244	16	Jász-Nagykun-Szolnok	tiszaszolos	1655	Község
 1137	Tiszatardos	3928	5	Borsod-Abaúj-Zemplén	tiszatardos	269	Község
 948	Tiszatarján	3589	5	Borsod-Abaúj-Zemplén	tiszatarjan	1425	Község
@@ -3042,7 +3042,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 383	Tököl	2316	13	Pest	tokol	10095	Város
 2929	Töltéstava	9086	8	Győr-Moson-Sopron	toltestava	2176	Község
 3170	Tömörd	9738	18	Vas	tomord	279	Község
-1873	Tömörkény	6646	6	Csongrád	tomorkeny	1869	Község
+1873	Tömörkény	6646	6	Csongrád-Csanád	tomorkeny	1869	Község
 265	Törökbálint	2045	13	Pest	torokbalint	13047	Város
 266	Törökbálint 2.	2046	13	Pest	torokbalint	0	
 1590	Törökszentmiklós	5200	16	Jász-Nagykun-Szolnok	torokszentmiklos	22515	Város
@@ -3078,7 +3078,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 3286	Újsolt	6321	3	Bács-Kiskun	ujsolt	0	
 1695	Újszalonta	5727	4	Békés	ujszalonta	125	Község
 1553	Újszász	5052	16	Jász-Nagykun-Szolnok	ujszasz	6679	Város
-1891	Újszentiván	6754	6	Csongrád	ujszentivan	1665	Község
+1891	Újszentiván	6754	6	Csongrád-Csanád	ujszentivan	1665	Község
 1212	Újszentmargita	4065	9	Hajdú-Bihar	ujszentmargita	1566	Község
 591	Újszilvás	2768	13	Pest	ujszilvas	2778	Község
 1810	Újtelek	6337	3	Bács-Kiskun	ujtelek	435	Község
@@ -3097,7 +3097,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 1522	Uszka	4952	15	Szabolcs-Szatmár-Bereg	uszka	386	Község
 1805	Uszód	6332	3	Bács-Kiskun	uszod	1103	Község
 2520	Uzsa	8321	19	Veszprém	uzsa	362	Község
-1920	Üllés	6794	6	Csongrád	ulles	3280	Község
+1920	Üllés	6794	6	Csongrád-Csanád	ulles	3280	Község
 363	Üllő	2225	13	Pest	ullo	10919	Város
 294	Üröm	2096	13	Pest	urom	6810	Község
 492	Vác	2600	13	Pest	vac	35096	Város
@@ -3243,7 +3243,7 @@ id	name	zip	county_id	county_name	slug	populity	type
 1539	Zajta	4974	15	Szabolcs-Szatmár-Bereg	zajta	420	Község
 3304	Zákány	8852	14	Somogy	zakany	0	
 2808	Zákányfalu	8853	14	Somogy	zakanyfalu	1228	Község
-1916	Zákányszék	6787	6	Csongrád	zakanyszek	2828	Község
+1916	Zákányszék	6787	6	Csongrád-Csanád	zakanyszek	2828	Község
 2698	Zala	8660	14	Somogy	zala	211	Község
 2789	Zalabér	8798	20	Zala	zalaber	734	Község
 2891	Zalaboldogfa	8992	20	Zala	zalaboldogfa	1335	Község
@@ -3308,6 +3308,6 @@ id	name	zip	county_id	county_name	slug	populity	type
 2147	Zselicszentpál	7474	14	Somogy	zselicszentpal	548	Község
 3191	Zsennye	9766	18	Vas	zsennye	1122	Község
 3076	Zsira	9476	8	Győr-Moson-Sopron	zsira	804	Község
-1918	Zsombó	6792	6	Csongrád	zsombo	3491	Község
+1918	Zsombó	6792	6	Csongrád-Csanád	zsombo	3491	Község
 1114	Zsujta	3897	5	Borsod-Abaúj-Zemplén	zsujta	192	Község
 1437	Zsurk	4627	15	Szabolcs-Szatmár-Bereg	zsurk	0	
