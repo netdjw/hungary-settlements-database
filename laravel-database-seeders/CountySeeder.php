@@ -17,7 +17,7 @@ class Country extends Seeder
             ['id' => 3, 'name' => 'Bács-Kiskun'],
             ['id' => 4, 'name' => 'Békés'],
             ['id' => 5, 'name' => 'Borsod-Abaúj-Zemplén'],
-            ['id' => 6, 'name' => 'Csongrád'],
+            ['id' => 6, 'name' => 'Csongrád-Csanád'],
             ['id' => 7, 'name' => 'Fejér'],
             ['id' => 8, 'name' => 'Győr-Moson-Sopron'],
             ['id' => 9, 'name' => 'Hajdú-Bihar'],
